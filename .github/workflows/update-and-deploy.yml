@@ -11,9 +11,7 @@ on:
   workflow_dispatch: # "Run workflow" button for manual runs
 
 permissions:
-  contents: write # to commit the refreshed data files
-  pages: write # to publish to GitHub Pages
-  id-token: write # required by the Pages deploy action
+  contents: write # to commit the refreshed data and push the gh-pages branch
 
 # Never let two runs deploy at once, but do not cancel a run mid-flight either.
 concurrency:
@@ -75,18 +73,16 @@ jobs:
           BASE_PATH: ${{ endsWith(github.repository, format('{0}.github.io', github.repository_owner)) && '' || format('/{0}', github.event.repository.name) }}
         run: npm run build
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: build
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      # Push the built files straight to the gh-pages branch, which Pages serves.
+      # This deliberately avoids actions/deploy-pages: a branch can also be published
+      # by building locally and pushing, so the site is never trapped behind an
+      # Actions outage the way it was on 2026-08-06.
+      - name: Publish the site to the gh-pages branch
+        run: |
+          cd build
+          git init -qb gh-pages
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -qm "Publish site ($(TZ=Asia/Colombo date '+%Y-%m-%d %H:%M %Z'))"
+          git push -qf "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" gh-pages
