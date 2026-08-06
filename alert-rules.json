@@ -10,6 +10,16 @@
       "startDate": "2026-08-07",
       "endDate": "2026-09-06",
       "note": "buy"
+    },
+    {
+      "id": "vfin-below-100",
+      "symbol": "VFIN.N0000",
+      "name": "VALLIBEL FINANCE PLC",
+      "threshold": 100,
+      "direction": "below",
+      "startDate": "2026-08-07",
+      "endDate": "2026-09-06",
+      "note": ""
     }
   ]
 }
