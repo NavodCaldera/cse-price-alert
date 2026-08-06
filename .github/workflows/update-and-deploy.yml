@@ -37,7 +37,7 @@ jobs:
       # Email is secondary to keeping the site fresh, so a mail failure annotates the
       # run without blocking the deploy. The state file is not stamped on failure,
       # so the next run retries the same alert.
-      - name: Check thresholds and send email
+      - name: Check thresholds and notify
         continue-on-error: true
         env:
           SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
@@ -45,6 +45,11 @@ jobs:
           SMTP_USER: ${{ secrets.SMTP_USER }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+          # Android push. The topic is a secret because anyone who knows it can
+          # read your alerts and send you notifications.
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER || 'https://ntfy.sh' }}
+          SITE_URL: ${{ vars.SITE_URL }}
         run: python scripts/check_alerts.py
 
       - name: Commit refreshed data

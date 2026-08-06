@@ -15,6 +15,8 @@ import sys
 from datetime import datetime, timedelta, timezone
 from email.message import EmailMessage
 
+import requests
+
 COLOMBO = timezone(timedelta(hours=5, minutes=30))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -167,20 +169,73 @@ def build_email(due, now):
     return subject, text, html
 
 
+def build_push(due):
+    """A phone notification has to read at a glance, so it is far terser than the email."""
+    if len(due) == 1:
+        rule, quote, _ = due[0]
+        title = f"{rule['symbol']} at LKR {quote['price']:,.2f}"
+    else:
+        title = f"{len(due)} CSE thresholds triggered"
+
+    lines = []
+    for rule, quote, _ in due:
+        arrow = "<=" if rule.get("direction") == "below" else ">="
+        line = (
+            f"{rule['symbol']}  LKR {quote['price']:,.2f}  "
+            f"({arrow} {rule['threshold']:,.2f}, {quote['changePct']:+.2f}%)"
+        )
+        if rule.get("note"):
+            line += f"  - {rule['note']}"
+        lines.append(line)
+
+    return title, "\n".join(lines)
+
+
+def send_push(due, dry_run):
+    """Push to an ntfy topic. Returns None when the channel is not configured."""
+    topic = os.environ.get("NTFY_TOPIC", "").strip()
+    if not topic:
+        return None
+
+    server = os.environ.get("NTFY_SERVER", "https://ntfy.sh").rstrip("/")
+    title, body = build_push(due)
+
+    # ntfy carries metadata in headers, which must stay ASCII - emoji go in Tags.
+    headers = {
+        "Title": title,
+        "Priority": "high",
+        "Tags": "chart_with_downwards_trend",
+    }
+    click = os.environ.get("SITE_URL", "").strip()
+    if click:
+        headers["Click"] = click
+
+    if dry_run:
+        print(f"\n--- push not sent (--dry-run) ---\n{title}\n{body}\n--- end ---\n")
+        return True
+
+    response = requests.post(
+        f"{server}/{topic}", data=body.encode("utf-8"), headers=headers, timeout=30
+    )
+    response.raise_for_status()
+    print(f"Pushed to ntfy topic: {title}")
+    return True
+
+
 def send_email(subject, text, html, dry_run):
+    """Send the alert email. Returns None when the channel is not configured."""
     host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
     port = int(os.environ.get("SMTP_PORT", "465"))
     user = os.environ.get("SMTP_USER", "")
     password = os.environ.get("SMTP_PASSWORD", "")
     recipients = [r.strip() for r in os.environ.get("ALERT_EMAIL_TO", "").split(",") if r.strip()]
 
-    if dry_run or not (user and password and recipients):
-        reason = "--dry-run" if dry_run else "SMTP_USER / SMTP_PASSWORD / ALERT_EMAIL_TO not set"
-        print(f"\n--- email not sent ({reason}) ---")
-        print(f"Subject: {subject}\n")
-        print(text)
-        print("--- end ---\n")
-        return dry_run  # a dry run is a success; missing config is not
+    if not (user and password and recipients):
+        return None
+
+    if dry_run:
+        print(f"\n--- email not sent (--dry-run) ---\nSubject: {subject}\n\n{text}\n--- end ---\n")
+        return True
 
     message = EmailMessage()
     message["Subject"] = subject
@@ -223,11 +278,33 @@ def main():
     sent = True
     if due:
         subject, text, html = build_email(due, now)
-        try:
-            sent = send_email(subject, text, html, dry_run)
-        except Exception as error:  # noqa: BLE001 - never lose the price update over email
-            print(f"::error::Could not send the alert email: {error}")
+
+        # Each channel is tried independently: a broken mail server must not stop the
+        # phone notification, and vice versa.
+        channels = {
+            "email": lambda: send_email(subject, text, html, dry_run),
+            "push": lambda: send_push(due, dry_run),
+        }
+
+        results = {}
+        for name, send in channels.items():
+            try:
+                results[name] = send()
+            except Exception as error:  # noqa: BLE001 - never lose the price update over a notifier
+                print(f"::error::Could not send the {name} alert: {error}")
+                results[name] = False
+
+        configured = {name: ok for name, ok in results.items() if ok is not None}
+        if not configured:
+            print("::warning::No notification channel configured - set SMTP_* or NTFY_TOPIC.")
+            print(f"\nSubject: {subject}\n\n{text}\n")
             sent = False
+        else:
+            # One successful channel means you were told, so the cooldown may start.
+            sent = any(configured.values())
+            failed = [name for name, ok in configured.items() if not ok]
+            if failed:
+                print(f"::warning::Delivered, but these channels failed: {', '.join(failed)}")
 
         if sent:
             mark_notified(next_state, due, now)

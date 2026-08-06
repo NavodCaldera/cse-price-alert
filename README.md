@@ -97,7 +97,25 @@ email uses a second copy of the rules committed to the repo as `alert-rules.json
 Not on Gmail? Set the repository *variables* `SMTP_HOST` and `SMTP_PORT` to your
 provider's SSL details; everything else is the same.
 
-**How often it mails you.** A rule emails when it *starts* being triggered, not on
+### Android notifications
+
+Alerts can also arrive as a phone notification through [ntfy](https://ntfy.sh),
+alongside or instead of email.
+
+1. Install **ntfy** from the Play Store.
+2. Tap **+**, subscribe to the topic stored in the `NTFY_TOPIC` secret.
+3. That's it — no account, no keys.
+
+The topic name is the only thing protecting the channel, so treat it like a password:
+anyone who knows it can read your alerts and send you notifications. Use a long random
+one. Set the `SITE_URL` repository variable to make tapping a notification open the
+dashboard.
+
+Email and push are independent. Whichever of `SMTP_*` / `NTFY_TOPIC` you configure is
+used, a failure in one never blocks the other, and one successful channel is enough to
+start the cooldown.
+
+**How often it notifies you.** A rule emails when it *starts* being triggered, not on
 every run — otherwise a price sitting below your threshold would mail you every 15
 minutes. While it stays triggered you get one reminder per `cooldownHours`, currently
 168 (weekly). If the price recovers and crosses again later, that counts as a fresh
