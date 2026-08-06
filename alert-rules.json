@@ -1,5 +1,5 @@
 {
-  "cooldownHours": 24,
+  "cooldownHours": 168,
   "rules": [
     {
       "id": "lfin-below-160",

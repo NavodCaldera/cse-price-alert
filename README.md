@@ -99,9 +99,13 @@ provider's SSL details; everything else is the same.
 
 **How often it mails you.** A rule emails when it *starts* being triggered, not on
 every run — otherwise a price sitting below your threshold would mail you every 15
-minutes. While it stays triggered you get one reminder per `cooldownHours` (default
-24). If the price recovers and crosses again later, that counts as a fresh alert.
-State lives in `data/alert-state.json`, committed alongside the prices.
+minutes. While it stays triggered you get one reminder per `cooldownHours`, currently
+168 (weekly). If the price recovers and crosses again later, that counts as a fresh
+alert and mails you straight away, regardless of the cooldown. State lives in
+`data/alert-state.json`, committed alongside the prices.
+
+Useful values for `cooldownHours`: `24` daily, `168` weekly, `9999` to alert only on
+genuine crossings and never repeat.
 
 Preview an email without sending anything:
 
