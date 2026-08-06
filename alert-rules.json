@@ -2,14 +2,14 @@
   "cooldownHours": 24,
   "rules": [
     {
-      "id": "example-lfin",
+      "id": "lfin-below-160",
       "symbol": "LFIN.N0000",
       "name": "LB FINANCE PLC",
-      "threshold": 150,
+      "threshold": 160,
       "direction": "below",
-      "startDate": "2026-08-01",
-      "endDate": "2026-12-31",
-      "note": "Example rule - replace these with your own."
+      "startDate": "2026-08-07",
+      "endDate": "2026-09-06",
+      "note": "buy"
     }
   ]
 }
