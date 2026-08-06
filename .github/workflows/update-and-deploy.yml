@@ -1,0 +1,92 @@
+name: Update prices and deploy
+
+on:
+  schedule:
+    # GitHub cron is always UTC. Sri Lanka is UTC+5:30 with no daylight saving,
+    # so trading hours 09:30-14:30 SLT are 04:00-09:00 UTC.
+    - cron: '*/15 4-8 * * 1-5' # every 15 min, 09:30-14:15 SLT, Mon-Fri
+    - cron: '0 9 * * 1-5' # the 14:30 SLT close
+  push:
+    branches: [main] # redeploy when the site code changes
+  workflow_dispatch: # "Run workflow" button for manual runs
+
+permissions:
+  contents: write # to commit the refreshed data files
+  pages: write # to publish to GitHub Pages
+  id-token: write # required by the Pages deploy action
+
+# Never let two runs deploy at once, but do not cancel a run mid-flight either.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Fetch prices from the CSE
+        run: python scripts/fetch_prices.py
+
+      # Email is secondary to keeping the site fresh, so a mail failure annotates the
+      # run without blocking the deploy. The state file is not stamped on failure,
+      # so the next run retries the same alert.
+      - name: Check thresholds and send email
+        continue-on-error: true
+        env:
+          SMTP_HOST: ${{ vars.SMTP_HOST || 'smtp.gmail.com' }}
+          SMTP_PORT: ${{ vars.SMTP_PORT || '465' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          ALERT_EMAIL_TO: ${{ secrets.ALERT_EMAIL_TO }}
+        run: python scripts/check_alerts.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          # Prices are unchanged outside trading hours; an empty commit would fail.
+          if git diff --staged --quiet; then
+            echo "No price changes to commit."
+          else
+            git commit -m "Update CSE prices ($(TZ=Asia/Colombo date '+%Y-%m-%d %H:%M %Z'))"
+            git push
+          fi
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+
+      - run: npm ci
+
+      - name: Build the site
+        env:
+          # A project site lives at /<repo>; a <user>.github.io site lives at the root.
+          BASE_PATH: ${{ endsWith(github.repository, format('{0}.github.io', github.repository_owner)) && '' || format('/{0}', github.event.repository.name) }}
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: build
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

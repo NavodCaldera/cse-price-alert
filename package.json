@@ -1,0 +1,22 @@
+{
+	"name": "cse-price-alert",
+	"private": true,
+	"version": "0.0.1",
+	"type": "module",
+	"scripts": {
+		"sync:data": "node scripts/sync-data.mjs",
+		"predev": "npm run sync:data",
+		"dev": "vite dev",
+		"prebuild": "npm run sync:data",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/kit": "^2.63.0",
+		"@sveltejs/vite-plugin-svelte": "^7.1.2",
+		"svelte": "^5.56.1",
+		"vite": "^8.0.16"
+	}
+}
