@@ -63,8 +63,8 @@
 			<span class="dot" class:open={quoteStore.marketStatus.toLowerCase().includes('open')}></span>
 			<span>{quoteStore.marketStatus}</span>
 			<span class="sep">·</span>
-			<span title="When the scheduled job last committed prices">
-				{prettyTimestamp(quoteStore.updatedAt)}
+			<span title="When the scheduled job last fetched prices from the CSE">
+				Updated {prettyTimestamp(quoteStore.updatedAt)}
 			</span>
 			<span class="sep">·</span>
 			<span class="next" title="Runs every 15 minutes, weekdays 9:30 AM - 2:30 PM Colombo time">
