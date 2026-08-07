@@ -3,5 +3,10 @@
 	"buildCommand": "npm run build",
 	"outputDirectory": "build",
 	"framework": null,
-	"cleanUrls": true
+	"cleanUrls": true,
+	"git": {
+		"deploymentEnabled": {
+			"gh-pages": false
+		}
+	}
 }
