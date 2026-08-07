@@ -16,8 +16,12 @@
 			rules.length > 0
 	);
 
+	let storageError = $state('');
+
 	function save() {
-		githubSync.saveSettings(tokenInput, repoInput);
+		storageError = githubSync.saveSettings(tokenInput, repoInput) ?? '';
+		if (storageError) return; // stay on the form so the problem is visible
+
 		tokenInput = '';
 		editing = false;
 		githubSync.refresh();
@@ -82,6 +86,10 @@
 			The token is stored in this browser only and never leaves it except to talk to GitHub. Scope
 			it to this one repository so it can do nothing else.
 		</p>
+
+		{#if storageError}
+			<p class="storage-error">{storageError}</p>
+		{/if}
 
 		<div class="row">
 			<button class="primary" onclick={save} disabled={!tokenInput.trim()}>Save token</button>
@@ -190,6 +198,13 @@
 		font-size: 0.82rem;
 		margin: 0 0 0.75rem;
 		color: var(--down);
+	}
+
+	.storage-error {
+		font-size: 0.82rem;
+		margin: 0 0 0.75rem;
+		color: var(--down);
+		font-weight: 600;
 	}
 
 	.result {

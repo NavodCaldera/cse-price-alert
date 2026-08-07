@@ -46,13 +46,31 @@ class GitHubSync {
 
 	configured = $derived(this.token.trim().length > 0 && this.repo.includes('/'));
 
+	/**
+	 * Persist the token. Returns an error string if it could not be stored, so the
+	 * UI can say so rather than appearing to save and forgetting on the next visit.
+	 */
 	saveSettings(token, repo) {
 		this.token = token.trim();
 		this.repo = repo.trim() || DEFAULT_REPO;
-		if (!browser) return;
-		if (this.token) localStorage.setItem(TOKEN_KEY, this.token);
-		else localStorage.removeItem(TOKEN_KEY);
-		localStorage.setItem(REPO_KEY, this.repo);
+		if (!browser) return null;
+
+		try {
+			if (this.token) localStorage.setItem(TOKEN_KEY, this.token);
+			else localStorage.removeItem(TOKEN_KEY);
+			localStorage.setItem(REPO_KEY, this.repo);
+
+			// Read it back: private windows and some storage policies accept the write
+			// and drop it, which would silently log you out again later.
+			if (this.token && localStorage.getItem(TOKEN_KEY) !== this.token) {
+				return 'This browser did not keep the token. Private windows and "clear site data on exit" settings discard it.';
+			}
+			return null;
+		} catch (error) {
+			return `This browser refused to store the token (${
+				error instanceof Error ? error.name : 'unknown error'
+			}). Check that site data is allowed for this page.`;
+		}
 	}
 
 	forget() {
