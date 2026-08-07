@@ -13,9 +13,10 @@ on:
 permissions:
   contents: write # to commit the refreshed data and push the gh-pages branch
 
-# Never let two runs deploy at once, but do not cancel a run mid-flight either.
+# Serialise runs. Two jobs fetching and committing at once race on the same branch,
+# and a run cancelled halfway could notify without recording that it did.
 concurrency:
-  group: pages
+  group: prices
   cancel-in-progress: false
 
 jobs:
@@ -62,7 +63,17 @@ jobs:
             echo "No price changes to commit."
           else
             git commit -m "Update CSE prices ($(TZ=Asia/Colombo date '+%Y-%m-%d %H:%M %Z'))"
-            git push
+            # main moves under us whenever the website syncs rules or a run overlaps,
+            # so rebase onto whatever landed first rather than failing the whole job.
+            for attempt in 1 2 3; do
+              if git pull --rebase --quiet origin main && git push --quiet; then
+                echo "Committed refreshed prices."
+                exit 0
+              fi
+              echo "Push attempt $attempt lost a race; retrying."
+              sleep 5
+            done
+            echo "::warning::Could not commit prices after 3 attempts - the next run will."
           fi
 
       - uses: actions/setup-node@v4
