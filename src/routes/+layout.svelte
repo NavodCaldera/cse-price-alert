@@ -7,12 +7,21 @@
 	import { ruleStore } from '$lib/rules.svelte.js';
 	import { evaluate } from '$lib/evaluate.js';
 	import { prettyTimestamp } from '$lib/format.js';
+	import { countdown, formatSlot, nextRun } from '$lib/schedule.js';
 	import '../app.css';
 
 	let { children } = $props();
 
-	// Load once for the whole app; every page reads from the same store.
-	onMount(() => quoteStore.load());
+	// Ticks so the countdown to the next run stays honest without a page reload.
+	let now = $state(new Date());
+
+	onMount(() => {
+		quoteStore.load();
+		const timer = setInterval(() => (now = new Date()), 30_000);
+		return () => clearInterval(timer);
+	});
+
+	const next = $derived(nextRun(now));
 
 	const firedCount = $derived(
 		evaluate(ruleStore.rules, quoteStore.bySymbol).filter((row) => row.triggered).length
@@ -54,8 +63,13 @@
 			<span class="dot" class:open={quoteStore.marketStatus.toLowerCase().includes('open')}></span>
 			<span>{quoteStore.marketStatus}</span>
 			<span class="sep">·</span>
-			<span title="When the GitHub Action last committed prices">
+			<span title="When the scheduled job last committed prices">
 				{prettyTimestamp(quoteStore.updatedAt)}
+			</span>
+			<span class="sep">·</span>
+			<span class="next" title="Runs every 15 minutes, weekdays 9:30 AM - 2:30 PM Colombo time">
+				Next {formatSlot(next, now)}
+				<span class="in">{countdown(next, now)}</span>
 			</span>
 			<button class="link" onclick={() => quoteStore.refresh()} disabled={quoteStore.loading}>
 				{quoteStore.loading ? 'Refreshing…' : 'Refresh'}
@@ -147,5 +161,13 @@
 
 	.sep {
 		opacity: 0.5;
+	}
+
+	.next {
+		white-space: nowrap;
+	}
+
+	.next .in {
+		opacity: 0.65;
 	}
 </style>
