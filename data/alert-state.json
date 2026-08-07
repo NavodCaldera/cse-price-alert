@@ -1,10 +1,15 @@
 {
- "updatedAt": "2026-08-07T01:36:48+05:30",
+ "updatedAt": "2026-08-07T05:39:34+05:30",
  "rules": {
   "lfin-below-160": {
    "triggeredSince": "2026-08-07T01:36:01+05:30",
    "lastNotified": "2026-08-07T01:36:48+05:30",
    "lastPrice": 158.75
+  },
+  "vfin-below-100": {
+   "triggeredSince": "2026-08-07T05:39:34+05:30",
+   "lastNotified": "2026-08-07T05:39:34+05:30",
+   "lastPrice": 90.8
   }
  }
 }
