@@ -10,6 +10,16 @@
       "startDate": "2026-08-07",
       "endDate": "2026-09-06",
       "note": ""
+    },
+    {
+      "id": "121b27c9-552e-4218-9232-e294a0ebf6de",
+      "symbol": "ALLI.N0000",
+      "name": "ALLIANCE FINANCE COMPANY PLC",
+      "threshold": 400,
+      "direction": "below",
+      "startDate": "2026-08-07",
+      "endDate": "2026-09-06",
+      "note": ""
     }
   ]
 }
