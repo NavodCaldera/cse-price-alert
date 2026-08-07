@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-07T13:54:57+05:30",
+ "updatedAt": "2026-08-07T13:55:40+05:30",
  "marketStatus": "Regular Trading",
  "count": 285,
  "quotes": [
@@ -73,9 +73,9 @@
    "high": 96.0,
    "low": 95.0,
    "open": 95.0,
-   "volume": 48925,
-   "trades": 73,
-   "turnover": 4681673.7,
+   "volume": 148925,
+   "trades": 75,
+   "turnover": 14261673.7,
    "marketCap": 68278795200.0
   },
   {
@@ -88,9 +88,9 @@
    "high": 4.7,
    "low": 4.2,
    "open": 4.3,
-   "volume": 2377753,
-   "trades": 251,
-   "turnover": 10632914.2,
+   "volume": 2407753,
+   "trades": 258,
+   "turnover": 10767914.2,
    "marketCap": 2859500000.0
   },
   {
@@ -283,9 +283,9 @@
    "high": 15.5,
    "low": 14.0,
    "open": 14.0,
-   "volume": 1065920,
-   "trades": 319,
-   "turnover": 16091172.1,
+   "volume": 1065946,
+   "trades": 320,
+   "turnover": 16091567.3,
    "marketCap": 7398405630.0
   },
   {
@@ -313,9 +313,9 @@
    "high": 57.0,
    "low": 55.3,
    "open": 56.0,
-   "volume": 196517,
-   "trades": 69,
-   "turnover": 11038490.6,
+   "volume": 196527,
+   "trades": 70,
+   "turnover": 11039056.6,
    "marketCap": 11646510582.8
   },
   {
@@ -343,9 +343,9 @@
    "high": 36.0,
    "low": 33.5,
    "open": 33.9,
-   "volume": 1111139,
-   "trades": 338,
-   "turnover": 38181132.4,
+   "volume": 1134082,
+   "trades": 341,
+   "turnover": 38984137.4,
    "marketCap": 37538608668.0
   },
   {
@@ -718,9 +718,9 @@
    "high": 7.7,
    "low": 7.0,
    "open": 7.7,
-   "volume": 67789541,
-   "trades": 346,
-   "turnover": 475186278.8,
+   "volume": 67826216,
+   "trades": 348,
+   "turnover": 475454006.3,
    "marketCap": 9298821435.0
   },
   {
@@ -763,9 +763,9 @@
    "high": 31.5,
    "low": 30.9,
    "open": 31.5,
-   "volume": 339213,
-   "trades": 180,
-   "turnover": 10562159.7,
+   "volume": 345213,
+   "trades": 181,
+   "turnover": 10748159.7,
    "marketCap": 3237568084.0
   },
   {
@@ -1881,16 +1881,16 @@
   {
    "symbol": "HNBF.X0000",
    "name": "HNB FINANCE PLC",
-   "price": 7.2,
+   "price": 7.3,
    "previousClose": 7.3,
-   "change": -0.1,
-   "changePct": -1.37,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 7.3,
    "low": 7.1,
    "open": 7.1,
-   "volume": 170987,
-   "trades": 41,
-   "turnover": 1230734.1,
+   "volume": 170992,
+   "trades": 42,
+   "turnover": 1230770.6,
    "marketCap": 3214899720.6
   },
   {
@@ -2008,9 +2008,9 @@
    "high": 1809.0,
    "low": 1800.0,
    "open": 1800.0,
-   "volume": 98,
-   "trades": 9,
-   "turnover": 176592.0,
+   "volume": 147,
+   "trades": 10,
+   "turnover": 264792.0,
    "marketCap": 3645056815.0
   },
   {
@@ -2218,9 +2218,9 @@
    "high": 19.9,
    "low": 19.0,
    "open": 19.1,
-   "volume": 35040,
-   "trades": 36,
-   "turnover": 670705.5,
+   "volume": 35265,
+   "trades": 43,
+   "turnover": 675093.0,
    "marketCap": 3249781128.0
   },
   {
@@ -2481,16 +2481,16 @@
   {
    "symbol": "LMF.N0000",
    "name": "LANKA MILK FOODS (CWE) PLC",
-   "price": 86.8,
+   "price": 86.9,
    "previousClose": 86.9,
-   "change": -0.1,
-   "changePct": -0.12,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 86.9,
    "low": 86.5,
    "open": 86.9,
-   "volume": 169588,
-   "trades": 116,
-   "turnover": 14713847.2,
+   "volume": 174588,
+   "trades": 118,
+   "turnover": 15148251.8,
    "marketCap": 34758262000.0
   },
   {
@@ -2593,9 +2593,9 @@
    "high": 6.8,
    "low": 6.7,
    "open": 6.7,
-   "volume": 32995,
-   "trades": 29,
-   "turnover": 221267.4,
+   "volume": 33117,
+   "trades": 30,
+   "turnover": 222084.8,
    "marketCap": 5134566011.2
   },
   {
@@ -2773,9 +2773,9 @@
    "high": 184.75,
    "low": 182.5,
    "open": 183.0,
-   "volume": 9476,
-   "trades": 38,
-   "turnover": 1740775.75,
+   "volume": 10476,
+   "trades": 39,
+   "turnover": 1925525.75,
    "marketCap": 214433061248.0
   },
   {
@@ -2953,9 +2953,9 @@
    "high": 11.7,
    "low": 11.0,
    "open": 11.7,
-   "volume": 15581,
-   "trades": 25,
-   "turnover": 174962.8,
+   "volume": 15631,
+   "trades": 26,
+   "turnover": 175512.8,
    "marketCap": 5975906267.4
   },
   {
@@ -3133,9 +3133,9 @@
    "high": 161.0,
    "low": 160.0,
    "open": 160.75,
-   "volume": 86209,
-   "trades": 135,
-   "turnover": 13811351.25,
+   "volume": 86309,
+   "trades": 136,
+   "turnover": 13827451.25,
    "marketCap": 53660229006.75
   },
   {
@@ -3426,16 +3426,16 @@
   {
    "symbol": "SCAP.N0000",
    "name": "SOFTLOGIC CAPITAL PLC",
-   "price": 11.2,
+   "price": 11.4,
    "previousClose": 11.2,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.2,
+   "changePct": 1.79,
    "high": 11.4,
    "low": 10.9,
    "open": 11.0,
-   "volume": 501446,
-   "trades": 75,
-   "turnover": 5558870.9,
+   "volume": 511206,
+   "trades": 77,
+   "turnover": 5668184.9,
    "marketCap": 10944496640.0
   },
   {
@@ -4123,9 +4123,9 @@
    "high": 27.0,
    "low": 26.5,
    "open": 26.5,
-   "volume": 151528,
-   "trades": 48,
-   "turnover": 4078467.5,
+   "volume": 151908,
+   "trades": 49,
+   "turnover": 4088689.5,
    "marketCap": 26738665890.0
   },
   {
@@ -4228,9 +4228,9 @@
    "high": 44.4,
    "low": 44.1,
    "open": 44.3,
-   "volume": 18380,
-   "trades": 44,
-   "turnover": 813092.2,
+   "volume": 18880,
+   "trades": 45,
+   "turnover": 835242.2,
    "marketCap": 44727899260.0
   },
   {
