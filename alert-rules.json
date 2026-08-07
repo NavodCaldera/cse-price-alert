@@ -20,6 +20,16 @@
       "startDate": "2026-08-07",
       "endDate": "2026-09-06",
       "note": ""
+    },
+    {
+      "id": "3cb9ce71-b9fe-45d3-ad28-36cff0840e96",
+      "symbol": "COMB.N0000",
+      "name": "COMMERCIAL BANK OF CEYLON PLC",
+      "threshold": 190,
+      "direction": "above",
+      "startDate": "2026-08-07",
+      "endDate": "2026-09-06",
+      "note": ""
     }
   ]
 }
