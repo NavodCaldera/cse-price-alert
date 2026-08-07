@@ -3,6 +3,8 @@
 	import { base } from '$app/paths';
 	import { page } from '$app/state';
 	import RuleForm from '$lib/components/RuleForm.svelte';
+	import GitHubSync from '$lib/components/GitHubSync.svelte';
+	import { githubSync } from '$lib/github.svelte.js';
 	import { quoteStore } from '$lib/quotes.svelte.js';
 	import { ruleStore } from '$lib/rules.svelte.js';
 	import { ruleStatus } from '$lib/evaluate.js';
@@ -15,18 +17,20 @@
 	let message = $state('');
 	let fileInput = $state(null);
 
-	// Rule ids present in the repo's alert-rules.json, i.e. the ones the scheduled
-	// job can actually email about. Browser rules alone never send mail.
-	let emailedIds = $state(new Set());
+	// Rule ids the scheduled job can actually alert on. When a GitHub token is set we
+	// ask the API directly, since the deployed copy lags behind a fresh commit.
+	let deployedIds = $state(new Set());
+	const emailedIds = $derived(githubSync.configured ? githubSync.remoteIds : deployedIds);
 
 	onMount(async () => {
+		githubSync.refresh();
 		try {
 			const response = await fetch(`${base}/data/alert-rules.json?t=${Date.now()}`);
 			if (!response.ok) return;
 			const config = await response.json();
-			emailedIds = new Set((config.rules ?? []).map((rule) => rule.id));
+			deployedIds = new Set((config.rules ?? []).map((rule) => rule.id));
 		} catch {
-			// The file is optional - email alerts are opt-in.
+			// The file is optional - alerts are opt-in.
 		}
 	});
 
@@ -96,11 +100,11 @@
 <div class="page">
 	<h1>Rules</h1>
 	<p class="subtitle">
-		Set a price threshold and the period it applies to. Rules are stored in this browser only —
-		use Export to move them to another device. To get <strong>email</strong> when one fires, press
-		<em>Copy for email alerts</em> and commit the result as <code>alert-rules.json</code>; the
-		scheduled job can only read rules that live in the repo.
+		Set a price threshold and the period it applies to. Rules live in this browser; sync them to
+		GitHub below so the scheduled job can email and notify you when one fires.
 	</p>
+
+	<GitHubSync rules={ruleStore.rules} />
 
 	{#if message}
 		<p class="flash">{message}</p>
