@@ -33,7 +33,9 @@
 	<div class="head">
 		<h2>Email &amp; phone alerts</h2>
 		{#if githubSync.configured && !editing}
-			{#if inSync}
+			{#if rules.length === 0}
+				<span class="badge">no rules yet</span>
+			{:else if inSync}
 				<span class="badge active">all rules synced</span>
 			{:else}
 				<span class="badge warn">{pending.length} not synced</span>
@@ -93,7 +95,13 @@
 			until you do, the change only exists in this browser.
 		</p>
 
-		{#if pending.length > 0}
+		{#if rules.length === 0}
+			<p class="pending">
+				There are no rules in this browser to sync. Rules are stored per site, so anything you
+				created on a different address (localhost, another browser, your phone) will not appear
+				here — add them below, or use Import if you exported them.
+			</p>
+		{:else if pending.length > 0}
 			<p class="pending">
 				Not yet alerting: {pending.map((rule) => rule.symbol).join(', ')}
 			</p>
