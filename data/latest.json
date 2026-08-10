@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-10T14:30:37+05:30",
+ "updatedAt": "2026-08-10T14:45:34+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 287,
  "quotes": [
@@ -156,17 +156,17 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 15.9,
+   "price": 15.4,
    "previousClose": 16.0,
-   "change": -0.1,
-   "changePct": -0.62,
+   "change": -0.6,
+   "changePct": -3.75,
    "high": 16.1,
    "low": 15.2,
    "open": 16.1,
    "volume": 9596,
    "trades": 23,
    "turnover": 150403.3,
-   "marketCap": 8000000000.0
+   "marketCap": 7700000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -661,7 +661,7 @@
    "volume": 13604,
    "trades": 26,
    "turnover": 185373.2,
-   "marketCap": 28387076026.5
+   "marketCap": 28179871092.0
   },
   {
    "symbol": "CALI.U0000",
@@ -706,7 +706,7 @@
    "volume": 301,
    "trades": 4,
    "turnover": 2919.5,
-   "marketCap": 7992002062.5
+   "marketCap": 8160254737.5
   },
   {
    "symbol": "CARE.N0000",
@@ -766,7 +766,7 @@
    "volume": 4238331,
    "trades": 370,
    "turnover": 29913340.8,
-   "marketCap": 8678900006.0
+   "marketCap": 9050852863.4
   },
   {
    "symbol": "CCS.N0000",
@@ -1266,17 +1266,17 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 11.8,
+   "price": 11.6,
    "previousClose": 11.7,
-   "change": 0.1,
-   "changePct": 0.85,
+   "change": -0.1,
+   "changePct": -0.85,
    "high": 11.9,
    "low": 11.6,
    "open": 11.8,
    "volume": 114726,
    "trades": 54,
    "turnover": 1344869.8,
-   "marketCap": 5506799220.0
+   "marketCap": 5459732560.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -2016,10 +2016,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1745.0,
+   "price": 1801.25,
    "previousClose": 1801.25,
-   "change": -56.25,
-   "changePct": -3.12,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1800.0,
    "low": 1741.0,
    "open": 1800.0,
@@ -2071,7 +2071,7 @@
    "volume": 44397,
    "trades": 24,
    "turnover": 665582.3,
-   "marketCap": 2599177254.4
+   "marketCap": 2581964160.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2586,17 +2586,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 9.8,
+   "price": 9.9,
    "previousClose": 9.5,
-   "change": 0.3,
-   "changePct": 3.16,
+   "change": 0.4,
+   "changePct": 4.21,
    "high": 10.2,
    "low": 9.5,
    "open": 9.5,
    "volume": 242940,
    "trades": 88,
    "turnover": 2397453.7,
-   "marketCap": 2576875000.0
+   "marketCap": 2685375000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2796,17 +2796,17 @@
   {
    "symbol": "MFPE.N0000",
    "name": "MAHARAJA FOODS PLC",
-   "price": 16.8,
+   "price": 17.0,
    "previousClose": 16.7,
-   "change": 0.1,
-   "changePct": 0.6,
+   "change": 0.3,
+   "changePct": 1.8,
    "high": 17.0,
    "low": 16.7,
    "open": 16.8,
    "volume": 7105,
    "trades": 24,
    "turnover": 119356.2,
-   "marketCap": 2296250000.0
+   "marketCap": 2337500000.0
   },
   {
    "symbol": "MGT.N0000",
@@ -3156,17 +3156,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 159.75,
+   "price": 160.0,
    "previousClose": 160.75,
-   "change": -1.0,
-   "changePct": -0.62,
+   "change": -0.75,
+   "changePct": -0.47,
    "high": 161.0,
    "low": 159.75,
    "open": 161.0,
    "volume": 41849,
    "trades": 143,
    "turnover": 6695282.0,
-   "marketCap": 53660229006.75
+   "marketCap": 53409870240.0
   },
   {
    "symbol": "PLC.N0000",
@@ -4111,7 +4111,7 @@
    "volume": 5247025,
    "trades": 210,
    "turnover": 12684354.9,
-   "marketCap": 6992667807.4
+   "marketCap": 7628364880.8
   },
   {
    "symbol": "UCAR.N0000",
@@ -4281,17 +4281,17 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 12.1,
+   "price": 12.0,
    "previousClose": 11.9,
-   "change": 0.2,
-   "changePct": 1.68,
+   "change": 0.1,
+   "changePct": 0.84,
    "high": 12.3,
    "low": 12.0,
    "open": 12.0,
    "volume": 65559,
    "trades": 43,
    "turnover": 792835.3,
-   "marketCap": 14578129974.1
+   "marketCap": 14700635268.0
   },
   {
    "symbol": "YORK.N0000",
