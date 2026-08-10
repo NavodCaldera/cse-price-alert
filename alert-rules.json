@@ -2,43 +2,13 @@
   "cooldownHours": 168,
   "rules": [
     {
-      "id": "8a67a5cc-5bc2-4b1d-b858-d8a171fb2714",
-      "symbol": "LFIN.N0000",
-      "name": "LB FINANCE PLC",
-      "threshold": 160,
-      "direction": "below",
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-06",
-      "note": ""
-    },
-    {
-      "id": "c004619d-96f8-4d4a-b0cf-5ea3f9819a15",
-      "symbol": "VFIN.N0000",
-      "name": "VALLIBEL FINANCE PLC",
-      "threshold": 100,
-      "direction": "below",
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-06",
-      "note": ""
-    },
-    {
-      "id": "fad3b79e-2341-4a7e-a6fa-f4e6962b9986",
+      "id": "95a1ad87-b2c5-49f2-8ba4-c2058bd6f4c7",
       "symbol": "HNB.X0000",
       "name": "HATTON NATIONAL BANK PLC",
-      "threshold": 325,
+      "threshold": 316,
       "direction": "below",
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-06",
-      "note": ""
-    },
-    {
-      "id": "b1ce8deb-4d86-49fc-9be9-8f6a3514e77b",
-      "symbol": "ABL.N0000",
-      "name": "AMANA BANK PLC",
-      "threshold": 500,
-      "direction": "below",
-      "startDate": "2026-08-07",
-      "endDate": "2026-09-06",
+      "startDate": "2026-08-10",
+      "endDate": "2026-09-30",
       "note": ""
     }
   ]
