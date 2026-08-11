@@ -20,6 +20,16 @@
       "startDate": "2026-08-11",
       "endDate": "2026-09-10",
       "note": ""
+    },
+    {
+      "id": "bafffff4-903a-466f-b4a4-0c16ec03e256",
+      "symbol": "LFIN.N0000",
+      "name": "LB FINANCE PLC",
+      "threshold": 155,
+      "direction": "below",
+      "startDate": "2026-08-11",
+      "endDate": "2026-09-10",
+      "note": ""
     }
   ]
 }
