@@ -10,6 +10,16 @@
       "startDate": "2026-08-10",
       "endDate": "2026-09-30",
       "note": ""
+    },
+    {
+      "id": "cd1b64b1-4509-4420-9d2b-5fc701ab440d",
+      "symbol": "VFIN.N0000",
+      "name": "VALLIBEL FINANCE PLC",
+      "threshold": 91,
+      "direction": "below",
+      "startDate": "2026-08-11",
+      "endDate": "2026-09-10",
+      "note": ""
     }
   ]
 }
