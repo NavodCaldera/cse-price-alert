@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-11T14:30:35+05:30",
+ "updatedAt": "2026-08-11T14:45:23+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 285,
  "quotes": [
@@ -1543,9 +1543,9 @@
    "high": 15.2,
    "low": 14.1,
    "open": 15.0,
-   "volume": 53346,
-   "trades": 57,
-   "turnover": 783488.7,
+   "volume": 47791,
+   "trades": 55,
+   "turnover": 701274.7,
    "marketCap": 750504917.8
   },
   {
