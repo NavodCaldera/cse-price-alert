@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-12T12:28:36+05:30",
+ "updatedAt": "2026-08-12T12:30:35+05:30",
  "marketStatus": "Regular Trading",
  "count": 272,
  "quotes": [
@@ -13,9 +13,9 @@
    "high": 50.5,
    "low": 50.0,
    "open": 50.0,
-   "volume": 27869,
-   "trades": 41,
-   "turnover": 1393532.5,
+   "volume": 32469,
+   "trades": 42,
+   "turnover": 1623532.5,
    "marketCap": 6209776650.0
   },
   {
@@ -43,24 +43,24 @@
    "high": 26.5,
    "low": 26.3,
    "open": 26.4,
-   "volume": 103770,
-   "trades": 30,
-   "turnover": 2739536.5,
+   "volume": 103775,
+   "trades": 31,
+   "turnover": 2739668.0,
    "marketCap": 14552282078.4
   },
   {
    "symbol": "ACL.N0000",
    "name": "ACL CABLES PLC",
-   "price": 96.4,
+   "price": 96.3,
    "previousClose": 96.0,
-   "change": 0.4,
-   "changePct": 0.42,
+   "change": 0.3,
+   "changePct": 0.31,
    "high": 96.5,
    "low": 96.0,
    "open": 96.5,
-   "volume": 58615,
-   "trades": 31,
-   "turnover": 5656079.5,
+   "volume": 58694,
+   "trades": 33,
+   "turnover": 5663687.2,
    "marketCap": 68997519360.0
   },
   {
@@ -103,9 +103,9 @@
    "high": 29.5,
    "low": 28.5,
    "open": 29.5,
-   "volume": 8976,
-   "trades": 20,
-   "turnover": 257905.0,
+   "volume": 9076,
+   "trades": 21,
+   "turnover": 260755.0,
    "marketCap": 1089165000.0
   },
   {
@@ -163,9 +163,9 @@
    "high": 12.7,
    "low": 12.1,
    "open": 12.1,
-   "volume": 842409,
-   "trades": 139,
-   "turnover": 10529660.2,
+   "volume": 899329,
+   "trades": 141,
+   "turnover": 11241160.2,
    "marketCap": 5673860419.5
   },
   {
@@ -313,9 +313,9 @@
    "high": 35.2,
    "low": 34.5,
    "open": 35.2,
-   "volume": 56310,
-   "trades": 29,
-   "turnover": 1975566.5,
+   "volume": 56323,
+   "trades": 30,
+   "turnover": 1976015.0,
    "marketCap": 39017402342.8
   },
   {
@@ -501,16 +501,16 @@
   {
    "symbol": "BPPL.N0000",
    "name": "B P P L HOLDINGS PLC",
-   "price": 18.2,
+   "price": 18.1,
    "previousClose": 18.1,
-   "change": 0.1,
-   "changePct": 0.55,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 18.5,
    "low": 18.1,
    "open": 18.5,
-   "volume": 21440,
-   "trades": 8,
-   "turnover": 390208.2,
+   "volume": 21445,
+   "trades": 9,
+   "turnover": 390298.7,
    "marketCap": 5553864761.7
   },
   {
@@ -711,16 +711,16 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.5,
+   "price": 7.4,
    "previousClose": 7.4,
-   "change": 0.1,
-   "changePct": 1.35,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 7.5,
    "low": 7.3,
    "open": 7.4,
-   "volume": 12251,
-   "trades": 41,
-   "turnover": 91113.4,
+   "volume": 12301,
+   "trades": 42,
+   "turnover": 91483.4,
    "marketCap": 9174837149.2
   },
   {
@@ -838,9 +838,9 @@
    "high": 48.4,
    "low": 47.0,
    "open": 48.1,
-   "volume": 20546,
-   "trades": 82,
-   "turnover": 978270.0,
+   "volume": 20619,
+   "trades": 83,
+   "turnover": 981701.0,
    "marketCap": 19561500000.0
   },
   {
@@ -1378,9 +1378,9 @@
    "high": 58.9,
    "low": 57.6,
    "open": 57.6,
-   "volume": 598507,
-   "trades": 265,
-   "turnover": 34980481.8,
+   "volume": 598508,
+   "trades": 266,
+   "turnover": 34980540.5,
    "marketCap": 33821754280.0
   },
   {
@@ -1708,9 +1708,9 @@
    "high": 227.0,
    "low": 226.0,
    "open": 226.5,
-   "volume": 38761,
-   "trades": 53,
-   "turnover": 8783445.25,
+   "volume": 38798,
+   "trades": 55,
+   "turnover": 8791844.25,
    "marketCap": 180067500000.0
   },
   {
@@ -1761,16 +1761,16 @@
   {
    "symbol": "HHL.N0000",
    "name": "HEMAS HOLDINGS PLC",
-   "price": 31.2,
+   "price": 31.4,
    "previousClose": 31.1,
-   "change": 0.1,
-   "changePct": 0.32,
+   "change": 0.3,
+   "changePct": 0.96,
    "high": 32.0,
    "low": 31.2,
    "open": 32.0,
-   "volume": 46560,
-   "trades": 52,
-   "turnover": 1460731.2,
+   "volume": 47760,
+   "trades": 53,
+   "turnover": 1498411.2,
    "marketCap": 93175133966.5
   },
   {
@@ -1813,9 +1813,9 @@
    "high": 8.5,
    "low": 8.4,
    "open": 8.4,
-   "volume": 883336,
-   "trades": 92,
-   "turnover": 7503869.6,
+   "volume": 883466,
+   "trades": 93,
+   "turnover": 7504974.6,
    "marketCap": 17633016290.4
   },
   {
@@ -1828,9 +1828,9 @@
    "high": 7.4,
    "low": 7.2,
    "open": 7.4,
-   "volume": 66590,
-   "trades": 30,
-   "turnover": 486138.1,
+   "volume": 67072,
+   "trades": 31,
+   "turnover": 489704.9,
    "marketCap": 3258939442.8
   },
   {
@@ -1933,9 +1933,9 @@
    "high": 5.2,
    "low": 5.0,
    "open": 5.2,
-   "volume": 95883,
-   "trades": 27,
-   "turnover": 488048.4,
+   "volume": 107683,
+   "trades": 28,
+   "turnover": 547048.4,
    "marketCap": 1247083558.8
   },
   {
@@ -2038,9 +2038,9 @@
    "high": 11.4,
    "low": 11.2,
    "open": 11.3,
-   "volume": 277171,
-   "trades": 85,
-   "turnover": 3131015.1,
+   "volume": 277371,
+   "trades": 86,
+   "turnover": 3133275.1,
    "marketCap": 25990000000.0
   },
   {
@@ -2128,9 +2128,9 @@
    "high": 8.3,
    "low": 8.0,
    "open": 8.2,
-   "volume": 138464,
-   "trades": 98,
-   "turnover": 1111166.1,
+   "volume": 146464,
+   "trades": 99,
+   "turnover": 1175966.1,
    "marketCap": 3469753125.0
   },
   {
@@ -2203,9 +2203,9 @@
    "high": 1234.0,
    "low": 1234.0,
    "open": 1234.0,
-   "volume": 1,
-   "trades": 1,
-   "turnover": 1234.0,
+   "volume": 7,
+   "trades": 2,
+   "turnover": 8638.0,
    "marketCap": 38653400000.0
   },
   {
@@ -2391,31 +2391,31 @@
   {
    "symbol": "LMF.N0000",
    "name": "LANKA MILK FOODS (CWE) PLC",
-   "price": 89.3,
+   "price": 89.2,
    "previousClose": 88.9,
-   "change": 0.4,
-   "changePct": 0.45,
+   "change": 0.3,
+   "changePct": 0.34,
    "high": 90.0,
    "low": 89.0,
    "open": 89.0,
-   "volume": 52443,
-   "trades": 75,
-   "turnover": 4700294.6,
+   "volume": 52518,
+   "trades": 77,
+   "turnover": 4706984.6,
    "marketCap": 35558222000.0
   },
   {
    "symbol": "LOFC.N0000",
    "name": "LOLC FINANCE PLC",
-   "price": 5.2,
+   "price": 5.3,
    "previousClose": 5.3,
-   "change": -0.1,
-   "changePct": -1.89,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 5.4,
    "low": 5.2,
    "open": 5.3,
-   "volume": 814146,
-   "trades": 70,
-   "turnover": 4241219.5,
+   "volume": 820196,
+   "trades": 73,
+   "turnover": 4273284.5,
    "marketCap": 156668779953.3
   },
   {
@@ -2713,9 +2713,9 @@
    "high": 9.7,
    "low": 9.2,
    "open": 9.5,
-   "volume": 69602,
-   "trades": 39,
-   "turnover": 648118.0,
+   "volume": 74602,
+   "trades": 40,
+   "turnover": 694118.0,
    "marketCap": 1279472540.0
   },
   {
@@ -2773,9 +2773,9 @@
    "high": 66.0,
    "low": 66.0,
    "open": 66.0,
-   "volume": 10500,
-   "trades": 8,
-   "turnover": 693000.0,
+   "volume": 11000,
+   "trades": 9,
+   "turnover": 726000.0,
    "marketCap": 15675000000.0
   },
   {
@@ -2901,16 +2901,16 @@
   {
    "symbol": "PACK.N0000",
    "name": "Ex-pack Corrugated Cartons PLC",
-   "price": 11.2,
+   "price": 11.3,
    "previousClose": 11.1,
-   "change": 0.1,
-   "changePct": 0.9,
+   "change": 0.2,
+   "changePct": 1.8,
    "high": 11.8,
    "low": 11.1,
    "open": 11.8,
-   "volume": 37390,
-   "trades": 39,
-   "turnover": 422772.2,
+   "volume": 43390,
+   "trades": 41,
+   "turnover": 490572.2,
    "marketCap": 3699999996.3
   },
   {
@@ -3013,9 +3013,9 @@
    "high": 160.75,
    "low": 160.0,
    "open": 160.0,
-   "volume": 68042,
-   "trades": 39,
-   "turnover": 10894407.5,
+   "volume": 68052,
+   "trades": 40,
+   "turnover": 10896015.0,
    "marketCap": 53409870240.0
   },
   {
@@ -3043,9 +3043,9 @@
    "high": 43.0,
    "low": 42.0,
    "open": 43.0,
-   "volume": 72547,
-   "trades": 104,
-   "turnover": 3056632.6,
+   "volume": 73157,
+   "trades": 107,
+   "turnover": 3082252.6,
    "marketCap": 39562500000.0
   },
   {
@@ -3073,9 +3073,9 @@
    "high": 11.8,
    "low": 11.5,
    "open": 11.6,
-   "volume": 748382,
-   "trades": 156,
-   "turnover": 8652111.0,
+   "volume": 749393,
+   "trades": 157,
+   "turnover": 8663939.7,
    "marketCap": 9106654077.0
   },
   {
@@ -3111,16 +3111,16 @@
   {
    "symbol": "REEF.N0000",
    "name": "CITRUS LEISURE PLC",
-   "price": 3.8,
+   "price": 3.7,
    "previousClose": 3.8,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -2.63,
    "high": 3.9,
-   "low": 3.8,
+   "low": 3.7,
    "open": 3.8,
-   "volume": 29366,
-   "trades": 24,
-   "turnover": 111598.1,
+   "volume": 29454,
+   "trades": 25,
+   "turnover": 111923.7,
    "marketCap": 2453221772.6
   },
   {
@@ -3403,9 +3403,9 @@
    "high": 68.0,
    "low": 67.4,
    "open": 67.5,
-   "volume": 655234,
-   "trades": 108,
-   "turnover": 44230967.9,
+   "volume": 655590,
+   "trades": 109,
+   "turnover": 44254997.9,
    "marketCap": 22269660825.2
   },
   {
@@ -3606,16 +3606,16 @@
   {
    "symbol": "SMOT.N0000",
    "name": "SATHOSA MOTORS PLC",
-   "price": 1550.0,
+   "price": 1525.0,
    "previousClose": 1600.0,
-   "change": -50.0,
-   "changePct": -3.12,
+   "change": -75.0,
+   "changePct": -4.69,
    "high": 1600.0,
    "low": 1507.0,
    "open": 1600.0,
-   "volume": 1866,
-   "trades": 24,
-   "turnover": 2942109.5,
+   "volume": 1902,
+   "trades": 27,
+   "turnover": 2997010.5,
    "marketCap": 9653795200.0
   },
   {
@@ -3643,9 +3643,9 @@
    "high": 142.5,
    "low": 142.0,
    "open": 142.5,
-   "volume": 1018,
-   "trades": 8,
-   "turnover": 144820.75,
+   "volume": 1118,
+   "trades": 9,
+   "turnover": 159020.75,
    "marketCap": 57955935423.75
   },
   {
@@ -3921,16 +3921,16 @@
   {
    "symbol": "UML.N0000",
    "name": "UNITED MOTORS LANKA PLC",
-   "price": 27.5,
+   "price": 27.4,
    "previousClose": 27.0,
-   "change": 0.5,
-   "changePct": 1.85,
+   "change": 0.4,
+   "changePct": 1.48,
    "high": 28.5,
    "low": 27.0,
    "open": 27.2,
-   "volume": 173222,
-   "trades": 121,
-   "turnover": 4760843.0,
+   "volume": 179594,
+   "trades": 127,
+   "turnover": 4935435.8,
    "marketCap": 27243169020.0
   },
   {
