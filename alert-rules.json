@@ -40,6 +40,16 @@
       "startDate": "2026-08-16",
       "endDate": "2026-09-15",
       "note": ""
+    },
+    {
+      "id": "4894ed7f-aea2-4e28-8d25-85fa4bf0d7e7",
+      "symbol": "AAF.N0000",
+      "name": "ASIA ASSET FINANCE PLC",
+      "threshold": 47,
+      "direction": "below",
+      "startDate": "2026-08-16",
+      "endDate": "2026-09-15",
+      "note": ""
     }
   ]
 }
