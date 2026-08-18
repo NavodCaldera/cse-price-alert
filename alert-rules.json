@@ -2,16 +2,6 @@
   "cooldownHours": 168,
   "rules": [
     {
-      "id": "95a1ad87-b2c5-49f2-8ba4-c2058bd6f4c7",
-      "symbol": "HNB.X0000",
-      "name": "HATTON NATIONAL BANK PLC",
-      "threshold": 318,
-      "direction": "below",
-      "startDate": "2026-08-10",
-      "endDate": "2026-09-30",
-      "note": ""
-    },
-    {
       "id": "cd1b64b1-4509-4420-9d2b-5fc701ab440d",
       "symbol": "VFIN.N0000",
       "name": "VALLIBEL FINANCE PLC",
@@ -32,43 +22,33 @@
       "note": ""
     },
     {
-      "id": "838faa3a-b745-44bb-9cba-097f921ad43e",
-      "symbol": "AAF.N0000",
-      "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 45,
-      "direction": "below",
-      "startDate": "2026-08-16",
-      "endDate": "2026-09-15",
-      "note": ""
-    },
-    {
-      "id": "4894ed7f-aea2-4e28-8d25-85fa4bf0d7e7",
-      "symbol": "AAF.N0000",
-      "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 47,
-      "direction": "below",
-      "startDate": "2026-08-16",
-      "endDate": "2026-09-15",
-      "note": ""
-    },
-    {
-      "id": "d49f33b8-f292-464a-a25e-a0d94f759b55",
+      "id": "8d17cd42-fecd-4cbf-bb2f-91bb1992b751",
       "symbol": "AAF.N0000",
       "name": "ASIA ASSET FINANCE PLC",
       "threshold": 46,
       "direction": "below",
-      "startDate": "2026-08-16",
-      "endDate": "2026-09-15",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-18",
       "note": ""
     },
     {
-      "id": "3c05400f-4d4f-4c72-b023-e444d19ba47e",
+      "id": "153eb6a0-0d7c-42f5-98cb-5f1267e5df69",
       "symbol": "AAF.N0000",
       "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 48,
+      "threshold": 44.43,
       "direction": "below",
-      "startDate": "2026-08-16",
-      "endDate": "2026-09-15",
+      "startDate": "2026-08-19",
+      "endDate": "2026-09-18",
+      "note": ""
+    },
+    {
+      "id": "95ff4952-52ad-4733-8200-f48e2fc77f59",
+      "symbol": "AAF.N0000",
+      "name": "ASIA ASSET FINANCE PLC",
+      "threshold": 47,
+      "direction": "below",
+      "startDate": "2026-08-19",
+      "endDate": "2026-08-26",
       "note": ""
     }
   ]
