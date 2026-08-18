@@ -1,15 +1,4 @@
 {
- "updatedAt": "2026-08-17T15:16:50+05:30",
- "rules": {
-  "4894ed7f-aea2-4e28-8d25-85fa4bf0d7e7": {
-   "triggeredSince": "2026-08-17T14:30:31+05:30",
-   "lastNotified": "2026-08-17T14:30:31+05:30",
-   "lastPrice": 47.0
-  },
-  "3c05400f-4d4f-4c72-b023-e444d19ba47e": {
-   "triggeredSince": "2026-08-17T13:30:33+05:30",
-   "lastNotified": "2026-08-17T13:30:33+05:30",
-   "lastPrice": 47.0
-  }
- }
+ "updatedAt": "2026-08-18T09:31:59+05:30",
+ "rules": {}
 }
