@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-19T14:30:32+05:30",
+ "updatedAt": "2026-08-19T14:45:21+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 279,
  "quotes": [
@@ -136,7 +136,7 @@
    "volume": 26477,
    "trades": 44,
    "turnover": 699262.0,
-   "marketCap": 1062600000.0
+   "marketCap": 1020855000.0
   },
   {
    "symbol": "AFSL.N0000",
@@ -181,7 +181,7 @@
    "volume": 45972,
    "trades": 33,
    "turnover": 688791.5,
-   "marketCap": 7600000000.0
+   "marketCap": 7500000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -606,10 +606,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 13.0,
+   "price": 12.8,
    "previousClose": 12.8,
-   "change": 0.2,
-   "changePct": 1.56,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 13.0,
    "low": 12.5,
    "open": 12.5,
@@ -636,32 +636,32 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 13.1,
+   "price": 13.2,
    "previousClose": 13.1,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.76,
    "high": 13.4,
    "low": 12.9,
    "open": 13.1,
    "volume": 76393,
    "trades": 68,
    "turnover": 997656.8,
-   "marketCap": 27143846419.5
+   "marketCap": 27351051354.0
   },
   {
    "symbol": "CALI.U0000",
    "name": "CAL FIVE YEAR OPTIMUM FUND (\u201cUnits\u201d)",
-   "price": 16.2,
+   "price": 15.4,
    "previousClose": 13.2,
-   "change": 3.0,
-   "changePct": 22.73,
+   "change": 2.2,
+   "changePct": 16.67,
    "high": 16.2,
    "low": 14.4,
    "open": 14.4,
    "volume": 841,
    "trades": 7,
    "turnover": 12912.2,
-   "marketCap": 2559538449.6
+   "marketCap": 2986128191.2
   },
   {
    "symbol": "CALT.N0000",
@@ -681,17 +681,17 @@
   {
    "symbol": "CALU.U0000",
    "name": "CAL THREE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 9.6,
+   "price": 9.4,
    "previousClose": 9.5,
-   "change": 0.1,
-   "changePct": 1.05,
+   "change": -0.1,
+   "changePct": -1.05,
    "high": 9.6,
    "low": 9.4,
    "open": 9.4,
    "volume": 1015,
    "trades": 4,
    "turnover": 9543.5,
-   "marketCap": 7992002062.5
+   "marketCap": 7907875725.0
   },
   {
    "symbol": "CARE.N0000",
@@ -741,17 +741,17 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.5,
+   "price": 7.4,
    "previousClose": 7.5,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -1.33,
    "high": 7.6,
    "low": 7.3,
    "open": 7.6,
    "volume": 113984,
    "trades": 93,
    "turnover": 845033.0,
-   "marketCap": 9298821435.0
+   "marketCap": 9174837149.2
   },
   {
    "symbol": "CCS.N0000",
@@ -1956,10 +1956,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1732.0,
+   "price": 1681.0,
    "previousClose": 1681.0,
-   "change": 51.0,
-   "changePct": 3.03,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1800.0,
    "low": 1732.0,
    "open": 1800.0,
@@ -2001,10 +2001,10 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 16.5,
+   "price": 16.4,
    "previousClose": 16.4,
-   "change": 0.1,
-   "changePct": 0.61,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 16.7,
    "low": 16.0,
    "open": 16.3,
@@ -2061,17 +2061,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI LIMITED",
-   "price": 11.3,
+   "price": 11.2,
    "previousClose": 11.3,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.88,
    "high": 11.3,
    "low": 11.1,
    "open": 11.2,
    "volume": 174008,
    "trades": 107,
    "turnover": 1940869.9,
-   "marketCap": 25990000000.0
+   "marketCap": 25760000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2511,17 +2511,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 9.4,
+   "price": 9.3,
    "previousClose": 9.2,
-   "change": 0.2,
-   "changePct": 2.17,
+   "change": 0.1,
+   "changePct": 1.09,
    "high": 9.5,
    "low": 9.1,
    "open": 9.1,
    "volume": 29252,
    "trades": 13,
    "turnover": 270078.9,
-   "marketCap": 2495500000.0
+   "marketCap": 2522625000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2746,7 +2746,7 @@
    "volume": 1841826,
    "trades": 68,
    "turnover": 30400146.9,
-   "marketCap": 2268750000.0
+   "marketCap": 2282500000.0
   },
   {
    "symbol": "MGT.N0000",
@@ -3066,17 +3066,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 159.75,
+   "price": 160.0,
    "previousClose": 162.25,
-   "change": -2.5,
-   "changePct": -1.54,
+   "change": -2.25,
+   "changePct": -1.39,
    "high": 163.75,
    "low": 159.75,
    "open": 163.75,
    "volume": 44667,
    "trades": 78,
    "turnover": 7154511.0,
-   "marketCap": 54160946540.25
+   "marketCap": 53409870240.0
   },
   {
    "symbol": "PLC.N0000",
@@ -3991,7 +3991,7 @@
    "volume": 373391,
    "trades": 52,
    "turnover": 859518.6,
-   "marketCap": 6992667807.4
+   "marketCap": 7310516344.1
   },
   {
    "symbol": "UCAR.N0000",
