@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-08-20T10:44:37+05:30",
+ "updatedAt": "2026-08-20T10:45:20+05:30",
  "marketStatus": "Regular Trading",
- "count": 246,
+ "count": 247,
  "quotes": [
   {
    "symbol": "AAF.N0000",
@@ -268,9 +268,9 @@
    "high": 14.2,
    "low": 13.9,
    "open": 14.2,
-   "volume": 51887,
-   "trades": 32,
-   "turnover": 725864.7,
+   "volume": 51913,
+   "trades": 33,
+   "turnover": 726228.7,
    "marketCap": 7504097139.0
   },
   {
@@ -1384,6 +1384,21 @@
    "marketCap": 15364800000.0
   },
   {
+   "symbol": "EMER.N0000",
+   "name": "EASTERN MERCHANTS PLC",
+   "price": 10.7,
+   "previousClose": 10.6,
+   "change": 0.1,
+   "changePct": 0.94,
+   "high": 0.0,
+   "low": 0.0,
+   "open": 10.7,
+   "volume": 0,
+   "trades": 0,
+   "turnover": 0.0,
+   "marketCap": 1244927600.0
+  },
+  {
    "symbol": "EML.N0000",
    "name": "E M L CONSULTANTS PLC",
    "price": 8.6,
@@ -2278,9 +2293,9 @@
    "high": 52.4,
    "low": 50.2,
    "open": 52.4,
-   "volume": 7,
-   "trades": 3,
-   "turnover": 353.6,
+   "volume": 26,
+   "trades": 4,
+   "turnover": 1307.4,
    "marketCap": 2933744079.6
   },
   {
@@ -2436,16 +2451,16 @@
   {
    "symbol": "MERC.N0000",
    "name": "MERCANTILE INVESTMENTS AND FINANCE PLC",
-   "price": 24.0,
+   "price": 23.7,
    "previousClose": 23.7,
-   "change": 0.3,
-   "changePct": 1.27,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 24.2,
-   "low": 24.0,
+   "low": 23.7,
    "open": 24.2,
-   "volume": 2683,
-   "trades": 3,
-   "turnover": 64392.2,
+   "volume": 2728,
+   "trades": 5,
+   "turnover": 65458.7,
    "marketCap": 15040020000.0
   },
   {
@@ -2668,9 +2683,9 @@
    "high": 15.8,
    "low": 15.7,
    "open": 15.8,
-   "volume": 18829,
-   "trades": 8,
-   "turnover": 295643.0,
+   "volume": 19552,
+   "trades": 9,
+   "turnover": 307066.4,
    "marketCap": 9937500000.0
   },
   {
@@ -2683,9 +2698,9 @@
    "high": 69.8,
    "low": 69.8,
    "open": 69.8,
-   "volume": 205,
-   "trades": 2,
-   "turnover": 14309.0,
+   "volume": 4991,
+   "trades": 3,
+   "turnover": 348371.8,
    "marketCap": 9552828000.0
   },
   {
@@ -2968,9 +2983,9 @@
    "high": 140.0,
    "low": 139.0,
    "open": 139.25,
-   "volume": 37772,
-   "trades": 127,
-   "turnover": 5268092.5,
+   "volume": 38672,
+   "trades": 128,
+   "turnover": 5393642.5,
    "marketCap": 163591756020.0
   },
   {
@@ -3028,9 +3043,9 @@
    "high": 0.4,
    "low": 0.3,
    "open": 0.3,
-   "volume": 211731,
-   "trades": 6,
-   "turnover": 63519.4,
+   "volume": 711731,
+   "trades": 8,
+   "turnover": 213519.4,
    "marketCap": 1232641484.8
   },
   {
@@ -3073,9 +3088,9 @@
    "high": 70.5,
    "low": 68.8,
    "open": 68.9,
-   "volume": 13506,
-   "trades": 12,
-   "turnover": 930534.0,
+   "volume": 13566,
+   "trades": 13,
+   "turnover": 934662.0,
    "marketCap": 22765276422.2
   },
   {
@@ -3103,9 +3118,9 @@
    "high": 50.8,
    "low": 48.4,
    "open": 48.4,
-   "volume": 13399,
-   "trades": 45,
-   "turnover": 667106.6,
+   "volume": 15399,
+   "trades": 48,
+   "turnover": 765106.6,
    "marketCap": 13420244499.9
   },
   {
