@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-08-21T10:45:21+05:30",
+ "updatedAt": "2026-08-21T10:46:06+05:30",
  "marketStatus": "Regular Trading",
  "count": 242,
  "quotes": [
@@ -13,9 +13,9 @@
    "high": 47.0,
    "low": 46.0,
    "open": 46.1,
-   "volume": 11510,
-   "trades": 14,
-   "turnover": 536360.0,
+   "volume": 14010,
+   "trades": 17,
+   "turnover": 651862.5,
    "marketCap": 5725414071.3
   },
   {
@@ -141,16 +141,16 @@
   {
    "symbol": "AGAL.N0000",
    "name": "AGALAWATTE  PLANTATIONS  PLC",
-   "price": 47.0,
+   "price": 48.7,
    "previousClose": 47.2,
-   "change": -0.2,
-   "changePct": -0.42,
+   "change": 1.5,
+   "changePct": 3.18,
    "high": 48.8,
    "low": 47.0,
    "open": 48.8,
-   "volume": 5200,
-   "trades": 5,
-   "turnover": 244601.0,
+   "volume": 5202,
+   "trades": 6,
+   "turnover": 244698.4,
    "marketCap": 7375000000.0
   },
   {
@@ -171,16 +171,16 @@
   {
    "symbol": "AGST.N0000",
    "name": "AGSTAR PLC",
-   "price": 12.3,
+   "price": 12.4,
    "previousClose": 12.1,
-   "change": 0.2,
-   "changePct": 1.65,
+   "change": 0.3,
+   "changePct": 2.48,
    "high": 12.4,
    "low": 12.2,
    "open": 12.3,
-   "volume": 28314,
-   "trades": 9,
-   "turnover": 348256.3,
+   "volume": 36314,
+   "trades": 12,
+   "turnover": 447456.3,
    "marketCap": 5581602526.5
   },
   {
@@ -628,9 +628,9 @@
    "high": 39.3,
    "low": 39.3,
    "open": 39.3,
-   "volume": 1009,
-   "trades": 7,
-   "turnover": 39653.7,
+   "volume": 1059,
+   "trades": 8,
+   "turnover": 41618.7,
    "marketCap": 23373877125.0
   },
   {
@@ -771,16 +771,16 @@
   {
    "symbol": "CIC.X0000",
    "name": "C I C HOLDINGS PLC",
-   "price": 24.3,
+   "price": 24.2,
    "previousClose": 24.2,
-   "change": 0.1,
-   "changePct": 0.41,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 24.5,
    "low": 24.2,
    "open": 24.2,
-   "volume": 48363,
-   "trades": 15,
-   "turnover": 1170449.8,
+   "volume": 48513,
+   "trades": 16,
+   "turnover": 1174079.8,
    "marketCap": 10585080000.0
   },
   {
@@ -898,9 +898,9 @@
    "high": 111.0,
    "low": 108.5,
    "open": 111.0,
-   "volume": 33450,
-   "trades": 114,
-   "turnover": 3644768.25,
+   "volume": 33900,
+   "trades": 115,
+   "turnover": 3693818.25,
    "marketCap": 34749624376.25
   },
   {
@@ -928,9 +928,9 @@
    "high": 204.0,
    "low": 203.0,
    "open": 203.0,
-   "volume": 2079,
-   "trades": 13,
-   "turnover": 422737.0,
+   "volume": 2149,
+   "trades": 14,
+   "turnover": 437017.0,
    "marketCap": 316367588731.5
   },
   {
@@ -981,16 +981,16 @@
   {
    "symbol": "COOP.N0000",
    "name": "Co-operative Insurance Company PLC",
-   "price": 3.5,
+   "price": 3.4,
    "previousClose": 3.5,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -2.86,
    "high": 3.5,
    "low": 3.4,
    "open": 3.5,
-   "volume": 26472,
-   "trades": 14,
-   "turnover": 90622.0,
+   "volume": 26672,
+   "trades": 15,
+   "turnover": 91302.0,
    "marketCap": 5782621600.0
   },
   {
@@ -1236,16 +1236,16 @@
   {
    "symbol": "EAST.N0000",
    "name": "EAST WEST PROPERTIES PLC",
-   "price": 66.0,
+   "price": 65.8,
    "previousClose": 66.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.2,
+   "changePct": -0.3,
    "high": 66.0,
    "low": 65.1,
    "open": 66.0,
-   "volume": 1151,
-   "trades": 18,
-   "turnover": 75125.8,
+   "volume": 1166,
+   "trades": 19,
+   "turnover": 76112.8,
    "marketCap": 9123840000.0
   },
   {
@@ -2091,16 +2091,16 @@
   {
    "symbol": "LIOC.N0000",
    "name": "LANKA IOC PLC",
-   "price": 134.0,
+   "price": 133.5,
    "previousClose": 133.5,
-   "change": 0.5,
-   "changePct": 0.37,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 134.0,
    "low": 133.5,
    "open": 133.5,
-   "volume": 11959,
-   "trades": 17,
-   "turnover": 1596580.25,
+   "volume": 20104,
+   "trades": 24,
+   "turnover": 2683937.75,
    "marketCap": 71084171617.5
   },
   {
@@ -2728,9 +2728,9 @@
    "high": 11.4,
    "low": 11.2,
    "open": 11.4,
-   "volume": 17316,
-   "trades": 13,
-   "turnover": 194072.1,
+   "volume": 17366,
+   "trades": 14,
+   "turnover": 194637.1,
    "marketCap": 9106654077.0
   },
   {
@@ -2908,9 +2908,9 @@
    "high": 140.25,
    "low": 139.5,
    "open": 139.5,
-   "volume": 19028,
-   "trades": 58,
-   "turnover": 2663064.5,
+   "volume": 19098,
+   "trades": 59,
+   "turnover": 2672864.5,
    "marketCap": 163591756020.0
   },
   {
@@ -3126,16 +3126,16 @@
   {
    "symbol": "SINH.N0000",
    "name": "SINGHE HOSPITALS PLC",
-   "price": 20.9,
+   "price": 20.8,
    "previousClose": 21.7,
-   "change": -0.8,
-   "changePct": -3.69,
+   "change": -0.9,
+   "changePct": -4.15,
    "high": 21.0,
-   "low": 20.9,
+   "low": 20.8,
    "open": 21.0,
-   "volume": 39,
-   "trades": 3,
-   "turnover": 815.5,
+   "volume": 80,
+   "trades": 4,
+   "turnover": 1668.3,
    "marketCap": 9359229421.5
   },
   {
@@ -3163,9 +3163,9 @@
    "high": 34.7,
    "low": 33.0,
    "open": 33.0,
-   "volume": 5301799,
-   "trades": 669,
-   "turnover": 180912686.9,
+   "volume": 5402323,
+   "trades": 699,
+   "turnover": 184380766.8,
    "marketCap": 17522905218.0
   },
   {
@@ -3283,9 +3283,9 @@
    "high": 30.7,
    "low": 30.0,
    "open": 30.7,
-   "volume": 15218,
-   "trades": 9,
-   "turnover": 456647.7,
+   "volume": 25218,
+   "trades": 11,
+   "turnover": 756647.7,
    "marketCap": 30670585890.0
   },
   {
