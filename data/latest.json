@@ -1,82 +1,82 @@
 {
- "updatedAt": "2026-09-04T14:30:28+05:30",
+ "updatedAt": "2026-09-04T14:45:26+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 293,
  "quotes": [
   {
    "symbol": "AAF.N0000",
    "name": "ASIA ASSET FINANCE PLC",
-   "price": 49.9,
+   "price": 50.0,
    "previousClose": 49.8,
-   "change": 0.1,
-   "changePct": 0.2,
+   "change": 0.2,
+   "changePct": 0.4,
    "high": 50.0,
    "low": 49.7,
    "open": 50.0,
    "volume": 197858,
    "trades": 106,
    "turnover": 9884391.7,
-   "marketCap": 6184937543.4
+   "marketCap": 6209776650.0
   },
   {
    "symbol": "AAIC.N0000",
    "name": "SOFTLOGIC LIFE INSURANCE PLC",
-   "price": 82.0,
+   "price": 81.7,
    "previousClose": 80.5,
-   "change": 1.5,
-   "changePct": 1.86,
+   "change": 1.2,
+   "changePct": 1.49,
    "high": 82.0,
    "low": 80.5,
    "open": 80.5,
    "volume": 40328,
    "trades": 65,
    "turnover": 3268131.0,
-   "marketCap": 25470703125.0
+   "marketCap": 25850390625.0
   },
   {
    "symbol": "ABAN.N0000",
    "name": "ABANS ELECTRICALS PLC",
-   "price": 1049.75,
+   "price": 1013.25,
    "previousClose": 1025.5,
-   "change": 24.25,
-   "changePct": 2.36,
+   "change": -12.25,
+   "changePct": -1.19,
    "high": 1060.0,
    "low": 1000.0,
    "open": 1060.0,
    "volume": 1393,
    "trades": 55,
    "turnover": 1419019.25,
-   "marketCap": 5240879280.0
+   "marketCap": 5178274920.0
   },
   {
    "symbol": "ABL.N0000",
    "name": "AMANA BANK PLC",
-   "price": 27.0,
+   "price": 26.8,
    "previousClose": 26.2,
-   "change": 0.8,
-   "changePct": 3.05,
+   "change": 0.6,
+   "changePct": 2.29,
    "high": 27.4,
    "low": 26.3,
    "open": 26.5,
    "volume": 18291,
    "trades": 47,
    "turnover": 488335.2,
-   "marketCap": 14442037517.2
+   "marketCap": 14772771200.8
   },
   {
    "symbol": "ACL.N0000",
    "name": "ACL CABLES PLC",
-   "price": 97.4,
+   "price": 95.9,
    "previousClose": 94.3,
-   "change": 3.1,
-   "changePct": 3.29,
+   "change": 1.6,
+   "changePct": 1.7,
    "high": 98.0,
    "low": 94.1,
    "open": 94.3,
    "volume": 768393,
    "trades": 297,
    "turnover": 73025851.6,
-   "marketCap": 67775688288.0
+   "marketCap": 68925646944.0
   },
   {
    "symbol": "ACME.N0000",
@@ -88,10 +88,10 @@
    "high": 4.5,
    "low": 4.3,
    "open": 4.4,
-   "volume": 401224,
-   "trades": 69,
-   "turnover": 1750629.4,
-   "marketCap": 2926000000.0
+   "volume": 401229,
+   "trades": 70,
+   "turnover": 1750651.4,
+   "marketCap": 2859500000.0
   },
   {
    "symbol": "AEL.N0000",
@@ -106,7 +106,7 @@
    "volume": 285630,
    "trades": 208,
    "turnover": 22472497.9,
-   "marketCap": 77900000000.0
+   "marketCap": 79100000000.0
   },
   {
    "symbol": "AFS.N0000",
@@ -121,15 +121,15 @@
    "volume": 2196,
    "trades": 10,
    "turnover": 59270.0,
-   "marketCap": 990495000.0
+   "marketCap": 1024650000.0
   },
   {
    "symbol": "AFSL.N0000",
    "name": "ABANS FINANCE PLC",
-   "price": 93.2,
+   "price": 89.1,
    "previousClose": 89.1,
-   "change": 4.1,
-   "changePct": 4.6,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 93.2,
    "low": 85.4,
    "open": 85.4,
@@ -151,7 +151,7 @@
    "volume": 11146,
    "trades": 10,
    "turnover": 526413.2,
-   "marketCap": 7343750000.0
+   "marketCap": 7453125000.0
   },
   {
    "symbol": "AGPL.N0000",
@@ -166,7 +166,7 @@
    "volume": 5252,
    "trades": 20,
    "turnover": 79057.1,
-   "marketCap": 7350000000.0
+   "marketCap": 7550000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -181,22 +181,22 @@
    "volume": 902710,
    "trades": 120,
    "turnover": 12375528.7,
-   "marketCap": 6319665670.5
+   "marketCap": 6273536724.0
   },
   {
    "symbol": "AGST.X0000",
    "name": "AGSTAR PLC",
-   "price": 12.1,
+   "price": 11.8,
    "previousClose": 12.0,
-   "change": 0.1,
-   "changePct": 0.83,
+   "change": -0.2,
+   "changePct": -1.67,
    "high": 12.1,
    "low": 11.8,
    "open": 12.0,
    "volume": 15270,
    "trades": 5,
    "turnover": 180242.0,
-   "marketCap": 314526420.0
+   "marketCap": 309284313.0
   },
   {
    "symbol": "AHPL.N0000",
@@ -211,7 +211,7 @@
    "volume": 102,
    "trades": 3,
    "turnover": 4892.5,
-   "marketCap": 20677606510.0
+   "marketCap": 21253214400.0
   },
   {
    "symbol": "AHUN.N0000",
@@ -226,7 +226,7 @@
    "volume": 4600,
    "trades": 22,
    "turnover": 410309.0,
-   "marketCap": 29896181889.0
+   "marketCap": 30030697893.0
   },
   {
    "symbol": "AINS.N0000",
@@ -241,22 +241,22 @@
    "volume": 970,
    "trades": 4,
    "turnover": 26431.3,
-   "marketCap": 1774974907.6
+   "marketCap": 1768351866.9
   },
   {
    "symbol": "ALLI.N0000",
    "name": "ALLIANCE FINANCE COMPANY PLC",
-   "price": 302.25,
+   "price": 300.75,
    "previousClose": 299.25,
-   "change": 3.0,
-   "changePct": 1.0,
+   "change": 1.5,
+   "changePct": 0.5,
    "high": 308.75,
    "low": 300.0,
    "open": 308.75,
    "volume": 20848,
    "trades": 52,
    "turnover": 6259649.75,
-   "marketCap": 10083528000.0
+   "marketCap": 10134072000.0
   },
   {
    "symbol": "ALUM.N0000",
@@ -271,37 +271,37 @@
    "volume": 653822,
    "trades": 186,
    "turnover": 11203343.4,
-   "marketCap": 10116435992.0
+   "marketCap": 10236157128.0
   },
   {
    "symbol": "AMSL.N0000",
    "name": "ASIRI SURGICAL HOSPITAL PLC",
-   "price": 14.3,
+   "price": 14.2,
    "previousClose": 13.6,
-   "change": 0.7,
-   "changePct": 5.15,
+   "change": 0.6,
+   "changePct": 4.41,
    "high": 14.3,
    "low": 13.7,
    "open": 14.0,
    "volume": 267810,
    "trades": 78,
    "turnover": 3765119.9,
-   "marketCap": 7187022612.0
+   "marketCap": 7504097139.0
   },
   {
    "symbol": "APLA.N0000",
    "name": "ACL PLASTICS PLC",
-   "price": 167.25,
+   "price": 165.75,
    "previousClose": 153.0,
-   "change": 14.25,
-   "changePct": 9.31,
+   "change": 12.75,
+   "changePct": 8.33,
    "high": 167.75,
    "low": 154.0,
    "open": 154.75,
-   "volume": 206090,
-   "trades": 519,
-   "turnover": 33435845.25,
-   "marketCap": 6445125000.0
+   "volume": 207090,
+   "trades": 520,
+   "turnover": 33603095.25,
+   "marketCap": 6982218750.0
   },
   {
    "symbol": "ASCO.N0000",
@@ -316,22 +316,22 @@
    "volume": 45499,
    "trades": 45,
    "turnover": 2424315.3,
-   "marketCap": 11350591983.6
+   "marketCap": 11414003112.0
   },
   {
    "symbol": "ASHO.N0000",
    "name": "LANKA ASHOK LEYLAND PLC",
-   "price": 2900.0,
+   "price": 2884.0,
    "previousClose": 2833.25,
-   "change": 66.75,
-   "changePct": 2.36,
+   "change": 50.75,
+   "changePct": 1.79,
    "high": 2900.0,
    "low": 2830.0,
    "open": 2848.5,
    "volume": 1013,
    "trades": 45,
    "turnover": 2913747.25,
-   "marketCap": 10258753429.75
+   "marketCap": 10442511212.0
   },
   {
    "symbol": "ASIR.N0000",
@@ -346,7 +346,7 @@
    "volume": 75196,
    "trades": 74,
    "turnover": 2409662.3,
-   "marketCap": 35946061633.6
+   "marketCap": 36856088510.4
   },
   {
    "symbol": "ASIY.N0000",
@@ -376,30 +376,30 @@
    "volume": 3580803,
    "trades": 86,
    "turnover": 2489207.3,
-   "marketCap": 2249646750.0
+   "marketCap": 2624587875.0
   },
   {
    "symbol": "ATL.N0000",
    "name": "AMANA TAKAFUL PLC",
-   "price": 23.1,
+   "price": 22.9,
    "previousClose": 21.4,
-   "change": 1.7,
-   "changePct": 7.94,
+   "change": 1.5,
+   "changePct": 7.01,
    "high": 23.3,
    "low": 21.8,
    "open": 21.8,
    "volume": 160476,
    "trades": 104,
    "turnover": 3602566.9,
-   "marketCap": 6409532275.6
+   "marketCap": 6858798556.6
   },
   {
    "symbol": "ATLL.N0000",
    "name": "AMANA TAKAFUL LIFE PLC",
-   "price": 22.3,
+   "price": 21.3,
    "previousClose": 21.3,
-   "change": 1.0,
-   "changePct": 4.69,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 22.6,
    "low": 22.2,
    "open": 22.6,
@@ -411,10 +411,10 @@
   {
    "symbol": "AUTO.N0000",
    "name": "THE AUTODROME PLC",
-   "price": 309.0,
+   "price": 311.25,
    "previousClose": 311.25,
-   "change": -2.25,
-   "changePct": -0.72,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 309.0,
    "low": 300.0,
    "open": 300.0,
@@ -436,7 +436,7 @@
    "volume": 514,
    "trades": 3,
    "turnover": 30851.4,
-   "marketCap": 2741818108.0
+   "marketCap": 2841090832.6
   },
   {
    "symbol": "BERU.N0000",
@@ -456,17 +456,17 @@
   {
    "symbol": "BFL.N0000",
    "name": "BAIRAHA FARMS PLC",
-   "price": 93.2,
+   "price": 93.0,
    "previousClose": 89.6,
-   "change": 3.6,
-   "changePct": 4.02,
+   "change": 3.4,
+   "changePct": 3.79,
    "high": 93.8,
    "low": 89.6,
    "open": 90.0,
    "volume": 244054,
    "trades": 256,
    "turnover": 22322624.7,
-   "marketCap": 7884800000.0
+   "marketCap": 8184000000.0
   },
   {
    "symbol": "BFN.N0000",
@@ -481,7 +481,7 @@
    "volume": 7383,
    "trades": 18,
    "turnover": 222771.2,
-   "marketCap": 6354144765.5
+   "marketCap": 6375254881.0
   },
   {
    "symbol": "BIL.N0000",
@@ -501,17 +501,17 @@
   {
    "symbol": "BOGA.N0000",
    "name": "BOGALA GRAPHITE LANKA PLC",
-   "price": 138.5,
+   "price": 137.0,
    "previousClose": 132.0,
-   "change": 6.5,
-   "changePct": 4.92,
+   "change": 5.0,
+   "changePct": 3.79,
    "high": 139.25,
    "low": 130.25,
    "open": 133.5,
    "volume": 37207,
    "trades": 82,
    "turnover": 5014208.75,
-   "marketCap": 12491543328.0
+   "marketCap": 12964707848.0
   },
   {
    "symbol": "BOPL.N0000",
@@ -526,22 +526,22 @@
    "volume": 1786,
    "trades": 17,
    "turnover": 123265.0,
-   "marketCap": 5829000000.0
+   "marketCap": 5862500000.0
   },
   {
    "symbol": "BPPL.N0000",
    "name": "B P P L HOLDINGS PLC",
-   "price": 18.1,
+   "price": 18.0,
    "previousClose": 18.1,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.55,
    "high": 18.4,
    "low": 18.0,
    "open": 18.0,
    "volume": 2369,
    "trades": 7,
    "turnover": 42651.9,
-   "marketCap": 5553864761.7
+   "marketCap": 5523180426.0
   },
   {
    "symbol": "BREW.N0000",
@@ -571,52 +571,52 @@
    "volume": 200,
    "trades": 2,
    "turnover": 4180.0,
-   "marketCap": 1101424000.0
+   "marketCap": 1122915200.0
   },
   {
    "symbol": "BRWN.N0000",
    "name": "BROWN & COMPANY PLC",
-   "price": 140.0,
+   "price": 140.5,
    "previousClose": 138.5,
-   "change": 1.5,
-   "changePct": 1.08,
+   "change": 2.0,
+   "changePct": 1.44,
    "high": 144.5,
    "low": 135.5,
    "open": 135.5,
    "volume": 2798,
    "trades": 23,
    "turnover": 392577.5,
-   "marketCap": 29448562500.0
+   "marketCap": 29873812500.0
   },
   {
    "symbol": "BUKI.N0000",
    "name": "BUKIT DARAH PLC",
-   "price": 889.5,
+   "price": 851.25,
    "previousClose": 859.75,
-   "change": 29.75,
-   "changePct": 3.46,
+   "change": -8.5,
+   "changePct": -0.99,
    "high": 895.0,
    "low": 849.0,
    "open": 849.0,
    "volume": 142,
    "trades": 10,
    "turnover": 120795.0,
-   "marketCap": 87694500000.0
+   "marketCap": 86827500000.0
   },
   {
    "symbol": "CABO.N0000",
    "name": "CARGO BOAT DEVELOPMENT COMPANY PLC",
-   "price": 183.0,
+   "price": 180.5,
    "previousClose": 170.0,
-   "change": 13.0,
-   "changePct": 7.65,
+   "change": 10.5,
+   "changePct": 6.18,
    "high": 183.0,
    "low": 166.25,
    "open": 173.0,
    "volume": 80427,
    "trades": 90,
    "turnover": 14433699.0,
-   "marketCap": 3065439150.0
+   "marketCap": 3254775097.5
   },
   {
    "symbol": "CALC.U0000",
@@ -636,10 +636,10 @@
   {
    "symbol": "CALF.N0000",
    "name": "DIALOG FINANCE PLC",
-   "price": 131.75,
+   "price": 129.5,
    "previousClose": 129.5,
-   "change": 2.25,
-   "changePct": 1.74,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 131.75,
    "low": 129.75,
    "open": 129.75,
@@ -651,10 +651,10 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 13.4,
+   "price": 13.3,
    "previousClose": 13.3,
-   "change": 0.1,
-   "changePct": 0.75,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 13.4,
    "low": 13.3,
    "open": 13.3,
@@ -666,17 +666,17 @@
   {
    "symbol": "CALI.U0000",
    "name": "CAL FIVE YEAR OPTIMUM FUND (\u201cUnits\u201d)",
-   "price": 15.0,
+   "price": 14.7,
    "previousClose": 14.4,
-   "change": 0.6,
-   "changePct": 4.17,
+   "change": 0.3,
+   "changePct": 2.08,
    "high": 15.0,
    "low": 14.6,
    "open": 14.6,
    "volume": 1440,
    "trades": 4,
    "turnover": 21166.0,
-   "marketCap": 2792223763.2
+   "marketCap": 2850395091.6
   },
   {
    "symbol": "CALT.N0000",
@@ -691,7 +691,7 @@
    "volume": 4443,
    "trades": 39,
    "turnover": 217143.5,
-   "marketCap": 16009709162.4
+   "marketCap": 16042650950.8
   },
   {
    "symbol": "CALU.U0000",
@@ -721,30 +721,30 @@
    "volume": 3425,
    "trades": 11,
    "turnover": 136951.1,
-   "marketCap": 3266733460.0
+   "marketCap": 3438666800.0
   },
   {
    "symbol": "CARG.N0000",
    "name": "CARGILLS (CEYLON) PLC",
-   "price": 683.0,
+   "price": 677.25,
    "previousClose": 680.5,
-   "change": 2.5,
-   "changePct": 0.37,
+   "change": -3.25,
+   "changePct": -0.48,
    "high": 683.0,
    "low": 674.5,
    "open": 680.0,
    "volume": 193,
    "trades": 19,
    "turnover": 130774.0,
-   "marketCap": 175349695945.5
+   "marketCap": 174512243319.75
   },
   {
    "symbol": "CARS.N0000",
    "name": "CARSON CUMBERBATCH PLC",
-   "price": 740.0,
+   "price": 720.25,
    "previousClose": 720.25,
-   "change": 19.75,
-   "changePct": 2.74,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 747.25,
    "low": 728.0,
    "open": 747.25,
@@ -756,107 +756,107 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.4,
+   "price": 7.3,
    "previousClose": 7.1,
-   "change": 0.3,
-   "changePct": 4.23,
+   "change": 0.2,
+   "changePct": 2.82,
    "high": 7.5,
    "low": 7.2,
    "open": 7.3,
    "volume": 224888,
    "trades": 65,
    "turnover": 1657444.0,
-   "marketCap": 8802884291.8
+   "marketCap": 9050852863.4
   },
   {
    "symbol": "CCS.N0000",
    "name": "CEYLON COLD STORES PLC",
-   "price": 127.75,
+   "price": 127.5,
    "previousClose": 121.75,
-   "change": 6.0,
-   "changePct": 4.93,
+   "change": 5.75,
+   "changePct": 4.72,
    "high": 128.0,
    "low": 123.0,
    "open": 123.0,
    "volume": 84421,
    "trades": 105,
    "turnover": 10552807.0,
-   "marketCap": 115711200000.0
+   "marketCap": 121176000000.0
   },
   {
    "symbol": "CDB.N0000",
    "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
-   "price": 35.0,
+   "price": 35.1,
    "previousClose": 35.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.29,
    "high": 36.0,
    "low": 35.0,
    "open": 36.0,
    "volume": 6288,
    "trades": 28,
    "turnover": 220822.5,
-   "marketCap": 21815618650.0
+   "marketCap": 21877948989.0
   },
   {
    "symbol": "CDB.X0000",
    "name": "CITIZENS DEVELOPMENT BUSINESS FINANCE PLC",
-   "price": 29.4,
+   "price": 29.0,
    "previousClose": 29.5,
-   "change": -0.1,
-   "changePct": -0.34,
+   "change": -0.5,
+   "changePct": -1.69,
    "high": 29.6,
    "low": 29.0,
    "open": 29.6,
    "volume": 459184,
    "trades": 181,
    "turnover": 13396294.3,
-   "marketCap": 3051382060.0
+   "marketCap": 2999663720.0
   },
   {
    "symbol": "CERA.N0000",
    "name": "LANKA CERAMIC PLC",
-   "price": 169.75,
+   "price": 163.0,
    "previousClose": 165.0,
-   "change": 4.75,
-   "changePct": 2.88,
+   "change": -2.0,
+   "changePct": -1.21,
    "high": 169.75,
    "low": 160.0,
    "open": 165.75,
    "volume": 167,
    "trades": 14,
    "turnover": 27235.75,
-   "marketCap": 990000000.0
+   "marketCap": 978000000.0
   },
   {
    "symbol": "CFI.N0000",
    "name": "COLOMBO FORT INVESTMENTS PLC",
-   "price": 341.0,
+   "price": 341.25,
    "previousClose": 329.0,
-   "change": 12.0,
-   "changePct": 3.65,
+   "change": 12.25,
+   "changePct": 3.72,
    "high": 364.5,
    "low": 340.0,
    "open": 345.0,
    "volume": 326,
    "trades": 17,
    "turnover": 112529.75,
-   "marketCap": 2941145179.0
+   "marketCap": 3050655903.75
   },
   {
    "symbol": "CFIN.N0000",
    "name": "CENTRAL FINANCE COMPANY PLC",
-   "price": 223.25,
+   "price": 224.5,
    "previousClose": 222.75,
-   "change": 0.5,
-   "changePct": 0.22,
+   "change": 1.75,
+   "changePct": 0.79,
    "high": 226.75,
    "low": 223.0,
    "open": 223.0,
    "volume": 3107,
    "trades": 29,
    "turnover": 695951.25,
-   "marketCap": 50643206410.5
+   "marketCap": 51041076719.0
   },
   {
    "symbol": "CFLB.N0000",
@@ -876,17 +876,17 @@
   {
    "symbol": "CFVF.N0000",
    "name": "FIRST CAPITAL HOLDINGS PLC",
-   "price": 45.2,
+   "price": 44.8,
    "previousClose": 45.3,
-   "change": -0.1,
-   "changePct": -0.22,
+   "change": -0.5,
+   "changePct": -1.1,
    "high": 45.4,
    "low": 44.5,
    "open": 45.0,
    "volume": 40310,
    "trades": 97,
    "turnover": 1808966.8,
-   "marketCap": 18346500000.0
+   "marketCap": 18144000000.0
   },
   {
    "symbol": "CHL.N0000",
@@ -901,7 +901,7 @@
    "volume": 4565,
    "trades": 14,
    "turnover": 282264.1,
-   "marketCap": 7851745125.6
+   "marketCap": 7877155304.0
   },
   {
    "symbol": "CHL.X0000",
@@ -916,15 +916,15 @@
    "volume": 10261,
    "trades": 29,
    "turnover": 513101.2,
-   "marketCap": 1965950410.0
+   "marketCap": 2026753000.0
   },
   {
    "symbol": "CHMX.N0000",
    "name": "CHEMANEX PLC",
-   "price": 168.5,
+   "price": 163.75,
    "previousClose": 163.75,
-   "change": 4.75,
-   "changePct": 2.9,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 168.5,
    "low": 163.5,
    "open": 163.75,
@@ -936,17 +936,17 @@
   {
    "symbol": "CHOT.N0000",
    "name": "CEYLON HOTELS CORPORATION PLC",
-   "price": 29.9,
+   "price": 29.5,
    "previousClose": 29.0,
-   "change": 0.9,
-   "changePct": 3.1,
+   "change": 0.5,
+   "changePct": 1.72,
    "high": 30.0,
    "low": 29.0,
    "open": 29.1,
    "volume": 25592,
    "trades": 37,
    "turnover": 745016.9,
-   "marketCap": 5220897318.0
+   "marketCap": 5310912789.0
   },
   {
    "symbol": "CIC.N0000",
@@ -961,7 +961,7 @@
    "volume": 302293,
    "trades": 113,
    "turnover": 9051698.7,
-   "marketCap": 42573600000.0
+   "marketCap": 43740000000.0
   },
   {
    "symbol": "CIC.X0000",
@@ -976,22 +976,22 @@
    "volume": 1359566,
    "trades": 177,
    "turnover": 32913133.3,
-   "marketCap": 10410120000.0
+   "marketCap": 10716300000.0
   },
   {
    "symbol": "CIND.N0000",
    "name": "CENTRAL INDUSTRIES PLC",
-   "price": 215.0,
+   "price": 214.5,
    "previousClose": 211.0,
-   "change": 4.0,
-   "changePct": 1.9,
+   "change": 3.5,
+   "changePct": 1.66,
    "high": 215.0,
    "low": 213.0,
    "open": 213.0,
-   "volume": 6808,
-   "trades": 30,
-   "turnover": 1454715.0,
-   "marketCap": 5105185723.0
+   "volume": 6833,
+   "trades": 31,
+   "turnover": 1460090.0,
+   "marketCap": 5189868898.5
   },
   {
    "symbol": "CINS.N0000",
@@ -1006,15 +1006,15 @@
    "volume": 725,
    "trades": 6,
    "turnover": 2254025.0,
-   "marketCap": 62200000000.0
+   "marketCap": 62180000000.0
   },
   {
    "symbol": "CINS.X0000",
    "name": "CEYLINCO HOLDINGS PLC",
-   "price": 1556.0,
+   "price": 1595.0,
    "previousClose": 1595.0,
-   "change": -39.0,
-   "changePct": -2.45,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1599.0,
    "low": 1556.0,
    "open": 1598.75,
@@ -1026,47 +1026,47 @@
   {
    "symbol": "CINV.N0000",
    "name": "CEYLON INVESTMENT PLC",
-   "price": 105.0,
+   "price": 103.5,
    "previousClose": 105.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -1.5,
+   "changePct": -1.43,
    "high": 105.0,
    "low": 102.5,
    "open": 105.0,
    "volume": 288121,
    "trades": 28,
    "turnover": 29820889.25,
-   "marketCap": 10206078015.0
+   "marketCap": 10060276900.5
   },
   {
    "symbol": "CIT.N0000",
    "name": "COLOMBO INVESTMENT TRUST PLC",
-   "price": 368.0,
+   "price": 367.5,
    "previousClose": 350.75,
-   "change": 17.25,
-   "changePct": 4.92,
+   "change": 16.75,
+   "changePct": 4.78,
    "high": 368.0,
    "low": 367.0,
    "open": 368.0,
    "volume": 113,
    "trades": 3,
    "turnover": 41530.0,
-   "marketCap": 2529190906.0
+   "marketCap": 2649971940.0
   },
   {
    "symbol": "CITH.N0000",
    "name": "HIKKADUWA BEACH RESORT PLC",
-   "price": 4.7,
+   "price": 4.6,
    "previousClose": 4.4,
-   "change": 0.3,
-   "changePct": 6.82,
+   "change": 0.2,
+   "changePct": 4.55,
    "high": 4.7,
    "low": 4.4,
    "open": 4.4,
    "volume": 90227,
    "trades": 47,
    "turnover": 409944.9,
-   "marketCap": 2387719536.4
+   "marketCap": 2496252242.6
   },
   {
    "symbol": "CITW.N0000",
@@ -1081,37 +1081,37 @@
    "volume": 2568,
    "trades": 14,
    "turnover": 4306.0,
-   "marketCap": 1498694380.8
+   "marketCap": 1592362779.6
   },
   {
    "symbol": "CLND.N0000",
    "name": "COLOMBO LAND AND DEVELOPMENT COMPANY PLC",
-   "price": 48.9,
+   "price": 48.8,
    "previousClose": 47.3,
-   "change": 1.6,
-   "changePct": 3.38,
+   "change": 1.5,
+   "changePct": 3.17,
    "high": 49.0,
    "low": 47.0,
    "open": 47.0,
    "volume": 94027,
    "trades": 40,
    "turnover": 4442390.3,
-   "marketCap": 9454371678.4
+   "marketCap": 9754193190.4
   },
   {
    "symbol": "COCO.N0000",
    "name": "RENUKA FOODS PLC",
-   "price": 26.7,
+   "price": 26.1,
    "previousClose": 25.9,
-   "change": 0.8,
-   "changePct": 3.09,
+   "change": 0.2,
+   "changePct": 0.77,
    "high": 26.9,
    "low": 25.5,
    "open": 26.9,
    "volume": 31825,
    "trades": 46,
    "turnover": 829055.9,
-   "marketCap": 9324275420.6
+   "marketCap": 9396277547.4
   },
   {
    "symbol": "COCO.X0000",
@@ -1126,7 +1126,7 @@
    "volume": 1180,
    "trades": 9,
    "turnover": 27508.2,
-   "marketCap": 328806000.0
+   "marketCap": 339035520.0
   },
   {
    "symbol": "COCR.N0000",
@@ -1146,17 +1146,17 @@
   {
    "symbol": "COLO.N0000",
    "name": "C M HOLDINGS PLC",
-   "price": 38.4,
+   "price": 38.5,
    "previousClose": 36.8,
-   "change": 1.6,
-   "changePct": 4.35,
+   "change": 1.7,
+   "changePct": 4.62,
    "high": 38.5,
    "low": 37.5,
    "open": 38.0,
    "volume": 3567,
    "trades": 30,
    "turnover": 135723.5,
-   "marketCap": 5593600000.0
+   "marketCap": 5852000000.0
   },
   {
    "symbol": "COMB.N0000",
@@ -1171,37 +1171,37 @@
    "volume": 203641,
    "trades": 208,
    "turnover": 41703942.5,
-   "marketCap": 317559771588.0
+   "marketCap": 319116437135.0
   },
   {
    "symbol": "COMB.X0000",
    "name": "COMMERCIAL BANK OF CEYLON PLC",
-   "price": 190.25,
+   "price": 189.0,
    "previousClose": 187.0,
-   "change": 3.25,
-   "changePct": 1.74,
+   "change": 2.0,
+   "changePct": 1.07,
    "high": 191.5,
    "low": 187.0,
    "open": 187.0,
    "volume": 57202,
    "trades": 92,
    "turnover": 10755664.75,
-   "marketCap": 18199951715.0
+   "marketCap": 18394603605.0
   },
   {
    "symbol": "COMD.N0000",
    "name": "COMMERCIAL DEVELOPMENT COMPANY PLC",
-   "price": 286.0,
+   "price": 286.25,
    "previousClose": 304.75,
-   "change": -18.75,
-   "changePct": -6.15,
+   "change": -18.5,
+   "changePct": -6.07,
    "high": 308.0,
    "low": 282.75,
    "open": 308.0,
    "volume": 145,
    "trades": 9,
    "turnover": 42146.75,
-   "marketCap": 3657000000.0
+   "marketCap": 3435000000.0
   },
   {
    "symbol": "CONN.N0000",
@@ -1216,15 +1216,15 @@
    "volume": 22600,
    "trades": 17,
    "turnover": 592915.4,
-   "marketCap": 2850934891.2
+   "marketCap": 2829336899.6
   },
   {
    "symbol": "COOP.N0000",
    "name": "Co-operative Insurance Company PLC",
-   "price": 3.5,
+   "price": 3.4,
    "previousClose": 3.4,
-   "change": 0.1,
-   "changePct": 2.94,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 3.5,
    "low": 3.3,
    "open": 3.5,
@@ -1246,67 +1246,67 @@
    "volume": 8632,
    "trades": 45,
    "turnover": 257308.4,
-   "marketCap": 1239351050.0
+   "marketCap": 1260357000.0
   },
   {
    "symbol": "CRL.N0000",
    "name": "SOFTLOGIC FINANCE PLC",
-   "price": 5.2,
+   "price": 5.1,
    "previousClose": 5.0,
-   "change": 0.2,
-   "changePct": 4.0,
+   "change": 0.1,
+   "changePct": 2.0,
    "high": 5.2,
    "low": 5.0,
    "open": 5.0,
    "volume": 156870,
    "trades": 63,
    "turnover": 802333.4,
-   "marketCap": 4812865955.0
+   "marketCap": 4909123274.1
   },
   {
    "symbol": "CSD.N0000",
    "name": "SEYLAN DEVELOPMENTS PLC",
-   "price": 24.9,
+   "price": 25.0,
    "previousClose": 25.1,
-   "change": -0.2,
-   "changePct": -0.8,
+   "change": -0.1,
+   "changePct": -0.4,
    "high": 26.0,
    "low": 24.9,
    "open": 26.0,
    "volume": 2100,
    "trades": 14,
    "turnover": 53701.9,
-   "marketCap": 3506176279.8
+   "marketCap": 3492207450.0
   },
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 14.3,
+   "price": 14.4,
    "previousClose": 14.1,
-   "change": 0.2,
-   "changePct": 1.42,
+   "change": 0.3,
+   "changePct": 2.13,
    "high": 14.5,
    "low": 14.0,
    "open": 14.2,
-   "volume": 396232,
-   "trades": 185,
-   "turnover": 5665999.6,
-   "marketCap": 6636399060.0
+   "volume": 431334,
+   "trades": 189,
+   "turnover": 6168085.1,
+   "marketCap": 6777599040.0
   },
   {
    "symbol": "CTBL.N0000",
    "name": "CEYLON TEA BROKERS PLC",
-   "price": 11.5,
+   "price": 11.4,
    "previousClose": 11.5,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.87,
    "high": 11.8,
    "low": 11.4,
    "open": 11.5,
-   "volume": 143852,
-   "trades": 70,
-   "turnover": 1655989.4,
-   "marketCap": 2097600000.0
+   "volume": 144252,
+   "trades": 71,
+   "turnover": 1660629.4,
+   "marketCap": 2079360000.0
   },
   {
    "symbol": "CTC.N0000",
@@ -1321,15 +1321,15 @@
    "volume": 1557,
    "trades": 67,
    "turnover": 2794993.25,
-   "marketCap": 336292963982.75
+   "marketCap": 336246133045.0
   },
   {
    "symbol": "CTEA.N0000",
    "name": "DILMAH CEYLON TEA COMPANY PLC",
-   "price": 1500.0,
+   "price": 1451.25,
    "previousClose": 1451.25,
-   "change": 48.75,
-   "changePct": 3.36,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1502.0,
    "low": 1500.0,
    "open": 1500.0,
@@ -1341,47 +1341,47 @@
   {
    "symbol": "CTHR.N0000",
    "name": "C T HOLDINGS PLC",
-   "price": 550.25,
+   "price": 550.0,
    "previousClose": 550.25,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.25,
+   "changePct": -0.05,
    "high": 558.0,
    "low": 550.0,
    "open": 558.0,
    "volume": 1396,
    "trades": 16,
    "turnover": 768656.25,
-   "marketCap": 110824189644.5
+   "marketCap": 110773837900.0
   },
   {
    "symbol": "CTLD.N0000",
    "name": "C T LAND DEVELOPMENT PLC",
-   "price": 38.5,
+   "price": 38.2,
    "previousClose": 36.8,
-   "change": 1.7,
-   "changePct": 4.62,
+   "change": 1.4,
+   "changePct": 3.8,
    "high": 39.0,
    "low": 38.0,
    "open": 38.8,
    "volume": 6337,
    "trades": 11,
    "turnover": 243504.9,
-   "marketCap": 2990000000.0
+   "marketCap": 3103750000.0
   },
   {
    "symbol": "CWL.N0000",
    "name": "CHRISSWORLD PLC",
-   "price": 18.8,
+   "price": 18.6,
    "previousClose": 17.2,
-   "change": 1.6,
-   "changePct": 9.3,
+   "change": 1.4,
+   "changePct": 8.14,
    "high": 18.9,
    "low": 17.7,
    "open": 17.7,
    "volume": 30246,
    "trades": 39,
    "turnover": 554051.0,
-   "marketCap": 516000000.0
+   "marketCap": 558000000.0
   },
   {
    "symbol": "CWM.N0000",
@@ -1396,7 +1396,7 @@
    "volume": 15586,
    "trades": 43,
    "turnover": 577002.1,
-   "marketCap": 6621894304.0
+   "marketCap": 6729859972.0
   },
   {
    "symbol": "DFCC.N0000",
@@ -1411,22 +1411,22 @@
    "volume": 75721,
    "trades": 119,
    "turnover": 9472284.75,
-   "marketCap": 56339385500.0
+   "marketCap": 56452064271.0
   },
   {
    "symbol": "DIAL.N0000",
    "name": "DIALOG AXIATA PLC",
-   "price": 48.9,
+   "price": 48.5,
    "previousClose": 46.5,
-   "change": 2.4,
-   "changePct": 5.16,
+   "change": 2.0,
+   "changePct": 4.3,
    "high": 48.9,
    "low": 46.5,
    "open": 46.5,
    "volume": 2910441,
    "trades": 498,
    "turnover": 139144711.4,
-   "marketCap": 427815577221.0
+   "marketCap": 446216247209.0
   },
   {
    "symbol": "DIMO.N0000",
@@ -1441,7 +1441,7 @@
    "volume": 296,
    "trades": 26,
    "turnover": 426204.75,
-   "marketCap": 13387974173.5
+   "marketCap": 13288735613.0
   },
   {
    "symbol": "DIPD.N0000",
@@ -1456,37 +1456,37 @@
    "volume": 763881,
    "trades": 419,
    "turnover": 46968360.4,
-   "marketCap": 36874691392.0
+   "marketCap": 36515522320.0
   },
   {
    "symbol": "DIST.N0000",
    "name": "DISTILLERIES COMPANY OF SRI LANKA PLC",
-   "price": 53.3,
+   "price": 53.1,
    "previousClose": 51.4,
-   "change": 1.9,
-   "changePct": 3.7,
+   "change": 1.7,
+   "changePct": 3.31,
    "high": 56.0,
    "low": 51.0,
    "open": 51.5,
    "volume": 96729,
    "trades": 151,
    "turnover": 4977764.4,
-   "marketCap": 236440000000.0
+   "marketCap": 244260000000.0
   },
   {
    "symbol": "DOCK.N0000",
    "name": "COLOMBO DOCKYARD PLC",
-   "price": 126.5,
+   "price": 126.25,
    "previousClose": 121.5,
-   "change": 5.0,
-   "changePct": 4.12,
+   "change": 4.75,
+   "changePct": 3.91,
    "high": 129.0,
    "low": 121.25,
    "open": 121.5,
    "volume": 215172,
    "trades": 278,
    "turnover": 27058591.75,
-   "marketCap": 48019725963.0
+   "marketCap": 49897040352.5
   },
   {
    "symbol": "DPL.N0000",
@@ -1501,15 +1501,15 @@
    "volume": 4750,
    "trades": 16,
    "turnover": 63965.0,
-   "marketCap": 2178209128.0
+   "marketCap": 2210719712.0
   },
   {
    "symbol": "EAST.N0000",
    "name": "EAST WEST PROPERTIES PLC",
-   "price": 71.6,
+   "price": 71.1,
    "previousClose": 71.1,
-   "change": 0.5,
-   "changePct": 0.7,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 71.8,
    "low": 69.0,
    "open": 71.0,
@@ -1528,10 +1528,10 @@
    "high": 37.5,
    "low": 36.4,
    "open": 37.0,
-   "volume": 209589,
-   "trades": 107,
-   "turnover": 7697567.4,
-   "marketCap": 10068303718.0
+   "volume": 210339,
+   "trades": 109,
+   "turnover": 7725017.4,
+   "marketCap": 10207753908.0
   },
   {
    "symbol": "ECL.N0000",
@@ -1546,7 +1546,7 @@
    "volume": 27164,
    "trades": 16,
    "turnover": 417855.6,
-   "marketCap": 1819758083.5
+   "marketCap": 1831971225.0
   },
   {
    "symbol": "EDEN.N0000",
@@ -1576,7 +1576,7 @@
    "volume": 460,
    "trades": 10,
    "turnover": 81107.5,
-   "marketCap": 13006657398.0
+   "marketCap": 12952007577.0
   },
   {
    "symbol": "EMER.N0000",
@@ -1591,52 +1591,52 @@
    "volume": 122372,
    "trades": 60,
    "turnover": 1348060.1,
-   "marketCap": 1244927600.0
+   "marketCap": 1327139800.0
   },
   {
    "symbol": "EML.N0000",
    "name": "E M L CONSULTANTS PLC",
-   "price": 9.0,
+   "price": 8.9,
    "previousClose": 8.2,
-   "change": 0.8,
-   "changePct": 9.76,
+   "change": 0.7,
+   "changePct": 8.54,
    "high": 9.3,
    "low": 8.3,
    "open": 8.3,
    "volume": 182963,
    "trades": 162,
    "turnover": 1612639.0,
-   "marketCap": 745380000.0
+   "marketCap": 809010000.0
   },
   {
    "symbol": "ETWO.N0000",
    "name": "EQUITY TWO PLC",
-   "price": 60.0,
+   "price": 60.5,
    "previousClose": 60.6,
-   "change": -0.6,
-   "changePct": -0.99,
+   "change": -0.1,
+   "changePct": -0.17,
    "high": 60.9,
    "low": 59.5,
    "open": 60.5,
    "volume": 7384,
    "trades": 11,
    "turnover": 447003.2,
-   "marketCap": 1878600000.0
+   "marketCap": 1875500000.0
   },
   {
    "symbol": "EXT.N0000",
    "name": "EXTERMINATORS PLC",
-   "price": 14.8,
+   "price": 14.9,
    "previousClose": 14.8,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.68,
    "high": 14.9,
    "low": 14.5,
    "open": 14.9,
    "volume": 179549,
    "trades": 132,
    "turnover": 2637869.7,
-   "marketCap": 782216393.2
+   "marketCap": 787501639.1
   },
   {
    "symbol": "FCT.N0000",
@@ -1656,85 +1656,85 @@
   {
    "symbol": "GEST.N0000",
    "name": "GESTETNER OF CEYLON PLC",
-   "price": 345.0,
+   "price": 344.5,
    "previousClose": 337.5,
-   "change": 7.5,
-   "changePct": 2.22,
+   "change": 7.0,
+   "changePct": 2.07,
    "high": 345.0,
    "low": 333.75,
    "open": 333.75,
    "volume": 2345,
    "trades": 20,
    "turnover": 797141.5,
-   "marketCap": 897011550.0
+   "marketCap": 915616234.0
   },
   {
    "symbol": "GHLL.N0000",
    "name": "GALADARI HOTELS (LANKA) PLC",
-   "price": 15.5,
+   "price": 15.4,
    "previousClose": 15.5,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.65,
    "high": 15.6,
    "low": 15.3,
    "open": 15.6,
-   "volume": 23577,
-   "trades": 20,
-   "turnover": 366749.9,
-   "marketCap": 7762858242.0
+   "volume": 23602,
+   "trades": 21,
+   "turnover": 367137.4,
+   "marketCap": 7712775285.6
   },
   {
    "symbol": "GLAS.N0000",
    "name": "PGP GLASS CEYLON PLC",
-   "price": 56.4,
+   "price": 56.9,
    "previousClose": 55.9,
-   "change": 0.5,
-   "changePct": 0.89,
+   "change": 1.0,
+   "changePct": 1.79,
    "high": 57.0,
    "low": 55.5,
    "open": 55.7,
    "volume": 64461,
    "trades": 44,
    "turnover": 3652202.7,
-   "marketCap": 53109811872.0
+   "marketCap": 54059897952.0
   },
   {
    "symbol": "GRAN.N0000",
    "name": "CEYLON GRAIN ELEVATORS PLC",
-   "price": 494.0,
+   "price": 490.0,
    "previousClose": 485.0,
-   "change": 9.0,
-   "changePct": 1.86,
+   "change": 5.0,
+   "changePct": 1.03,
    "high": 494.0,
    "low": 484.5,
    "open": 484.5,
    "volume": 43563,
    "trades": 89,
    "turnover": 21301200.25,
-   "marketCap": 29100000000.0
+   "marketCap": 29400000000.0
   },
   {
    "symbol": "GREG.N0000",
    "name": "AMBEON HOLDINGS PLC",
-   "price": 35.8,
+   "price": 35.6,
    "previousClose": 35.9,
-   "change": -0.1,
-   "changePct": -0.28,
+   "change": -0.3,
+   "changePct": -0.84,
    "high": 35.9,
    "low": 34.5,
    "open": 35.1,
    "volume": 19965,
    "trades": 47,
    "turnover": 702230.7,
-   "marketCap": 51246484037.6
+   "marketCap": 50818240438.4
   },
   {
    "symbol": "GUAR.N0000",
    "name": "CEYLON GUARDIAN INVESTMENT TRUST PLC",
-   "price": 225.0,
+   "price": 229.0,
    "previousClose": 229.0,
-   "change": -4.0,
-   "changePct": -1.75,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 230.0,
    "low": 225.0,
    "open": 229.75,
@@ -1746,25 +1746,25 @@
   {
    "symbol": "HAPU.N0000",
    "name": "HAPUGASTENNE PLANTATIONS PLC",
-   "price": 56.5,
+   "price": 56.6,
    "previousClose": 52.7,
-   "change": 3.8,
-   "changePct": 7.21,
+   "change": 3.9,
+   "changePct": 7.4,
    "high": 56.9,
    "low": 56.5,
    "open": 56.9,
    "volume": 247,
    "trades": 5,
    "turnover": 13971.0,
-   "marketCap": 2440842080.3
+   "marketCap": 2621473657.4
   },
   {
    "symbol": "HARI.N0000",
    "name": "HARISCHANDRA MILLS PLC",
-   "price": 4979.0,
+   "price": 5011.25,
    "previousClose": 5011.25,
-   "change": -32.25,
-   "changePct": -0.64,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 4995.0,
    "low": 4805.0,
    "open": 4810.25,
@@ -1776,62 +1776,62 @@
   {
    "symbol": "HASU.N0000",
    "name": "HNB LIFE PLC",
-   "price": 146.75,
+   "price": 146.5,
    "previousClose": 146.75,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.25,
+   "changePct": -0.17,
    "high": 146.75,
    "low": 145.5,
    "open": 145.5,
    "volume": 79543,
    "trades": 32,
    "turnover": 11612868.0,
-   "marketCap": 22012500000.0
+   "marketCap": 21975000000.0
   },
   {
    "symbol": "HAYC.N0000",
    "name": "HAYCARB PLC",
-   "price": 217.0,
+   "price": 218.5,
    "previousClose": 215.5,
-   "change": 1.5,
-   "changePct": 0.7,
+   "change": 3.0,
+   "changePct": 1.39,
    "high": 222.0,
    "low": 216.0,
    "open": 217.0,
    "volume": 456390,
    "trades": 804,
    "turnover": 99972573.75,
-   "marketCap": 64030168125.0
+   "marketCap": 64921539375.0
   },
   {
    "symbol": "HAYL.N0000",
    "name": "HAYLEYS PLC",
-   "price": 238.5,
+   "price": 238.0,
    "previousClose": 231.0,
-   "change": 7.5,
-   "changePct": 3.25,
+   "change": 7.0,
+   "changePct": 3.03,
    "high": 239.0,
    "low": 232.0,
    "open": 232.25,
    "volume": 83919,
    "trades": 246,
    "turnover": 19728515.0,
-   "marketCap": 183645000000.0
+   "marketCap": 189210000000.0
   },
   {
    "symbol": "HBS.N0000",
    "name": "hSenid Business Solutions PLC",
-   "price": 25.3,
+   "price": 25.0,
    "previousClose": 24.2,
-   "change": 1.1,
-   "changePct": 4.55,
+   "change": 0.8,
+   "changePct": 3.31,
    "high": 25.5,
    "low": 24.1,
    "open": 24.1,
    "volume": 1045154,
    "trades": 30,
    "turnover": 26113507.7,
-   "marketCap": 6908076872.4
+   "marketCap": 7136443050.0
   },
   {
    "symbol": "HDFC.N0000",
@@ -1846,52 +1846,52 @@
    "volume": 3456,
    "trades": 11,
    "turnover": 228224.1,
-   "marketCap": 4277365372.0
+   "marketCap": 4270894320.0
   },
   {
    "symbol": "HEXP.N0000",
    "name": "HAYLEYS FIBRE PLC",
-   "price": 175.0,
+   "price": 175.25,
    "previousClose": 172.75,
-   "change": 2.25,
-   "changePct": 1.3,
+   "change": 2.5,
+   "changePct": 1.45,
    "high": 178.0,
    "low": 173.5,
    "open": 173.5,
    "volume": 369712,
    "trades": 279,
    "turnover": 64932525.25,
-   "marketCap": 4146000000.0
+   "marketCap": 4206000000.0
   },
   {
    "symbol": "HHL.N0000",
    "name": "HEMAS HOLDINGS PLC",
-   "price": 31.7,
+   "price": 31.6,
    "previousClose": 31.2,
-   "change": 0.5,
-   "changePct": 1.6,
+   "change": 0.4,
+   "changePct": 1.28,
    "high": 31.7,
    "low": 31.2,
    "open": 31.3,
-   "volume": 361689,
-   "trades": 128,
-   "turnover": 11398733.4,
-   "marketCap": 93474732468.0
+   "volume": 361999,
+   "trades": 129,
+   "turnover": 11408560.4,
+   "marketCap": 94673126474.0
   },
   {
    "symbol": "HNB.N0000",
    "name": "HATTON NATIONAL BANK PLC",
-   "price": 379.5,
+   "price": 380.0,
    "previousClose": 377.25,
-   "change": 2.25,
-   "changePct": 0.6,
+   "change": 2.75,
+   "changePct": 0.73,
    "high": 380.0,
    "low": 378.75,
    "open": 378.75,
    "volume": 137680,
    "trades": 183,
    "turnover": 52303329.25,
-   "marketCap": 173617308405.0
+   "marketCap": 174882908400.0
   },
   {
    "symbol": "HNB.X0000",
@@ -1906,67 +1906,67 @@
    "volume": 29778,
    "trades": 60,
    "turnover": 9975950.0,
-   "marketCap": 38966352672.5
+   "marketCap": 39229836650.0
   },
   {
    "symbol": "HNBF.N0000",
    "name": "HNB FINANCE PLC",
-   "price": 8.5,
+   "price": 8.3,
    "previousClose": 8.4,
-   "change": 0.1,
-   "changePct": 1.19,
+   "change": -0.1,
+   "changePct": -1.19,
    "high": 8.5,
    "low": 8.2,
    "open": 8.4,
    "volume": 2620816,
    "trades": 164,
    "turnover": 21851926.6,
-   "marketCap": 17633016290.4
+   "marketCap": 17423099429.8
   },
   {
    "symbol": "HNBF.X0000",
    "name": "HNB FINANCE PLC",
-   "price": 7.7,
+   "price": 7.6,
    "previousClose": 7.3,
-   "change": 0.4,
-   "changePct": 5.48,
+   "change": 0.3,
+   "changePct": 4.11,
    "high": 7.7,
    "low": 7.2,
    "open": 7.4,
    "volume": 937488,
    "trades": 92,
    "turnover": 7066408.6,
-   "marketCap": 3214899720.6
+   "marketCap": 3347018887.2
   },
   {
    "symbol": "HOPL.N0000",
    "name": "HORANA PLANTATIONS PLC",
-   "price": 53.6,
+   "price": 53.2,
    "previousClose": 53.0,
-   "change": 0.6,
-   "changePct": 1.13,
+   "change": 0.2,
+   "changePct": 0.38,
    "high": 53.6,
    "low": 53.0,
    "open": 53.0,
    "volume": 4799,
    "trades": 13,
    "turnover": 255337.0,
-   "marketCap": 1325000000.0
+   "marketCap": 1330000000.0
   },
   {
    "symbol": "HPFL.N0000",
    "name": "LOTUS HYDRO POWER PLC",
-   "price": 12.5,
+   "price": 12.3,
    "previousClose": 12.5,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.2,
+   "changePct": -1.6,
    "high": 12.5,
    "low": 12.3,
    "open": 12.3,
    "volume": 3115,
    "trades": 12,
    "turnover": 38327.5,
-   "marketCap": 1363601400.0
+   "marketCap": 1341783777.6
   },
   {
    "symbol": "HPL.N0000",
@@ -1996,22 +1996,22 @@
    "volume": 1164521,
    "trades": 88,
    "turnover": 10703823.8,
-   "marketCap": 3705947561.0
+   "marketCap": 4050686869.0
   },
   {
    "symbol": "HSIG.N0000",
    "name": "HOTEL SIGIRIYA PLC",
-   "price": 69.2,
+   "price": 69.3,
    "previousClose": 71.0,
-   "change": -1.8,
-   "changePct": -2.54,
+   "change": -1.7,
+   "changePct": -2.39,
    "high": 73.0,
    "low": 69.2,
    "open": 69.2,
    "volume": 30993,
    "trades": 28,
    "turnover": 2149695.5,
-   "marketCap": 1247967000.0
+   "marketCap": 1218086100.0
   },
   {
    "symbol": "HUNA.N0000",
@@ -2026,30 +2026,30 @@
    "volume": 24685,
    "trades": 23,
    "turnover": 368083.4,
-   "marketCap": 12565644000.0
+   "marketCap": 12735450000.0
   },
   {
    "symbol": "HVA.N0000",
    "name": "HVA FOODS PLC",
-   "price": 5.3,
+   "price": 5.2,
    "previousClose": 5.1,
-   "change": 0.2,
-   "changePct": 3.92,
+   "change": 0.1,
+   "changePct": 1.96,
    "high": 5.3,
    "low": 5.2,
    "open": 5.3,
    "volume": 237596,
    "trades": 48,
    "turnover": 1254812.5,
-   "marketCap": 1247083558.8
+   "marketCap": 1271536177.6
   },
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1895.0,
+   "price": 1767.75,
    "previousClose": 1767.75,
-   "change": 127.25,
-   "changePct": 7.2,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1900.0,
    "low": 1895.0,
    "open": 1900.0,
@@ -2071,52 +2071,52 @@
    "volume": 1056480,
    "trades": 481,
    "turnover": 37132717.2,
-   "marketCap": 18285276660.0
+   "marketCap": 18389763955.2
   },
   {
    "symbol": "JETS.N0000",
    "name": "JETWING SYMPHONY PLC",
-   "price": 14.9,
+   "price": 14.8,
    "previousClose": 14.7,
-   "change": 0.2,
-   "changePct": 1.36,
+   "change": 0.1,
+   "changePct": 0.68,
    "high": 14.9,
    "low": 14.6,
    "open": 14.8,
    "volume": 174922,
    "trades": 33,
    "turnover": 2585036.9,
-   "marketCap": 8852171817.3
+   "marketCap": 8912390673.2
   },
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 16.7,
+   "price": 16.8,
    "previousClose": 16.6,
-   "change": 0.1,
-   "changePct": 0.6,
+   "change": 0.2,
+   "changePct": 1.2,
    "high": 16.8,
    "low": 16.5,
    "open": 16.6,
    "volume": 104691,
    "trades": 63,
    "turnover": 1745865.9,
-   "marketCap": 2857373670.4
+   "marketCap": 2891799859.2
   },
   {
    "symbol": "JINS.N0000",
    "name": "JANASHAKTHI INSURANCE PLC",
-   "price": 40.9,
+   "price": 40.8,
    "previousClose": 40.4,
-   "change": 0.5,
-   "changePct": 1.24,
+   "change": 0.4,
+   "changePct": 0.99,
    "high": 41.0,
    "low": 39.8,
    "open": 40.5,
    "volume": 133553,
    "trades": 131,
    "turnover": 5391938.2,
-   "marketCap": 27454969743.6
+   "marketCap": 27726801127.2
   },
   {
    "symbol": "JKH.N0000",
@@ -2131,15 +2131,15 @@
    "volume": 964580,
    "trades": 344,
    "turnover": 18873855.2,
-   "marketCap": 345934152135.0
+   "marketCap": 347708173428.0
   },
   {
    "symbol": "JKL.N0000",
    "name": "JOHN KEELLS PLC",
-   "price": 78.1,
+   "price": 78.2,
    "previousClose": 78.2,
-   "change": -0.1,
-   "changePct": -0.13,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 78.2,
    "low": 78.0,
    "open": 78.0,
@@ -2151,47 +2151,47 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI LIMITED",
-   "price": 11.5,
+   "price": 11.3,
    "previousClose": 11.0,
-   "change": 0.5,
-   "changePct": 4.55,
+   "change": 0.3,
+   "changePct": 2.73,
    "high": 11.5,
    "low": 11.0,
    "open": 11.1,
    "volume": 1074748,
    "trades": 170,
    "turnover": 12087941.2,
-   "marketCap": 25300000000.0
+   "marketCap": 25990000000.0
   },
   {
    "symbol": "KAHA.N0000",
    "name": "KAHAWATTE  PLANTATIONS  PLC",
-   "price": 16.3,
+   "price": 16.0,
    "previousClose": 16.2,
-   "change": 0.1,
-   "changePct": 0.62,
+   "change": -0.2,
+   "changePct": -1.23,
    "high": 16.3,
    "low": 16.0,
    "open": 16.2,
    "volume": 665,
    "trades": 8,
    "turnover": 10662.5,
-   "marketCap": 1610388394.2
+   "marketCap": 1590507056.0
   },
   {
    "symbol": "KCAB.N0000",
    "name": "KELANI CABLES PLC",
-   "price": 106.75,
+   "price": 106.0,
    "previousClose": 99.1,
-   "change": 7.65,
-   "changePct": 7.72,
+   "change": 6.9,
+   "changePct": 6.96,
    "high": 109.75,
    "low": 99.0,
    "open": 99.2,
    "volume": 224566,
    "trades": 266,
    "turnover": 23313642.75,
-   "marketCap": 21603800000.0
+   "marketCap": 23108000000.0
   },
   {
    "symbol": "KFP.N0000",
@@ -2206,15 +2206,15 @@
    "volume": 213,
    "trades": 9,
    "turnover": 35781.5,
-   "marketCap": 4309500000.0
+   "marketCap": 4284000000.0
   },
   {
    "symbol": "KGAL.N0000",
    "name": "KEGALLE  PLANTATIONS  PLC",
-   "price": 137.75,
+   "price": 133.75,
    "previousClose": 133.75,
-   "change": 4.0,
-   "changePct": 2.99,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 137.75,
    "low": 137.75,
    "open": 137.75,
@@ -2226,17 +2226,17 @@
   {
    "symbol": "KHC.N0000",
    "name": "THE KANDY HOTELS COMPANY (1938) PLC",
-   "price": 13.0,
+   "price": 12.9,
    "previousClose": 13.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.77,
    "high": 13.0,
    "low": 12.9,
    "open": 13.0,
    "volume": 16999,
    "trades": 24,
    "turnover": 220507.9,
-   "marketCap": 9806020289.0
+   "marketCap": 9730589363.7
   },
   {
    "symbol": "KHL.N0000",
@@ -2251,37 +2251,37 @@
    "volume": 144382,
    "trades": 65,
    "turnover": 2431664.9,
-   "marketCap": 24172036548.0
+   "marketCap": 24608880582.0
   },
   {
    "symbol": "KOTA.N0000",
    "name": "KOTAGALA PLANTATIONS PLC",
-   "price": 8.1,
+   "price": 8.0,
    "previousClose": 8.1,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -1.23,
    "high": 8.2,
    "low": 7.9,
    "open": 8.2,
-   "volume": 196806,
-   "trades": 69,
-   "turnover": 1571801.1,
-   "marketCap": 3427439062.5
+   "volume": 197806,
+   "trades": 70,
+   "turnover": 1579901.1,
+   "marketCap": 3385125000.0
   },
   {
    "symbol": "KPHL.N0000",
    "name": "KAPRUKA HOLDINGS PLC",
-   "price": 19.0,
+   "price": 19.8,
    "previousClose": 19.1,
-   "change": -0.1,
-   "changePct": -0.52,
+   "change": 0.7,
+   "changePct": 3.66,
    "high": 20.9,
    "low": 18.5,
    "open": 18.5,
    "volume": 46148,
    "trades": 108,
    "turnover": 903825.2,
-   "marketCap": 3134889876.0
+   "marketCap": 3249781128.0
   },
   {
    "symbol": "KVAL.N0000",
@@ -2296,15 +2296,15 @@
    "volume": 1406,
    "trades": 14,
    "turnover": 114376.3,
-   "marketCap": 5528400000.0
+   "marketCap": 5542000000.0
   },
   {
    "symbol": "KZOO.N0000",
    "name": "CEYLON LAND & EQUITY PLC",
-   "price": 8.8,
+   "price": 8.7,
    "previousClose": 8.7,
-   "change": 0.1,
-   "changePct": 1.15,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 8.8,
    "low": 8.4,
    "open": 8.8,
@@ -2331,10 +2331,10 @@
   {
    "symbol": "LAMB.N0000",
    "name": "KOTMALE HOLDINGS PLC",
-   "price": 1325.0,
+   "price": 1242.25,
    "previousClose": 1242.25,
-   "change": 82.75,
-   "changePct": 6.66,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1325.0,
    "low": 1325.0,
    "open": 1325.0,
@@ -2356,7 +2356,7 @@
    "volume": 603949,
    "trades": 74,
    "turnover": 3776899.5,
-   "marketCap": 4820029558.0
+   "marketCap": 4899046436.0
   },
   {
    "symbol": "LCEY.N0000",
@@ -2371,7 +2371,7 @@
    "volume": 21051,
    "trades": 34,
    "turnover": 776820.9,
-   "marketCap": 4968643742.4
+   "marketCap": 5078448024.0
   },
   {
    "symbol": "LDEV.N0000",
@@ -2386,15 +2386,15 @@
    "volume": 2298,
    "trades": 10,
    "turnover": 41054.5,
-   "marketCap": 2960000000.0
+   "marketCap": 2832000000.0
   },
   {
    "symbol": "LFIN.N0000",
    "name": "LB FINANCE PLC",
-   "price": 156.0,
+   "price": 155.0,
    "previousClose": 155.0,
-   "change": 1.0,
-   "changePct": 0.65,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 157.0,
    "low": 155.0,
    "open": 156.0,
@@ -2406,17 +2406,17 @@
   {
    "symbol": "LGIL.N0000",
    "name": "LOLC GENERAL INSURANCE PLC",
-   "price": 7.3,
+   "price": 7.2,
    "previousClose": 7.1,
-   "change": 0.2,
-   "changePct": 2.82,
+   "change": 0.1,
+   "changePct": 1.41,
    "high": 7.5,
    "low": 7.2,
    "open": 7.2,
    "volume": 52635,
    "trades": 28,
    "turnover": 379437.6,
-   "marketCap": 8520000000.0
+   "marketCap": 8640000000.0
   },
   {
    "symbol": "LGL.N0000",
@@ -2431,22 +2431,22 @@
    "volume": 336710,
    "trades": 79,
    "turnover": 15487152.9,
-   "marketCap": 15075003870.0
+   "marketCap": 15812004059.2
   },
   {
    "symbol": "LGL.X0000",
    "name": "LAUGFS GAS PLC",
-   "price": 34.5,
+   "price": 33.0,
    "previousClose": 32.4,
-   "change": 2.1,
-   "changePct": 6.48,
+   "change": 0.6,
+   "changePct": 1.85,
    "high": 34.5,
    "low": 32.6,
    "open": 32.8,
    "volume": 16612,
    "trades": 12,
    "turnover": 548750.2,
-   "marketCap": 1684800000.0
+   "marketCap": 1716000000.0
   },
   {
    "symbol": "LHCL.N0000",
@@ -2466,47 +2466,47 @@
   {
    "symbol": "LHL.N0000",
    "name": "THE  LIGHTHOUSE  HOTEL  PLC",
-   "price": 73.5,
+   "price": 73.2,
    "previousClose": 70.2,
-   "change": 3.3,
-   "changePct": 4.7,
+   "change": 3.0,
+   "changePct": 4.27,
    "high": 78.1,
    "low": 72.7,
    "open": 72.7,
    "volume": 436,
    "trades": 7,
    "turnover": 31934.1,
-   "marketCap": 3229200000.0
+   "marketCap": 3367200000.0
   },
   {
    "symbol": "LIOC.N0000",
    "name": "LANKA IOC PLC",
-   "price": 132.0,
+   "price": 131.75,
    "previousClose": 131.5,
-   "change": 0.5,
-   "changePct": 0.38,
+   "change": 0.25,
+   "changePct": 0.19,
    "high": 132.0,
    "low": 130.75,
    "open": 132.0,
    "volume": 99771,
    "trades": 104,
    "turnover": 13111905.25,
-   "marketCap": 70019240207.5
+   "marketCap": 70152356633.75
   },
   {
    "symbol": "LION.N0000",
    "name": "LION BREWERY (CEYLON) PLC",
-   "price": 1790.75,
+   "price": 1751.75,
    "previousClose": 1736.75,
-   "change": 54.0,
-   "changePct": 3.11,
+   "change": 15.0,
+   "changePct": 0.86,
    "high": 1790.75,
    "low": 1750.0,
    "open": 1750.5,
    "volume": 229,
    "trades": 8,
    "turnover": 401108.0,
-   "marketCap": 138940000000.0
+   "marketCap": 140140000000.0
   },
   {
    "symbol": "LITE.N0000",
@@ -2521,15 +2521,15 @@
    "volume": 35312,
    "trades": 127,
    "turnover": 1664963.3,
-   "marketCap": 2927142303.8
+   "marketCap": 3119194626.9
   },
   {
    "symbol": "LLUB.N0000",
    "name": "CHEVRON LUBRICANTS  LANKA  PLC",
-   "price": 204.5,
+   "price": 204.75,
    "previousClose": 204.75,
-   "change": -0.25,
-   "changePct": -0.12,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 206.0,
    "low": 204.0,
    "open": 204.75,
@@ -2541,17 +2541,17 @@
   {
    "symbol": "LMF.N0000",
    "name": "LANKA MILK FOODS (CWE) PLC",
-   "price": 88.7,
+   "price": 88.5,
    "previousClose": 87.6,
-   "change": 1.1,
-   "changePct": 1.26,
+   "change": 0.9,
+   "changePct": 1.03,
    "high": 89.0,
    "low": 86.8,
    "open": 88.0,
-   "volume": 153124,
-   "trades": 191,
-   "turnover": 13421480.2,
-   "marketCap": 35038248000.0
+   "volume": 161637,
+   "trades": 195,
+   "turnover": 14172346.0,
+   "marketCap": 35398230000.0
   },
   {
    "symbol": "LOFC.N0000",
@@ -2563,25 +2563,25 @@
    "high": 5.3,
    "low": 5.1,
    "open": 5.2,
-   "volume": 542472,
-   "trades": 69,
-   "turnover": 2818314.0,
-   "marketCap": 156668779953.3
+   "volume": 547472,
+   "trades": 70,
+   "turnover": 2844314.0,
+   "marketCap": 153712765237.2
   },
   {
    "symbol": "LOLC.N0000",
    "name": "L O L C HOLDINGS PLC",
-   "price": 473.75,
+   "price": 470.0,
    "previousClose": 465.5,
-   "change": 8.25,
-   "changePct": 1.77,
+   "change": 4.5,
+   "changePct": 0.97,
    "high": 475.0,
    "low": 460.0,
    "open": 467.5,
    "volume": 23142,
    "trades": 100,
    "turnover": 10857391.5,
-   "marketCap": 221205600000.0
+   "marketCap": 223344000000.0
   },
   {
    "symbol": "LPL.N0000",
@@ -2596,7 +2596,7 @@
    "volume": 2964,
    "trades": 6,
    "turnover": 31102.0,
-   "marketCap": 3417000877.2
+   "marketCap": 3517500903.0
   },
   {
    "symbol": "LPL.X0000",
@@ -2611,7 +2611,7 @@
    "volume": 6235,
    "trades": 4,
    "turnover": 54491.5,
-   "marketCap": 447200000.0
+   "marketCap": 452400000.0
   },
   {
    "symbol": "LPRT.N0000",
@@ -2626,7 +2626,7 @@
    "volume": 169,
    "trades": 11,
    "turnover": 115639.5,
-   "marketCap": 2005404023.75
+   "marketCap": 2011278513.75
   },
   {
    "symbol": "LUMX.N0000",
@@ -2641,15 +2641,15 @@
    "volume": 161727,
    "trades": 76,
    "turnover": 1533424.5,
-   "marketCap": 2522625000.0
+   "marketCap": 2604000000.0
   },
   {
    "symbol": "LVEF.N0000",
    "name": "L V L ENERGY FUND PLC",
-   "price": 6.5,
+   "price": 6.4,
    "previousClose": 6.4,
-   "change": 0.1,
-   "changePct": 1.56,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 6.5,
    "low": 6.3,
    "open": 6.4,
@@ -2671,22 +2671,22 @@
    "volume": 2000,
    "trades": 7,
    "turnover": 99600.0,
-   "marketCap": 2875419147.6
+   "marketCap": 2904581613.6
   },
   {
    "symbol": "LWL.N0000",
    "name": "LANKA WALLTILE PLC",
-   "price": 47.5,
+   "price": 47.4,
    "previousClose": 44.0,
-   "change": 3.5,
-   "changePct": 7.95,
+   "change": 3.4,
+   "changePct": 7.73,
    "high": 48.5,
    "low": 44.0,
    "open": 44.4,
    "volume": 354607,
    "trades": 136,
    "turnover": 15854671.7,
-   "marketCap": 12012000000.0
+   "marketCap": 12940200000.0
   },
   {
    "symbol": "MADU.N0000",
@@ -2701,15 +2701,15 @@
    "volume": 155,
    "trades": 5,
    "turnover": 1572.4,
-   "marketCap": 1695010970.0
+   "marketCap": 1728911189.4
   },
   {
    "symbol": "MAL.N0000",
    "name": "MALWATTE VALLEY PLANTATION PLC",
-   "price": 56.2,
+   "price": 55.6,
    "previousClose": 55.6,
-   "change": 0.6,
-   "changePct": 1.08,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 56.2,
    "low": 55.6,
    "open": 56.0,
@@ -2731,7 +2731,7 @@
    "volume": 201,
    "trades": 1,
    "turnover": 6813.9,
-   "marketCap": 678397110.0
+   "marketCap": 686497374.0
   },
   {
    "symbol": "MARA.N0000",
@@ -2751,25 +2751,25 @@
   {
    "symbol": "MASK.N0000",
    "name": "MASKELIYA PLANTATIONS PLC",
-   "price": 62.0,
+   "price": 62.1,
    "previousClose": 60.0,
-   "change": 2.0,
-   "changePct": 3.33,
+   "change": 2.1,
+   "changePct": 3.5,
    "high": 62.5,
    "low": 62.0,
    "open": 62.0,
    "volume": 3484,
    "trades": 16,
    "turnover": 216283.5,
-   "marketCap": 3237209340.0
+   "marketCap": 3350511666.9
   },
   {
    "symbol": "MBSL.N0000",
    "name": "MERCHANT BANK OF SRI LANKA & FINANCE PLC",
-   "price": 11.1,
+   "price": 11.0,
    "previousClose": 11.0,
-   "change": 0.1,
-   "changePct": 0.91,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 11.2,
    "low": 10.6,
    "open": 11.1,
@@ -2796,10 +2796,10 @@
   {
    "symbol": "MDL.N0000",
    "name": "MYLAND DEVELOPMENTS PLC",
-   "price": 21.3,
+   "price": 21.0,
    "previousClose": 21.0,
-   "change": 0.3,
-   "changePct": 1.43,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 21.5,
    "low": 20.7,
    "open": 21.0,
@@ -2821,7 +2821,7 @@
    "volume": 32425,
    "trades": 15,
    "turnover": 165468.0,
-   "marketCap": 500000000.0
+   "marketCap": 520000000.0
   },
   {
    "symbol": "MELS.N0000",
@@ -2833,40 +2833,40 @@
    "high": 190.0,
    "low": 188.5,
    "open": 189.0,
-   "volume": 120448,
-   "trades": 85,
-   "turnover": 22876334.5,
-   "marketCap": 221425443680.0
+   "volume": 120648,
+   "trades": 86,
+   "turnover": 22914084.5,
+   "marketCap": 219968697340.0
   },
   {
    "symbol": "MERC.N0000",
    "name": "MERCANTILE INVESTMENTS AND FINANCE PLC",
-   "price": 24.1,
+   "price": 23.9,
    "previousClose": 22.8,
-   "change": 1.3,
-   "changePct": 5.7,
+   "change": 1.1,
+   "changePct": 4.82,
    "high": 24.4,
    "low": 23.0,
    "open": 23.0,
-   "volume": 86444,
-   "trades": 39,
-   "turnover": 2060324.9,
-   "marketCap": 14468880000.0
+   "volume": 88444,
+   "trades": 40,
+   "turnover": 2108924.9,
+   "marketCap": 15166940000.0
   },
   {
    "symbol": "MFPE.N0000",
    "name": "MAHARAJA FOODS PLC",
-   "price": 16.6,
+   "price": 16.5,
    "previousClose": 16.2,
-   "change": 0.4,
-   "changePct": 2.47,
+   "change": 0.3,
+   "changePct": 1.85,
    "high": 16.6,
    "low": 16.1,
    "open": 16.2,
    "volume": 63348,
    "trades": 50,
    "turnover": 1038167.2,
-   "marketCap": 2227500000.0
+   "marketCap": 2268750000.0
   },
   {
    "symbol": "MGT.N0000",
@@ -2886,17 +2886,17 @@
   {
    "symbol": "MHDL.N0000",
    "name": "MILLENNIUM HOUSING DEVELOPERS PLC",
-   "price": 8.9,
+   "price": 8.8,
    "previousClose": 8.2,
-   "change": 0.7,
-   "changePct": 8.54,
+   "change": 0.6,
+   "changePct": 7.32,
    "high": 9.0,
    "low": 8.2,
    "open": 8.2,
    "volume": 71918,
    "trades": 89,
    "turnover": 626181.0,
-   "marketCap": 1104386824.0
+   "marketCap": 1185195616.0
   },
   {
    "symbol": "MRH.N0000",
@@ -2911,7 +2911,7 @@
    "volume": 1400,
    "trades": 4,
    "turnover": 23840.0,
-   "marketCap": 790716309.6
+   "marketCap": 804836243.7
   },
   {
    "symbol": "MSL.N0000",
@@ -2926,7 +2926,7 @@
    "volume": 769,
    "trades": 9,
    "turnover": 146579.25,
-   "marketCap": 544815585.0
+   "marketCap": 560463030.0
   },
   {
    "symbol": "MULL.N0000",
@@ -2941,7 +2941,7 @@
    "volume": 125261,
    "trades": 14,
    "turnover": 264392.7,
-   "marketCap": 594300000.0
+   "marketCap": 622600000.0
   },
   {
    "symbol": "NAMU.N0000",
@@ -2956,7 +2956,7 @@
    "volume": 5310,
    "trades": 13,
    "turnover": 355391.2,
-   "marketCap": 15675000000.0
+   "marketCap": 15888750000.0
   },
   {
    "symbol": "NDB.N0000",
@@ -2971,15 +2971,15 @@
    "volume": 20938,
    "trades": 99,
    "turnover": 2325524.0,
-   "marketCap": 48298107949.5
+   "marketCap": 47973959574.0
   },
   {
    "symbol": "NEH.N0000",
    "name": "THE NUWARA ELIYA HOTELS COMPANY PLC",
-   "price": 4302.0,
+   "price": 4168.5,
    "previousClose": 4168.5,
-   "change": 133.5,
-   "changePct": 3.2,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 4302.0,
    "low": 4302.0,
    "open": 4302.0,
@@ -2991,40 +2991,40 @@
   {
    "symbol": "NHL.N0000",
    "name": "NAWALOKA HOSPITALS PLC",
-   "price": 13.4,
+   "price": 13.1,
    "previousClose": 13.0,
-   "change": 0.4,
-   "changePct": 3.08,
+   "change": 0.1,
+   "changePct": 0.77,
    "high": 13.4,
    "low": 12.8,
    "open": 13.1,
    "volume": 60111,
    "trades": 53,
    "turnover": 782345.5,
-   "marketCap": 18323572748.0
+   "marketCap": 18464523307.6
   },
   {
    "symbol": "NTB.N0000",
    "name": "NATIONS TRUST BANK PLC",
-   "price": 312.0,
+   "price": 311.25,
    "previousClose": 311.0,
-   "change": 1.0,
-   "changePct": 0.32,
+   "change": 0.25,
+   "changePct": 0.08,
    "high": 312.0,
    "low": 309.0,
    "open": 310.0,
    "volume": 26531,
    "trades": 59,
    "turnover": 8243710.25,
-   "marketCap": 89720871428.0
+   "marketCap": 89792994315.0
   },
   {
    "symbol": "NTB.X0000",
    "name": "NATIONS TRUST BANK PLC",
-   "price": 404.0,
+   "price": 402.25,
    "previousClose": 402.25,
-   "change": 1.75,
-   "changePct": 0.44,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 404.0,
    "low": 395.5,
    "open": 395.5,
@@ -3036,32 +3036,32 @@
   {
    "symbol": "ODEL.N0000",
    "name": "ODEL PLC",
-   "price": 10.4,
+   "price": 10.5,
    "previousClose": 11.0,
-   "change": -0.6,
-   "changePct": -5.45,
+   "change": -0.5,
+   "changePct": -4.55,
    "high": 11.5,
    "low": 10.4,
    "open": 11.0,
    "volume": 31807,
    "trades": 35,
    "turnover": 342068.3,
-   "marketCap": 5922069274.0
+   "marketCap": 5652884307.0
   },
   {
    "symbol": "OFEQ.N0000",
    "name": "OFFICE EQUIPMENT PLC",
-   "price": 456.25,
+   "price": 454.75,
    "previousClose": 480.75,
-   "change": -24.5,
-   "changePct": -5.1,
+   "change": -26.0,
+   "changePct": -5.41,
    "high": 470.0,
    "low": 452.0,
    "open": 470.0,
    "volume": 100,
    "trades": 13,
    "turnover": 45472.25,
-   "marketCap": 400733970.0
+   "marketCap": 379061410.0
   },
   {
    "symbol": "ONAL.N0000",
@@ -3091,22 +3091,22 @@
    "volume": 246761,
    "trades": 92,
    "turnover": 13035317.4,
-   "marketCap": 65880567846.0
+   "marketCap": 66004870804.2
   },
   {
    "symbol": "PABC.N0000",
    "name": "PAN ASIA BANKING CORPORATION PLC",
-   "price": 53.5,
+   "price": 53.4,
    "previousClose": 52.3,
-   "change": 1.2,
-   "changePct": 2.29,
+   "change": 1.1,
+   "changePct": 2.1,
    "high": 53.5,
    "low": 52.3,
    "open": 52.3,
    "volume": 30146,
    "trades": 78,
    "turnover": 1599263.3,
-   "marketCap": 23145973196.7
+   "marketCap": 23632790988.6
   },
   {
    "symbol": "PACK.N0000",
@@ -3121,22 +3121,22 @@
    "volume": 34246,
    "trades": 20,
    "turnover": 391251.4,
-   "marketCap": 3766666662.9
+   "marketCap": 3866666662.8
   },
   {
    "symbol": "PALM.N0000",
    "name": "PALM GARDEN HOTELS PLC",
-   "price": 51.9,
+   "price": 51.4,
    "previousClose": 51.2,
-   "change": 0.7,
-   "changePct": 1.37,
+   "change": 0.2,
+   "changePct": 0.39,
    "high": 51.9,
    "low": 51.4,
    "open": 51.4,
    "volume": 555,
    "trades": 6,
    "turnover": 28529.5,
-   "marketCap": 24367974400.0
+   "marketCap": 24463161800.0
   },
   {
    "symbol": "PAP.N0000",
@@ -3151,52 +3151,52 @@
    "volume": 105530,
    "trades": 61,
    "turnover": 1648605.8,
-   "marketCap": 9812500000.0
+   "marketCap": 9750000000.0
   },
   {
    "symbol": "PARA.N0000",
    "name": "PARAGON CEYLON PLC",
-   "price": 531.0,
+   "price": 556.75,
    "previousClose": 586.25,
-   "change": -55.25,
-   "changePct": -9.42,
+   "change": -29.5,
+   "changePct": -5.03,
    "high": 595.0,
    "low": 531.0,
    "open": 555.75,
    "volume": 254,
    "trades": 27,
    "turnover": 141442.0,
-   "marketCap": 586414150.0
+   "marketCap": 556905890.0
   },
   {
    "symbol": "PARQ.N0000",
    "name": "SWISSTEK (CEYLON) PLC",
-   "price": 81.0,
+   "price": 80.6,
    "previousClose": 77.1,
-   "change": 3.9,
-   "changePct": 5.06,
+   "change": 3.5,
+   "changePct": 4.54,
    "high": 81.9,
    "low": 78.0,
    "open": 78.0,
    "volume": 1131579,
    "trades": 485,
    "turnover": 90964339.5,
-   "marketCap": 10551906000.0
+   "marketCap": 11030916000.0
   },
   {
    "symbol": "PEG.N0000",
    "name": "PEGASUS HOTELS OF CEYLON PLC",
-   "price": 41.0,
+   "price": 40.1,
    "previousClose": 37.2,
-   "change": 3.8,
-   "changePct": 10.22,
+   "change": 2.9,
+   "changePct": 7.8,
    "high": 41.0,
    "low": 37.0,
    "open": 37.1,
    "volume": 12838,
    "trades": 26,
    "turnover": 509835.7,
-   "marketCap": 1570229484.0
+   "marketCap": 1692639847.0
   },
   {
    "symbol": "PHAR.N0000",
@@ -3211,7 +3211,7 @@
    "volume": 43755,
    "trades": 126,
    "turnover": 8811511.5,
-   "marketCap": 4894135165.0
+   "marketCap": 5065970860.0
   },
   {
    "symbol": "PINS.N0000",
@@ -3226,7 +3226,7 @@
    "volume": 152722,
    "trades": 90,
    "turnover": 4467837.6,
-   "marketCap": 5884978614.2
+   "marketCap": 5905341862.0
   },
   {
    "symbol": "PKME.N0000",
@@ -3241,22 +3241,22 @@
    "volume": 15441,
    "trades": 60,
    "turnover": 2470190.5,
-   "marketCap": 53328214505.25
+   "marketCap": 53411670240.0
   },
   {
    "symbol": "PLC.N0000",
    "name": "PEOPLE'S LEASING & FINANCE PLC",
-   "price": 19.1,
+   "price": 19.0,
    "previousClose": 19.2,
-   "change": -0.1,
-   "changePct": -0.52,
+   "change": -0.2,
+   "changePct": -1.04,
    "high": 19.2,
    "low": 19.0,
    "open": 19.2,
    "volume": 358318,
    "trades": 163,
    "turnover": 6820270.0,
-   "marketCap": 43576974912.0
+   "marketCap": 43123048090.0
   },
   {
    "symbol": "PLR.N0000",
@@ -3268,10 +3268,10 @@
    "high": 43.9,
    "low": 42.1,
    "open": 42.1,
-   "volume": 498059,
-   "trades": 308,
-   "turnover": 21630116.8,
-   "marketCap": 39468750000.0
+   "volume": 498359,
+   "trades": 309,
+   "turnover": 21643226.8,
+   "marketCap": 40781250000.0
   },
   {
    "symbol": "PMB.N0000",
@@ -3286,7 +3286,7 @@
    "volume": 3244,
    "trades": 11,
    "turnover": 32806.2,
-   "marketCap": 4134077850.0
+   "marketCap": 4255668375.0
   },
   {
    "symbol": "RAL.N0000",
@@ -3301,15 +3301,15 @@
    "volume": 3027032,
    "trades": 359,
    "turnover": 35998292.9,
-   "marketCap": 8787122355.0
+   "marketCap": 9585951660.0
   },
   {
    "symbol": "RCH.N0000",
    "name": "RENUKA HOTELS PLC",
-   "price": 210.0,
+   "price": 209.25,
    "previousClose": 209.25,
-   "change": 0.75,
-   "changePct": 0.36,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 210.0,
    "low": 205.0,
    "open": 210.0,
@@ -3321,17 +3321,17 @@
   {
    "symbol": "RCL.N0000",
    "name": "ROYAL CERAMICS LANKA PLC",
-   "price": 49.9,
+   "price": 49.5,
    "previousClose": 47.9,
-   "change": 2.0,
-   "changePct": 4.18,
+   "change": 1.6,
+   "changePct": 3.34,
    "high": 49.9,
    "low": 48.0,
    "open": 48.2,
    "volume": 1411391,
    "trades": 333,
    "turnover": 69527228.8,
-   "marketCap": 53068114936.0
+   "marketCap": 54840745080.0
   },
   {
    "symbol": "REEF.N0000",
@@ -3346,7 +3346,7 @@
    "volume": 689130,
    "trades": 86,
    "turnover": 2578440.3,
-   "marketCap": 2388663304.9
+   "marketCap": 2453221772.6
   },
   {
    "symbol": "RENU.N0000",
@@ -3361,22 +3361,22 @@
    "volume": 460,
    "trades": 9,
    "turnover": 358822.0,
-   "marketCap": 5330500000.0
+   "marketCap": 5460000000.0
   },
   {
    "symbol": "REXP.N0000",
    "name": "RICHARD PIERIS EXPORTS PLC",
-   "price": 338.0,
+   "price": 338.25,
    "previousClose": 338.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.25,
+   "changePct": 0.07,
    "high": 344.75,
    "low": 338.0,
    "open": 344.75,
    "volume": 133,
    "trades": 13,
    "turnover": 45044.5,
-   "marketCap": 3773345810.0
+   "marketCap": 3776136746.25
   },
   {
    "symbol": "RFL.N0000",
@@ -3391,15 +3391,15 @@
    "volume": 1642,
    "trades": 7,
    "turnover": 39147.6,
-   "marketCap": 474000000.0
+   "marketCap": 476000000.0
   },
   {
    "symbol": "RGEM.N0000",
    "name": "RADIANT GEMS INTERNATIONAL PLC",
-   "price": 136.75,
+   "price": 132.75,
    "previousClose": 132.75,
-   "change": 4.0,
-   "changePct": 3.01,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 137.5,
    "low": 130.0,
    "open": 130.0,
@@ -3411,10 +3411,10 @@
   {
    "symbol": "RHL.N0000",
    "name": "RENUKA HOLDINGS PLC",
-   "price": 45.8,
+   "price": 43.0,
    "previousClose": 43.0,
-   "change": 2.8,
-   "changePct": 6.51,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 45.8,
    "low": 42.4,
    "open": 43.0,
@@ -3436,7 +3436,7 @@
    "volume": 9137,
    "trades": 27,
    "turnover": 286455.1,
-   "marketCap": 820438274.1
+   "marketCap": 813177758.4
   },
   {
    "symbol": "RHTL.N0000",
@@ -3466,7 +3466,7 @@
    "volume": 55153,
    "trades": 74,
    "turnover": 1435350.1,
-   "marketCap": 53318002805.0
+   "marketCap": 52910995150.0
   },
   {
    "symbol": "RIL.N0000",
@@ -3481,22 +3481,22 @@
    "volume": 932874,
    "trades": 366,
    "turnover": 23625660.4,
-   "marketCap": 19200000000.0
+   "marketCap": 20560000000.0
   },
   {
    "symbol": "RPBH.N0000",
    "name": "ROYAL PALMS BEACH HOTELS PLC",
-   "price": 48.8,
+   "price": 48.7,
    "previousClose": 48.9,
-   "change": -0.1,
-   "changePct": -0.2,
+   "change": -0.2,
+   "changePct": -0.41,
    "high": 48.8,
    "low": 46.7,
    "open": 46.7,
    "volume": 201,
    "trades": 3,
    "turnover": 9588.8,
-   "marketCap": 2445000000.0
+   "marketCap": 2435000000.0
   },
   {
    "symbol": "RWSL.N0000",
@@ -3511,7 +3511,7 @@
    "volume": 27210,
    "trades": 23,
    "turnover": 514879.3,
-   "marketCap": 5192614688.0
+   "marketCap": 5361939080.0
   },
   {
    "symbol": "SAMP.N0000",
@@ -3526,7 +3526,7 @@
    "volume": 245021,
    "trades": 370,
    "turnover": 34120589.5,
-   "marketCap": 162712230450.0
+   "marketCap": 163884931210.0
   },
   {
    "symbol": "SCAP.N0000",
@@ -3541,22 +3541,22 @@
    "volume": 1251574,
    "trades": 167,
    "turnover": 13868331.0,
-   "marketCap": 10651340480.0
+   "marketCap": 10846777920.0
   },
   {
    "symbol": "SDB.N0000",
    "name": "SANASA DEVELOPMENT BANK PLC",
-   "price": 48.3,
+   "price": 48.5,
    "previousClose": 48.1,
-   "change": 0.2,
-   "changePct": 0.42,
+   "change": 0.4,
+   "changePct": 0.83,
    "high": 49.0,
    "low": 48.3,
    "open": 49.0,
    "volume": 954,
    "trades": 9,
    "turnover": 46355.7,
-   "marketCap": 7896408361.4
+   "marketCap": 7962074959.0
   },
   {
    "symbol": "SDF.N0000",
@@ -3571,7 +3571,7 @@
    "volume": 2261,
    "trades": 9,
    "turnover": 87255.8,
-   "marketCap": 5759448002.0
+   "marketCap": 5729528791.6
   },
   {
    "symbol": "SEMB.N0000",
@@ -3586,15 +3586,15 @@
    "volume": 2078185,
    "trades": 52,
    "turnover": 2156348.5,
-   "marketCap": 6470375048.0
+   "marketCap": 7117412552.8
   },
   {
    "symbol": "SEMB.X0000",
    "name": "SMB FINANCE PLC",
-   "price": 0.4,
+   "price": 0.3,
    "previousClose": 0.3,
-   "change": 0.1,
-   "changePct": 33.33,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 0.4,
    "low": 0.3,
    "open": 0.3,
@@ -3606,32 +3606,32 @@
   {
    "symbol": "SERV.N0000",
    "name": "THE KINGSBURY PLC",
-   "price": 14.7,
+   "price": 14.5,
    "previousClose": 14.1,
-   "change": 0.6,
-   "changePct": 4.26,
+   "change": 0.4,
+   "changePct": 2.84,
    "high": 14.7,
    "low": 14.1,
    "open": 14.4,
    "volume": 37148,
    "trades": 46,
    "turnover": 536116.0,
-   "marketCap": 6824400000.0
+   "marketCap": 7018000000.0
   },
   {
    "symbol": "SEYB.N0000",
    "name": "SEYLAN BANK PLC",
-   "price": 96.9,
+   "price": 96.7,
    "previousClose": 96.5,
-   "change": 0.4,
-   "changePct": 0.41,
+   "change": 0.2,
+   "changePct": 0.21,
    "high": 98.0,
    "low": 96.4,
    "open": 98.0,
    "volume": 50720,
    "trades": 46,
    "turnover": 4900923.7,
-   "marketCap": 29455364420.5
+   "marketCap": 29516411807.9
   },
   {
    "symbol": "SEYB.X0000",
@@ -3646,22 +3646,22 @@
    "volume": 82650,
    "trades": 84,
    "turnover": 5655596.6,
-   "marketCap": 22666153302.8
+   "marketCap": 22633112263.0
   },
   {
    "symbol": "SFCL.N0000",
    "name": "SENKADAGALA FINANCE COMPANY PLC",
-   "price": 355.0,
+   "price": 350.25,
    "previousClose": 350.0,
-   "change": 5.0,
-   "changePct": 1.43,
+   "change": 0.25,
+   "changePct": 0.07,
    "high": 357.75,
    "low": 350.0,
    "open": 357.75,
    "volume": 105,
    "trades": 5,
    "turnover": 36777.75,
-   "marketCap": 31707839100.0
+   "marketCap": 31730487556.5
   },
   {
    "symbol": "SFIN.N0000",
@@ -3676,22 +3676,22 @@
    "volume": 14835,
    "trades": 25,
    "turnover": 714464.2,
-   "marketCap": 13336888944.0
+   "marketCap": 13475814870.5
   },
   {
    "symbol": "SHAW.N0000",
    "name": "LEE HEDGES PLC",
-   "price": 305.0,
+   "price": 300.5,
    "previousClose": 291.25,
-   "change": 13.75,
-   "changePct": 4.72,
+   "change": 9.25,
+   "changePct": 3.18,
    "high": 305.0,
    "low": 299.0,
    "open": 299.0,
    "volume": 14208,
    "trades": 19,
    "turnover": 4267652.5,
-   "marketCap": 7456795112.5
+   "marketCap": 7693620365.0
   },
   {
    "symbol": "SHL.N0000",
@@ -3706,7 +3706,7 @@
    "volume": 589204,
    "trades": 134,
    "turnover": 5306514.3,
-   "marketCap": 12278270215.2
+   "marketCap": 12836373406.8
   },
   {
    "symbol": "SHOT.N0000",
@@ -3721,7 +3721,7 @@
    "volume": 1001,
    "trades": 2,
    "turnover": 16516.0,
-   "marketCap": 5014178603.2
+   "marketCap": 4983972708.0
   },
   {
    "symbol": "SHOT.X0000",
@@ -3736,7 +3736,7 @@
    "volume": 1110,
    "trades": 5,
    "turnover": 14166.5,
-   "marketCap": 1800552800.0
+   "marketCap": 1843766067.2
   },
   {
    "symbol": "SIGV.N0000",
@@ -3751,52 +3751,52 @@
    "volume": 35684,
    "trades": 18,
    "turnover": 474303.2,
-   "marketCap": 1215000000.0
+   "marketCap": 1206000000.0
   },
   {
    "symbol": "SIL.N0000",
    "name": "SAMSON INTERNATIONAL PLC",
-   "price": 620.0,
+   "price": 615.5,
    "previousClose": 580.75,
-   "change": 39.25,
-   "changePct": 6.76,
+   "change": 34.75,
+   "changePct": 5.98,
    "high": 630.0,
    "low": 581.0,
    "open": 581.0,
-   "volume": 51980,
-   "trades": 125,
-   "turnover": 30812714.5,
-   "marketCap": 2458181758.25
+   "volume": 52049,
+   "trades": 126,
+   "turnover": 30855494.5,
+   "marketCap": 2605270550.5
   },
   {
    "symbol": "SING.N0000",
    "name": "STANDARD CAPITAL PLC",
-   "price": 40.0,
+   "price": 39.8,
    "previousClose": 40.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.2,
+   "changePct": -0.5,
    "high": 40.0,
    "low": 38.3,
    "open": 40.0,
    "volume": 425,
    "trades": 3,
    "turnover": 16901.4,
-   "marketCap": 221633120.0
+   "marketCap": 220524954.4
   },
   {
    "symbol": "SINH.N0000",
    "name": "SINGHE HOSPITALS PLC",
-   "price": 21.8,
+   "price": 21.4,
    "previousClose": 20.3,
-   "change": 1.5,
-   "changePct": 7.39,
+   "change": 1.1,
+   "changePct": 5.42,
    "high": 21.8,
    "low": 21.0,
    "open": 21.0,
-   "volume": 58195,
-   "trades": 43,
-   "turnover": 1242156.8,
-   "marketCap": 8755408168.5
+   "volume": 59045,
+   "trades": 44,
+   "turnover": 1260686.8,
+   "marketCap": 9229839153.0
   },
   {
    "symbol": "SINS.N0000",
@@ -3811,30 +3811,30 @@
    "volume": 311773,
    "trades": 151,
    "turnover": 25891968.1,
-   "marketCap": 96211715948.8
+   "marketCap": 97379333860.8
   },
   {
    "symbol": "SIRA.N0000",
    "name": "SIERRA CABLES PLC",
-   "price": 36.5,
+   "price": 36.4,
    "previousClose": 35.4,
-   "change": 1.1,
-   "changePct": 3.11,
+   "change": 1.0,
+   "changePct": 2.82,
    "high": 36.6,
    "low": 35.1,
    "open": 35.1,
    "volume": 2263424,
    "trades": 521,
    "turnover": 81766192.4,
-   "marketCap": 19027940022.0
+   "marketCap": 19565452452.0
   },
   {
    "symbol": "SLND.N0000",
    "name": "SERENDIB LAND PLC",
-   "price": 3200.0,
+   "price": 3408.75,
    "previousClose": 3408.75,
-   "change": -208.75,
-   "changePct": -6.12,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 3298.0,
    "low": 3200.0,
    "open": 3298.0,
@@ -3846,100 +3846,100 @@
   {
    "symbol": "SLTL.N0000",
    "name": "SRI LANKA TELECOM PLC",
-   "price": 86.6,
+   "price": 86.7,
    "previousClose": 86.0,
-   "change": 0.6,
-   "changePct": 0.7,
+   "change": 0.7,
+   "changePct": 0.81,
    "high": 86.9,
    "low": 84.6,
    "open": 86.5,
    "volume": 19314,
    "trades": 27,
    "turnover": 1669453.3,
-   "marketCap": 155217960000.0
+   "marketCap": 156481362000.0
   },
   {
    "symbol": "SMOT.N0000",
    "name": "SATHOSA MOTORS PLC",
-   "price": 1740.0,
+   "price": 1708.0,
    "previousClose": 1665.25,
-   "change": 74.75,
-   "changePct": 4.49,
+   "change": 42.75,
+   "changePct": 2.57,
    "high": 1740.0,
    "low": 1665.0,
    "open": 1699.25,
    "volume": 1788,
    "trades": 61,
    "turnover": 3049710.5,
-   "marketCap": 10047489035.5
+   "marketCap": 10305426376.0
   },
   {
    "symbol": "SOY.N0000",
    "name": "CONVENIENCE FOODS LANKA PLC",
-   "price": 2196.75,
+   "price": 2056.0,
    "previousClose": 2100.0,
-   "change": 96.75,
-   "changePct": 4.61,
+   "change": -44.0,
+   "changePct": -2.1,
    "high": 2196.75,
    "low": 2050.0,
    "open": 2100.0,
    "volume": 483,
    "trades": 16,
    "turnover": 993557.0,
-   "marketCap": 5775000000.0
+   "marketCap": 5654000000.0
   },
   {
    "symbol": "SPEN.N0000",
    "name": "AITKEN SPENCE PLC",
-   "price": 142.5,
+   "price": 140.5,
    "previousClose": 140.75,
-   "change": 1.75,
-   "changePct": 1.24,
+   "change": -0.25,
+   "changePct": -0.18,
    "high": 142.5,
    "low": 139.5,
    "open": 142.5,
    "volume": 3812,
    "trades": 32,
    "turnover": 537874.0,
-   "marketCap": 57143943333.75
+   "marketCap": 57042444322.5
   },
   {
    "symbol": "STAF.N0000",
    "name": "DOLPHIN HOTELS PLC",
-   "price": 41.9,
+   "price": 41.5,
    "previousClose": 40.5,
-   "change": 1.4,
-   "changePct": 3.46,
+   "change": 1.0,
+   "changePct": 2.47,
    "high": 41.9,
    "low": 40.5,
    "open": 41.9,
    "volume": 530,
    "trades": 8,
    "turnover": 21997.0,
-   "marketCap": 2561339637.0
+   "marketCap": 2624582591.0
   },
   {
    "symbol": "SUN.N0000",
    "name": "SUNSHINE HOLDINGS PLC",
-   "price": 29.6,
+   "price": 29.5,
    "previousClose": 28.8,
-   "change": 0.8,
-   "changePct": 2.78,
+   "change": 0.7,
+   "changePct": 2.43,
    "high": 30.0,
    "low": 28.7,
    "open": 28.7,
    "volume": 15028980,
    "trades": 347,
    "turnover": 443147936.0,
-   "marketCap": 56675362060.8
+   "marketCap": 58052888222.0
   },
   {
    "symbol": "SWAD.N0000",
    "name": "SWADESHI INDUSTRIAL WORKS  PLC",
-   "price": 15025.0,
+   "price": 15103.25,
    "previousClose": 15103.25,
-   "change": -78.25,
-   "changePct": -0.52,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 15100.0,
    "low": 15025.0,
    "open": 15100.0,
@@ -3951,32 +3951,32 @@
   {
    "symbol": "TAFL.N0000",
    "name": "THREE ACRE FARMS PLC",
-   "price": 655.0,
+   "price": 654.75,
    "previousClose": 644.75,
-   "change": 10.25,
-   "changePct": 1.59,
+   "change": 10.0,
+   "changePct": 1.55,
    "high": 667.5,
    "low": 636.0,
    "open": 644.75,
-   "volume": 22700,
-   "trades": 109,
-   "turnover": 14874584.25,
-   "marketCap": 15180638750.0
+   "volume": 22710,
+   "trades": 110,
+   "turnover": 14881134.25,
+   "marketCap": 15416088750.0
   },
   {
    "symbol": "TAJ.N0000",
    "name": "TAL LANKA HOTELS PLC",
-   "price": 31.3,
+   "price": 29.1,
    "previousClose": 30.9,
-   "change": 0.4,
-   "changePct": 1.29,
+   "change": -1.8,
+   "changePct": -5.83,
    "high": 31.9,
    "low": 29.0,
    "open": 31.9,
    "volume": 5423,
    "trades": 20,
    "turnover": 157972.2,
-   "marketCap": 5310659956.2
+   "marketCap": 5001301123.8
   },
   {
    "symbol": "TANG.N0000",
@@ -3991,22 +3991,22 @@
    "volume": 4789,
    "trades": 7,
    "turnover": 478780.0,
-   "marketCap": 2000000000.0
+   "marketCap": 1984000000.0
   },
   {
    "symbol": "TAP.N0000",
    "name": "AMBEON CAPITAL PLC",
-   "price": 31.0,
+   "price": 30.6,
    "previousClose": 30.1,
-   "change": 0.9,
-   "changePct": 2.99,
+   "change": 0.5,
+   "changePct": 1.66,
    "high": 31.7,
    "low": 29.5,
    "open": 30.1,
    "volume": 53250,
    "trades": 31,
    "turnover": 1630328.7,
-   "marketCap": 30772821176.3
+   "marketCap": 31283997607.8
   },
   {
    "symbol": "TESS.N0000",
@@ -4021,7 +4021,7 @@
    "volume": 3726,
    "trades": 8,
    "turnover": 6979.4,
-   "marketCap": 1443713488.2
+   "marketCap": 1523919793.1
   },
   {
    "symbol": "TESS.X0000",
@@ -4041,77 +4041,77 @@
   {
    "symbol": "TILE.N0000",
    "name": "LANKA TILES PLC",
-   "price": 42.5,
+   "price": 43.3,
    "previousClose": 42.0,
-   "change": 0.5,
-   "changePct": 1.19,
+   "change": 1.3,
+   "changePct": 3.1,
    "high": 44.0,
    "low": 42.0,
    "open": 42.5,
    "volume": 220776,
    "trades": 136,
    "turnover": 9357957.7,
-   "marketCap": 11140586100.0
+   "marketCap": 11485413765.0
   },
   {
    "symbol": "TJL.N0000",
    "name": "TEEJAY LANKA PLC",
-   "price": 30.9,
+   "price": 30.5,
    "previousClose": 30.6,
-   "change": 0.3,
-   "changePct": 0.98,
+   "change": -0.1,
+   "changePct": -0.33,
    "high": 30.9,
    "low": 30.3,
    "open": 30.3,
    "volume": 83175,
    "trades": 51,
    "turnover": 2538517.0,
-   "marketCap": 22076606782.8
+   "marketCap": 22004461009.0
   },
   {
    "symbol": "TKYO.N0000",
    "name": "TOKYO CEMENT COMPANY (LANKA) PLC",
-   "price": 84.6,
+   "price": 82.6,
    "previousClose": 80.1,
-   "change": 4.5,
-   "changePct": 5.62,
+   "change": 2.5,
+   "changePct": 3.12,
    "high": 84.9,
    "low": 80.1,
    "open": 82.0,
    "volume": 156725,
    "trades": 60,
    "turnover": 12932697.4,
-   "marketCap": 23551803000.0
+   "marketCap": 24286878000.0
   },
   {
    "symbol": "TKYO.X0000",
    "name": "TOKYO CEMENT COMPANY (LANKA) PLC",
-   "price": 63.0,
+   "price": 62.7,
    "previousClose": 61.1,
-   "change": 1.9,
-   "changePct": 3.11,
+   "change": 1.6,
+   "changePct": 2.62,
    "high": 63.0,
    "low": 61.4,
    "open": 61.5,
-   "volume": 289211,
-   "trades": 117,
-   "turnover": 18014181.9,
-   "marketCap": 8982616500.0
+   "volume": 294211,
+   "trades": 119,
+   "turnover": 18329181.9,
+   "marketCap": 9217840500.0
   },
   {
    "symbol": "TPL.N0000",
    "name": "TALAWAKELLE TEA ESTATES PLC",
-   "price": 146.75,
+   "price": 142.5,
    "previousClose": 146.5,
-   "change": 0.25,
-   "changePct": 0.17,
+   "change": -4.0,
+   "changePct": -2.73,
    "high": 146.75,
    "low": 142.25,
    "open": 146.5,
    "volume": 2564,
    "trades": 37,
    "turnover": 365970.5,
-   "marketCap": 6958750000.0
+   "marketCap": 6768750000.0
   },
   {
    "symbol": "TRAN.N0000",
@@ -4126,7 +4126,7 @@
    "volume": 2199,
    "trades": 4,
    "turnover": 106651.7,
-   "marketCap": 9660000000.0
+   "marketCap": 9700000000.0
   },
   {
    "symbol": "TSML.N0000",
@@ -4141,37 +4141,37 @@
    "volume": 1110,
    "trades": 10,
    "turnover": 40923.3,
-   "marketCap": 1077000000.0
+   "marketCap": 1110000000.0
   },
   {
    "symbol": "TYRE.N0000",
    "name": "KELANI TYRES PLC",
-   "price": 86.0,
+   "price": 85.1,
    "previousClose": 86.2,
-   "change": -0.2,
-   "changePct": -0.23,
+   "change": -1.1,
+   "changePct": -1.28,
    "high": 86.2,
    "low": 85.0,
    "open": 86.1,
    "volume": 24986,
    "trades": 85,
    "turnover": 2127501.4,
-   "marketCap": 6930480000.0
+   "marketCap": 6842040000.0
   },
   {
    "symbol": "UAL.N0000",
    "name": "UNION ASSURANCE PLC",
-   "price": 71.9,
+   "price": 72.0,
    "previousClose": 72.3,
-   "change": -0.4,
-   "changePct": -0.55,
+   "change": -0.3,
+   "changePct": -0.41,
    "high": 72.3,
    "low": 70.1,
    "open": 72.0,
    "volume": 11529,
    "trades": 24,
    "turnover": 829379.5,
-   "marketCap": 42605357556.0
+   "marketCap": 42428571840.0
   },
   {
    "symbol": "UBC.N0000",
@@ -4186,7 +4186,7 @@
    "volume": 66437,
    "trades": 35,
    "turnover": 821661.8,
-   "marketCap": 13111055889.8
+   "marketCap": 13327767557.4
   },
   {
    "symbol": "UBF.N0000",
@@ -4201,7 +4201,7 @@
    "volume": 20417,
    "trades": 24,
    "turnover": 46751.2,
-   "marketCap": 6992667807.4
+   "marketCap": 7310516344.1
   },
   {
    "symbol": "UCAR.N0000",
@@ -4221,55 +4221,55 @@
   {
    "symbol": "UDPL.N0000",
    "name": "UDAPUSSELLAWA  PLANTATIONS PLC",
-   "price": 146.0,
+   "price": 142.25,
    "previousClose": 141.25,
-   "change": 4.75,
-   "changePct": 3.36,
+   "change": 1.0,
+   "changePct": 0.71,
    "high": 146.0,
    "low": 141.75,
    "open": 141.75,
    "volume": 1698,
    "trades": 11,
    "turnover": 241116.5,
-   "marketCap": 2740087562.5
+   "marketCap": 2759486412.5
   },
   {
    "symbol": "UML.N0000",
    "name": "UNITED MOTORS LANKA PLC",
-   "price": 26.5,
+   "price": 26.4,
    "previousClose": 25.7,
-   "change": 0.8,
-   "changePct": 3.11,
+   "change": 0.7,
+   "changePct": 2.72,
    "high": 26.9,
    "low": 25.6,
    "open": 25.7,
    "volume": 146878,
    "trades": 83,
    "turnover": 3879781.9,
-   "marketCap": 25931460882.0
+   "marketCap": 26637765264.0
   },
   {
    "symbol": "VFIN.N0000",
    "name": "VALLIBEL FINANCE PLC",
-   "price": 87.8,
+   "price": 87.3,
    "previousClose": 86.8,
-   "change": 1.0,
-   "changePct": 1.15,
+   "change": 0.5,
+   "changePct": 0.58,
    "high": 88.5,
    "low": 86.8,
    "open": 86.8,
    "volume": 441815,
    "trades": 204,
    "turnover": 38498417.0,
-   "marketCap": 22992024510.0
+   "marketCap": 23124467047.5
   },
   {
    "symbol": "VLL.N0000",
    "name": "VIDULLANKA PLC",
-   "price": 20.4,
+   "price": 20.5,
    "previousClose": 20.5,
-   "change": -0.1,
-   "changePct": -0.49,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 21.0,
    "low": 20.4,
    "open": 20.5,
@@ -4281,17 +4281,17 @@
   {
    "symbol": "VLL.X0000",
    "name": "VIDULLANKA PLC",
-   "price": 17.0,
+   "price": 17.1,
    "previousClose": 17.5,
-   "change": -0.5,
-   "changePct": -2.86,
+   "change": -0.4,
+   "changePct": -2.29,
    "high": 17.5,
    "low": 17.0,
    "open": 17.5,
    "volume": 3030,
    "trades": 21,
    "turnover": 51733.5,
-   "marketCap": 1436987562.5
+   "marketCap": 1404142132.5
   },
   {
    "symbol": "VONE.N0000",
@@ -4306,37 +4306,37 @@
    "volume": 154722,
    "trades": 121,
    "turnover": 14189711.5,
-   "marketCap": 102844082653.2
+   "marketCap": 105805263327.6
   },
   {
    "symbol": "VPEL.N0000",
    "name": "VALLIBEL POWER ERATHNA PLC",
-   "price": 15.6,
+   "price": 15.5,
    "previousClose": 15.3,
-   "change": 0.3,
-   "changePct": 1.96,
+   "change": 0.2,
+   "changePct": 1.31,
    "high": 15.8,
    "low": 15.3,
    "open": 15.3,
    "volume": 46009,
    "trades": 54,
    "turnover": 713224.4,
-   "marketCap": 11430778884.3
+   "marketCap": 11580200830.5
   },
   {
    "symbol": "WAPO.N0000",
    "name": "GALLE FACE CAPITAL PARTNERS PLC",
-   "price": 20.7,
+   "price": 20.5,
    "previousClose": 20.3,
-   "change": 0.4,
-   "changePct": 1.97,
+   "change": 0.2,
+   "changePct": 0.99,
    "high": 20.7,
    "low": 20.0,
    "open": 20.0,
    "volume": 19928,
    "trades": 12,
    "turnover": 405998.4,
-   "marketCap": 2402060754.8
+   "marketCap": 2425726378.0
   },
   {
    "symbol": "WATA.N0000",
@@ -4351,37 +4351,37 @@
    "volume": 152261,
    "trades": 114,
    "turnover": 6547198.4,
-   "marketCap": 43203084512.5
+   "marketCap": 43711356095.0
   },
   {
    "symbol": "WIND.N0000",
    "name": "WINDFORCE PLC",
-   "price": 40.7,
+   "price": 41.0,
    "previousClose": 40.5,
-   "change": 0.2,
-   "changePct": 0.49,
+   "change": 0.5,
+   "changePct": 1.23,
    "high": 41.0,
    "low": 40.5,
    "open": 40.9,
-   "volume": 40912,
+   "volume": 41957,
    "trades": 71,
    "turnover": 1715863.5,
-   "marketCap": 54886709254.5
+   "marketCap": 55564322949.0
   },
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 11.2,
+   "price": 11.1,
    "previousClose": 11.0,
-   "change": 0.2,
-   "changePct": 1.82,
+   "change": 0.1,
+   "changePct": 0.91,
    "high": 11.5,
    "low": 10.9,
    "open": 11.0,
    "volume": 99083,
    "trades": 66,
    "turnover": 1095777.2,
-   "marketCap": 13475582329.0
+   "marketCap": 13598087622.9
   },
   {
    "symbol": "YORK.N0000",
@@ -4396,7 +4396,7 @@
    "volume": 10922,
    "trades": 13,
    "turnover": 145243.2,
-   "marketCap": 1965000000.0
+   "marketCap": 1995000000.0
   }
  ]
 }
