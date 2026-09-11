@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-11T14:45:21+05:30",
- "marketStatus": "Market Close (Statistics Being Finalized)",
+ "updatedAt": "2026-09-11T18:30:56+05:30",
+ "marketStatus": "Market Closed",
  "count": 284,
  "quotes": [
   {
@@ -3193,9 +3193,9 @@
    "high": 12.7,
    "low": 11.9,
    "open": 12.1,
-   "volume": 3037573,
-   "trades": 299,
-   "turnover": 37580776.7,
+   "volume": 2937573,
+   "trades": 298,
+   "turnover": 36330776.7,
    "marketCap": 9985366312.5
   },
   {
