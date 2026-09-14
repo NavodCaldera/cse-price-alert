@@ -5,7 +5,7 @@
       "id": "cd1b64b1-4509-4420-9d2b-5fc701ab440d",
       "symbol": "VFIN.N0000",
       "name": "VALLIBEL FINANCE PLC",
-      "threshold": 91,
+      "threshold": 90,
       "direction": "below",
       "startDate": "2026-08-11",
       "endDate": "2026-12-31",
@@ -18,7 +18,7 @@
       "threshold": 155,
       "direction": "below",
       "startDate": "2026-08-11",
-      "endDate": "2026-09-10",
+      "endDate": "2026-12-31",
       "note": ""
     },
     {
@@ -35,10 +35,10 @@
       "id": "95ff4952-52ad-4733-8200-f48e2fc77f59",
       "symbol": "AAF.N0000",
       "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 47,
+      "threshold": 45,
       "direction": "below",
       "startDate": "2026-08-19",
-      "endDate": "2026-08-26",
+      "endDate": "2026-12-31",
       "note": ""
     },
     {
