@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-09-14T10:30:31+05:30",
+ "updatedAt": "2026-09-14T10:31:40+05:30",
  "marketStatus": "Regular Trading",
- "count": 230,
+ "count": 231,
  "quotes": [
   {
    "symbol": "AAF.N0000",
@@ -13,9 +13,9 @@
    "high": 47.1,
    "low": 46.0,
    "open": 47.1,
-   "volume": 16143,
-   "trades": 31,
-   "turnover": 752765.5,
+   "volume": 16427,
+   "trades": 33,
+   "turnover": 766028.3,
    "marketCap": 8044483387.5
   },
   {
@@ -298,9 +298,9 @@
    "high": 15.2,
    "low": 14.9,
    "open": 14.9,
-   "volume": 32920,
-   "trades": 19,
-   "turnover": 491120.5,
+   "volume": 32923,
+   "trades": 20,
+   "turnover": 491165.2,
    "marketCap": 3900000000.0
   },
   {
@@ -403,9 +403,9 @@
    "high": 131.0,
    "low": 131.0,
    "open": 131.0,
-   "volume": 554,
-   "trades": 5,
-   "turnover": 72574.0,
+   "volume": 573,
+   "trades": 6,
+   "turnover": 75063.0,
    "marketCap": 12420568650.0
   },
   {
@@ -928,9 +928,9 @@
    "high": 5.0,
    "low": 4.9,
    "open": 4.9,
-   "volume": 17540,
-   "trades": 6,
-   "turnover": 86700.0,
+   "volume": 17565,
+   "trades": 7,
+   "turnover": 86825.0,
    "marketCap": 4812865955.0
   },
   {
@@ -1056,16 +1056,16 @@
   {
    "symbol": "DIAL.N0000",
    "name": "DIALOG AXIATA PLC",
-   "price": 47.4,
+   "price": 47.5,
    "previousClose": 47.9,
-   "change": -0.5,
-   "changePct": -1.04,
+   "change": -0.4,
+   "changePct": -0.84,
    "high": 48.0,
    "low": 47.4,
    "open": 48.0,
-   "volume": 26052,
-   "trades": 107,
-   "turnover": 1240641.0,
+   "volume": 26112,
+   "trades": 108,
+   "turnover": 1243491.0,
    "marketCap": 440696046212.6
   },
   {
@@ -1202,6 +1202,21 @@
    "trades": 7,
    "turnover": 47806.5,
    "marketCap": 763560000.0
+  },
+  {
+   "symbol": "ETWO.N0000",
+   "name": "EQUITY TWO PLC",
+   "price": 58.0,
+   "previousClose": 59.3,
+   "change": -1.3,
+   "changePct": -2.19,
+   "high": 59.3,
+   "low": 58.0,
+   "open": 59.3,
+   "volume": 2000,
+   "trades": 14,
+   "turnover": 116432.1,
+   "marketCap": 1838300000.0
   },
   {
    "symbol": "EXT.N0000",
@@ -1378,9 +1393,9 @@
    "high": 212.0,
    "low": 206.75,
    "open": 211.5,
-   "volume": 12690,
-   "trades": 43,
-   "turnover": 2663851.0,
+   "volume": 13330,
+   "trades": 46,
+   "turnover": 2799531.0,
    "marketCap": 62767392187.5
   },
   {
@@ -1453,9 +1468,9 @@
    "high": 383.0,
    "low": 381.0,
    "open": 381.0,
-   "volume": 1219,
-   "trades": 19,
-   "turnover": 466487.5,
+   "volume": 1348,
+   "trades": 21,
+   "turnover": 515862.25,
    "marketCap": 175343126580.0
   },
   {
@@ -1558,9 +1573,9 @@
    "high": 15.0,
    "low": 14.8,
    "open": 15.0,
-   "volume": 2220,
-   "trades": 9,
-   "turnover": 33148.0,
+   "volume": 2230,
+   "trades": 10,
+   "turnover": 33297.0,
    "marketCap": 13075062000.0
   },
   {
@@ -1633,9 +1648,9 @@
    "high": 19.4,
    "low": 19.3,
    "open": 19.4,
-   "volume": 72873,
-   "trades": 56,
-   "turnover": 1411080.1,
+   "volume": 73063,
+   "trades": 57,
+   "turnover": 1414766.1,
    "marketCap": 342386109549.0
   },
   {
@@ -1873,9 +1888,9 @@
    "high": 154.75,
    "low": 154.25,
    "open": 154.75,
-   "volume": 1221,
-   "trades": 10,
-   "turnover": 188530.25,
+   "volume": 1222,
+   "trades": 11,
+   "turnover": 188684.75,
    "marketCap": 85601827512.0
   },
   {
@@ -1918,9 +1933,9 @@
    "high": 131.75,
    "low": 131.5,
    "open": 131.5,
-   "volume": 60,
-   "trades": 2,
-   "turnover": 7902.5,
+   "volume": 115,
+   "trades": 3,
+   "turnover": 15148.75,
    "marketCap": 69886123781.25
   },
   {
@@ -1963,9 +1978,9 @@
    "high": 87.5,
    "low": 87.3,
    "open": 87.5,
-   "volume": 698,
-   "trades": 8,
-   "turnover": 61024.4,
+   "volume": 699,
+   "trades": 9,
+   "turnover": 61111.7,
    "marketCap": 34598270000.0
   },
   {
@@ -2316,16 +2331,16 @@
   {
    "symbol": "NTB.N0000",
    "name": "NATIONS TRUST BANK PLC",
-   "price": 314.0,
+   "price": 307.0,
    "previousClose": 306.0,
-   "change": 8.0,
-   "changePct": 2.61,
+   "change": 1.0,
+   "changePct": 0.33,
    "high": 314.0,
    "low": 305.25,
    "open": 305.5,
-   "volume": 5459,
-   "trades": 13,
-   "turnover": 1672745.25,
+   "volume": 5476,
+   "trades": 14,
+   "turnover": 1677964.25,
    "marketCap": 88278413688.0
   },
   {
@@ -2725,8 +2740,8 @@
    "previousClose": 140.0,
    "change": 0.0,
    "changePct": 0.0,
-   "high": 140.25,
-   "low": 139.5,
+   "high": 142.5,
+   "low": 142.5,
    "open": 140.0,
    "volume": 33642,
    "trades": 68,
@@ -3321,16 +3336,16 @@
   {
    "symbol": "VLL.N0000",
    "name": "VIDULLANKA PLC",
-   "price": 22.0,
+   "price": 22.4,
    "previousClose": 21.7,
-   "change": 0.3,
-   "changePct": 1.38,
+   "change": 0.7,
+   "changePct": 3.23,
    "high": 22.5,
    "low": 21.5,
    "open": 21.5,
-   "volume": 41696,
-   "trades": 23,
-   "turnover": 919119.1,
+   "volume": 41919,
+   "trades": 25,
+   "turnover": 924114.3,
    "marketCap": 20740693474.2
   },
   {
@@ -3396,16 +3411,16 @@
   {
    "symbol": "WATA.N0000",
    "name": "WATAWALA  PLANTATIONS  PLC",
-   "price": 43.9,
+   "price": 43.6,
    "previousClose": 43.8,
-   "change": 0.1,
-   "changePct": 0.23,
+   "change": -0.2,
+   "changePct": -0.46,
    "high": 44.0,
    "low": 43.5,
    "open": 43.5,
-   "volume": 14500,
-   "trades": 16,
-   "turnover": 634475.0,
+   "volume": 14964,
+   "trades": 18,
+   "turnover": 654705.4,
    "marketCap": 44524590627.0
   },
   {
@@ -3431,11 +3446,11 @@
    "change": -0.3,
    "changePct": -2.65,
    "high": 11.1,
-   "low": 11.1,
+   "low": 11.0,
    "open": 11.1,
-   "volume": 9925,
-   "trades": 2,
-   "turnover": 110167.5,
+   "volume": 11292,
+   "trades": 5,
+   "turnover": 125204.5,
    "marketCap": 13843098210.7
   },
   {
