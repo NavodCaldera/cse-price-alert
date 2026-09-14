@@ -4,6 +4,33 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="text-scale" content="scale" />
+		<script>
+			// Price updates redeploy the site every few minutes. A page that loads mid-deploy
+			// can ask for an app chunk that 404s, so reload once to pick up the current build.
+			(function () {
+				var key = 'chunk-reload-at';
+				function reload() {
+					try {
+						var last = Number(sessionStorage.getItem(key));
+						if (last && Date.now() - last < 30000) return;
+						sessionStorage.setItem(key, String(Date.now()));
+					} catch (e) {}
+					location.reload();
+				}
+				window.addEventListener('vite:preloadError', function (event) {
+					event.preventDefault();
+					reload();
+				});
+				window.addEventListener('unhandledrejection', function (event) {
+					var message = String((event.reason && event.reason.message) || event.reason);
+					if (/dynamically imported module|Importing a module script failed|error loading dynamically imported module/i.test(message)) reload();
+				});
+				window.addEventListener('error', function (event) {
+					var el = event.target;
+					if (el && el.tagName === 'LINK' && /\/_app\/immutable\//.test(el.href)) reload();
+				}, true);
+			})();
+		</script>
 		%sveltekit.head%
 	</head>
 	<body data-sveltekit-preload-data="hover">

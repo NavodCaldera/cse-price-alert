@@ -14,7 +14,10 @@ export default defineConfig({
 				runes: ({ filename }) => filename.split(/[/\\]/).includes('node_modules') ? undefined : true
 			},
 			adapter: adapter(),
-			paths: { base }
+			paths: { base },
+			// Notice new deploys so in-app navigation does a full reload instead of
+			// requesting chunks from a build that no longer exists.
+			version: { pollInterval: 60000 }
 		})
 	]
 });
