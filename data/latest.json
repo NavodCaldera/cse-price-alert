@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-16T14:30:30+05:30",
+ "updatedAt": "2026-09-16T14:34:01+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 282,
  "quotes": [
@@ -156,17 +156,17 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 14.0,
+   "price": 14.2,
    "previousClose": 14.3,
-   "change": -0.3,
-   "changePct": -2.1,
+   "change": -0.1,
+   "changePct": -0.7,
    "high": 14.6,
    "low": 14.0,
    "open": 14.2,
    "volume": 19113,
    "trades": 26,
    "turnover": 271159.9,
-   "marketCap": 7150000000.0
+   "marketCap": 7100000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -606,10 +606,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.6,
+   "price": 12.3,
    "previousClose": 12.3,
-   "change": 0.3,
-   "changePct": 2.44,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.6,
    "low": 12.6,
    "open": 12.6,
@@ -636,17 +636,17 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 13.1,
+   "price": 13.0,
    "previousClose": 13.2,
-   "change": -0.1,
-   "changePct": -0.76,
+   "change": -0.2,
+   "changePct": -1.52,
    "high": 13.2,
    "low": 13.0,
    "open": 13.2,
    "volume": 65423,
    "trades": 35,
    "turnover": 857698.2,
-   "marketCap": 27351051354.0
+   "marketCap": 26936641485.0
   },
   {
    "symbol": "CALI.U0000",
@@ -661,7 +661,7 @@
    "volume": 351,
    "trades": 3,
    "turnover": 4818.6,
-   "marketCap": 2831004648.8
+   "marketCap": 2656490663.6
   },
   {
    "symbol": "CALT.N0000",
@@ -691,7 +691,7 @@
    "volume": 2362,
    "trades": 7,
    "turnover": 22202.8,
-   "marketCap": 8076128400.0
+   "marketCap": 7907875725.0
   },
   {
    "symbol": "CARE.N0000",
@@ -1246,7 +1246,7 @@
    "volume": 934855,
    "trades": 76,
    "turnover": 13094820.2,
-   "marketCap": 6636399060.0
+   "marketCap": 6589332400.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -1971,10 +1971,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1700.0,
+   "price": 1760.75,
    "previousClose": 1760.75,
-   "change": -60.75,
-   "changePct": -3.45,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1700.0,
    "low": 1700.0,
    "open": 1700.0,
@@ -2016,17 +2016,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 16.7,
+   "price": 16.2,
    "previousClose": 16.5,
-   "change": 0.2,
-   "changePct": 1.21,
+   "change": -0.3,
+   "changePct": -1.82,
    "high": 16.8,
    "low": 16.1,
    "open": 16.3,
    "volume": 53649,
    "trades": 51,
    "turnover": 883725.7,
-   "marketCap": 2840160576.0
+   "marketCap": 2788521292.8
   },
   {
    "symbol": "JINS.N0000",
@@ -2076,17 +2076,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI LIMITED",
-   "price": 11.0,
+   "price": 10.9,
    "previousClose": 11.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.91,
    "high": 11.1,
    "low": 10.9,
    "open": 11.0,
    "volume": 462086,
    "trades": 180,
    "turnover": 5059178.7,
-   "marketCap": 25300000000.0
+   "marketCap": 25070000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -3081,17 +3081,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 154.5,
+   "price": 154.0,
    "previousClose": 157.5,
-   "change": -3.0,
-   "changePct": -1.9,
+   "change": -3.5,
+   "changePct": -2.22,
    "high": 156.25,
    "low": 154.0,
    "open": 156.0,
    "volume": 113861,
    "trades": 200,
    "turnover": 17660740.5,
-   "marketCap": 52577112892.5
+   "marketCap": 51408732606.0
   },
   {
    "symbol": "PLC.N0000",
@@ -4026,10 +4026,10 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.2,
+   "price": 2.1,
    "previousClose": 2.1,
-   "change": 0.1,
-   "changePct": 4.76,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 2.2,
    "low": 2.1,
    "open": 2.1,
@@ -4206,10 +4206,10 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 11.1,
+   "price": 11.0,
    "previousClose": 11.0,
-   "change": 0.1,
-   "changePct": 0.91,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 11.1,
    "low": 11.0,
    "open": 11.0,
