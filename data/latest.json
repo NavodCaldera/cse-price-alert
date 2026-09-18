@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-18T14:45:24+05:30",
- "marketStatus": "Market Close (Statistics Being Finalized)",
+ "updatedAt": "2026-09-18T19:00:26+05:30",
+ "marketStatus": "Market Closed",
  "count": 276,
  "quotes": [
   {
@@ -2075,7 +2075,7 @@
   },
   {
    "symbol": "JXG.N0000",
-   "name": "JANASHAKTHI LIMITED",
+   "name": "JANASHAKTHI PLC",
    "price": 10.7,
    "previousClose": 10.9,
    "change": -0.2,
