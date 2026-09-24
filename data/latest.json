@@ -1,6 +1,6 @@
 {
- "updatedAt": "2026-09-24T14:29:42+05:30",
- "marketStatus": "Regular Trading",
+ "updatedAt": "2026-09-24T14:30:32+05:30",
+ "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 284,
  "quotes": [
   {
@@ -96,16 +96,16 @@
   {
    "symbol": "AEL.N0000",
    "name": "ACCESS ENGINEERING PLC",
-   "price": 80.0,
+   "price": 80.2,
    "previousClose": 79.5,
-   "change": 0.5,
-   "changePct": 0.63,
-   "high": 80.1,
+   "change": 0.7,
+   "changePct": 0.88,
+   "high": 80.2,
    "low": 79.5,
    "open": 79.9,
-   "volume": 915372,
-   "trades": 215,
-   "turnover": 73228093.6,
+   "volume": 999272,
+   "trades": 237,
+   "turnover": 79949569.9,
    "marketCap": 79500000000.0
   },
   {
@@ -141,16 +141,16 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 14.1,
+   "price": 13.9,
    "previousClose": 14.0,
-   "change": 0.1,
-   "changePct": 0.71,
+   "change": -0.1,
+   "changePct": -0.71,
    "high": 14.1,
    "low": 13.9,
    "open": 14.1,
-   "volume": 46237,
-   "trades": 23,
-   "turnover": 647518.2,
+   "volume": 46287,
+   "trades": 25,
+   "turnover": 648213.2,
    "marketCap": 7000000000.0
   },
   {
@@ -253,9 +253,9 @@
    "high": 16.4,
    "low": 16.0,
    "open": 16.2,
-   "volume": 85260,
-   "trades": 50,
-   "turnover": 1383671.7,
+   "volume": 87250,
+   "trades": 53,
+   "turnover": 1416307.7,
    "marketCap": 9577690880.0
   },
   {
@@ -351,16 +351,16 @@
   {
    "symbol": "ASPH.N0000",
    "name": "INDUSTRIAL ASPHALTS (CEYLON) PLC",
-   "price": 0.6,
+   "price": 0.7,
    "previousClose": 0.6,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 16.67,
    "high": 0.7,
    "low": 0.6,
    "open": 0.6,
-   "volume": 2585407,
-   "trades": 47,
-   "turnover": 1552752.7,
+   "volume": 2585507,
+   "trades": 48,
+   "turnover": 1552822.7,
    "marketCap": 2249646750.0
   },
   {
@@ -651,16 +651,16 @@
   {
    "symbol": "CALT.N0000",
    "name": "CAPITAL ALLIANCE PLC",
-   "price": 44.9,
+   "price": 44.7,
    "previousClose": 45.5,
-   "change": -0.6,
-   "changePct": -1.32,
+   "change": -0.8,
+   "changePct": -1.76,
    "high": 45.8,
-   "low": 44.9,
+   "low": 44.7,
    "open": 45.8,
-   "volume": 47160,
-   "trades": 148,
-   "turnover": 2130321.9,
+   "volume": 51122,
+   "trades": 161,
+   "turnover": 2307507.0,
    "marketCap": 14988513722.0
   },
   {
@@ -733,9 +733,9 @@
    "high": 7.4,
    "low": 7.2,
    "open": 7.4,
-   "volume": 69786,
-   "trades": 46,
-   "turnover": 509616.6,
+   "volume": 70286,
+   "trades": 47,
+   "turnover": 513266.6,
    "marketCap": 9050852863.4
   },
   {
@@ -778,9 +778,9 @@
    "high": 29.5,
    "low": 29.0,
    "open": 29.5,
-   "volume": 86035,
-   "trades": 43,
-   "turnover": 2518813.4,
+   "volume": 86248,
+   "trades": 44,
+   "turnover": 2525054.3,
    "marketCap": 2978976384.0
   },
   {
@@ -1033,9 +1033,9 @@
    "high": 1.7,
    "low": 1.5,
    "open": 1.6,
-   "volume": 62278,
-   "trades": 27,
-   "turnover": 96853.8,
+   "volume": 82278,
+   "trades": 28,
+   "turnover": 128853.8,
    "marketCap": 1498694380.8
   },
   {
@@ -1086,16 +1086,16 @@
   {
    "symbol": "COCR.N0000",
    "name": "COMMERCIAL CREDIT AND FINANCE PLC",
-   "price": 98.9,
+   "price": 99.0,
    "previousClose": 99.6,
-   "change": -0.7,
-   "changePct": -0.7,
+   "change": -0.6,
+   "changePct": -0.6,
    "high": 100.0,
    "low": 98.9,
    "open": 99.6,
-   "volume": 132290,
-   "trades": 191,
-   "turnover": 13128965.8,
+   "volume": 132490,
+   "trades": 192,
+   "turnover": 13148765.8,
    "marketCap": 31680206754.0
   },
   {
@@ -1123,9 +1123,9 @@
    "high": 205.0,
    "low": 203.5,
    "open": 204.0,
-   "volume": 58136,
-   "trades": 114,
-   "turnover": 11888334.0,
+   "volume": 60137,
+   "trades": 125,
+   "turnover": 12297538.5,
    "marketCap": 317640062316.0
   },
   {
@@ -1243,9 +1243,9 @@
    "high": 14.0,
    "low": 13.8,
    "open": 14.0,
-   "volume": 83982,
-   "trades": 45,
-   "turnover": 1168411.0,
+   "volume": 251465,
+   "trades": 50,
+   "turnover": 3479687.1,
    "marketCap": 6542265740.0
   },
   {
@@ -1363,9 +1363,9 @@
    "high": 47.0,
    "low": 46.6,
    "open": 47.0,
-   "volume": 83964,
-   "trades": 154,
-   "turnover": 3924173.1,
+   "volume": 84015,
+   "trades": 155,
+   "turnover": 3926549.7,
    "marketCap": 431495711218.6
   },
   {
@@ -1393,9 +1393,9 @@
    "high": 62.4,
    "low": 60.0,
    "open": 61.0,
-   "volume": 1774375,
-   "trades": 571,
-   "turnover": 109381839.9,
+   "volume": 1775875,
+   "trades": 574,
+   "turnover": 109473744.9,
    "marketCap": 36455660808.0
   },
   {
@@ -1573,9 +1573,9 @@
    "high": 14.3,
    "low": 13.7,
    "open": 13.7,
-   "volume": 16633,
-   "trades": 48,
-   "turnover": 232257.3,
+   "volume": 16963,
+   "trades": 50,
+   "turnover": 236877.3,
    "marketCap": 729363934.2
   },
   {
@@ -1858,9 +1858,9 @@
    "high": 8.0,
    "low": 7.8,
    "open": 8.0,
-   "volume": 273487,
-   "trades": 94,
-   "turnover": 2159842.6,
+   "volume": 278487,
+   "trades": 95,
+   "turnover": 2199342.6,
    "marketCap": 16793348848.0
   },
   {
@@ -1926,16 +1926,16 @@
   {
    "symbol": "HPWR.N0000",
    "name": "RESUS ENERGY PLC",
-   "price": 8.8,
+   "price": 8.7,
    "previousClose": 9.0,
-   "change": -0.2,
-   "changePct": -2.22,
+   "change": -0.3,
+   "changePct": -3.33,
    "high": 9.0,
-   "low": 8.8,
+   "low": 8.7,
    "open": 9.0,
-   "volume": 69235,
-   "trades": 15,
-   "turnover": 622508.0,
+   "volume": 70573,
+   "trades": 24,
+   "turnover": 634148.6,
    "marketCap": 3878317215.0
   },
   {
@@ -2098,9 +2098,9 @@
    "high": 10.8,
    "low": 10.5,
    "open": 10.6,
-   "volume": 84008,
-   "trades": 80,
-   "turnover": 891390.9,
+   "volume": 85008,
+   "trades": 84,
+   "turnover": 901990.9,
    "marketCap": 24380000000.0
   },
   {
@@ -2121,16 +2121,16 @@
   {
    "symbol": "KCAB.N0000",
    "name": "KELANI CABLES PLC",
-   "price": 98.1,
+   "price": 100.0,
    "previousClose": 101.75,
-   "change": -3.65,
-   "changePct": -3.59,
+   "change": -1.75,
+   "changePct": -1.72,
    "high": 102.0,
    "low": 98.0,
    "open": 102.0,
-   "volume": 13972,
-   "trades": 37,
-   "turnover": 1383254.75,
+   "volume": 13982,
+   "trades": 38,
+   "turnover": 1384254.75,
    "marketCap": 22181500000.0
   },
   {
@@ -2488,9 +2488,9 @@
    "high": 85.8,
    "low": 84.7,
    "open": 85.8,
-   "volume": 22881,
-   "trades": 70,
-   "turnover": 1945447.1,
+   "volume": 22891,
+   "trades": 71,
+   "turnover": 1946305.1,
    "marketCap": 34198290000.0
   },
   {
@@ -2511,16 +2511,16 @@
   {
    "symbol": "LOLC.N0000",
    "name": "L O L C HOLDINGS PLC",
-   "price": 446.75,
+   "price": 447.75,
    "previousClose": 446.5,
-   "change": 0.25,
-   "changePct": 0.06,
+   "change": 1.25,
+   "changePct": 0.28,
    "high": 459.0,
    "low": 440.0,
    "open": 459.0,
-   "volume": 5125,
-   "trades": 72,
-   "turnover": 2271584.5,
+   "volume": 6596,
+   "trades": 83,
+   "turnover": 2919977.75,
    "marketCap": 212176800000.0
   },
   {
@@ -2533,9 +2533,9 @@
    "high": 10.7,
    "low": 10.2,
    "open": 10.3,
-   "volume": 106807,
-   "trades": 11,
-   "turnover": 1122532.7,
+   "volume": 107057,
+   "trades": 12,
+   "turnover": 1125157.7,
    "marketCap": 3517500903.0
   },
   {
@@ -2608,9 +2608,9 @@
    "high": 51.5,
    "low": 46.0,
    "open": 46.2,
-   "volume": 3137,
-   "trades": 25,
-   "turnover": 149175.5,
+   "volume": 3637,
+   "trades": 29,
+   "turnover": 173988.8,
    "marketCap": 2712109338.0
   },
   {
@@ -2743,9 +2743,9 @@
    "high": 185.0,
    "low": 182.5,
    "open": 182.5,
-   "volume": 6034,
-   "trades": 49,
-   "turnover": 1107752.5,
+   "volume": 6035,
+   "trades": 50,
+   "turnover": 1107937.25,
    "marketCap": 213267664176.0
   },
   {
@@ -2878,9 +2878,9 @@
    "high": 109.25,
    "low": 108.5,
    "open": 109.25,
-   "volume": 13765,
-   "trades": 82,
-   "turnover": 1498624.25,
+   "volume": 13875,
+   "trades": 83,
+   "turnover": 1510586.75,
    "marketCap": 47109563906.0
   },
   {
@@ -3433,9 +3433,9 @@
    "high": 140.75,
    "low": 140.0,
    "open": 140.75,
-   "volume": 199549,
-   "trades": 236,
-   "turnover": 27997877.0,
+   "volume": 199550,
+   "trades": 237,
+   "turnover": 27998017.25,
    "marketCap": 164471281590.0
   },
   {
@@ -3508,9 +3508,9 @@
    "high": 0.4,
    "low": 0.3,
    "open": 0.3,
-   "volume": 1474011,
-   "trades": 40,
-   "turnover": 442547.6,
+   "volume": 1474111,
+   "trades": 41,
+   "turnover": 442587.6,
    "marketCap": 924481113.6
   },
   {
@@ -3538,9 +3538,9 @@
    "high": 96.0,
    "low": 94.9,
    "open": 96.0,
-   "volume": 20560,
-   "trades": 51,
-   "turnover": 1956982.7,
+   "volume": 20580,
+   "trades": 53,
+   "turnover": 1958880.7,
    "marketCap": 29119603789.8
   },
   {
@@ -3606,16 +3606,16 @@
   {
    "symbol": "SHL.N0000",
    "name": "SOFTLOGIC HOLDINGS PLC",
-   "price": 7.9,
+   "price": 8.0,
    "previousClose": 8.3,
-   "change": -0.4,
-   "changePct": -4.82,
+   "change": -0.3,
+   "changePct": -3.61,
    "high": 8.5,
    "low": 7.9,
    "open": 8.3,
-   "volume": 57169,
-   "trades": 52,
-   "turnover": 457813.9,
+   "volume": 57170,
+   "trades": 53,
+   "turnover": 457821.9,
    "marketCap": 11580641225.7
   },
   {
@@ -3718,9 +3718,9 @@
    "high": 35.7,
    "low": 35.3,
    "open": 35.5,
-   "volume": 172266,
-   "trades": 115,
-   "turnover": 6114298.2,
+   "volume": 172831,
+   "trades": 119,
+   "turnover": 6134407.2,
    "marketCap": 19081691265.0
   },
   {
@@ -3823,9 +3823,9 @@
    "high": 29.0,
    "low": 28.9,
    "open": 29.0,
-   "volume": 35665,
-   "trades": 63,
-   "turnover": 1032465.3,
+   "volume": 35995,
+   "trades": 66,
+   "turnover": 1042002.3,
    "marketCap": 57068940964.0
   },
   {
@@ -3928,9 +3928,9 @@
    "high": 42.2,
    "low": 41.0,
    "open": 41.8,
-   "volume": 9993,
-   "trades": 53,
-   "turnover": 412052.3,
+   "volume": 10093,
+   "trades": 54,
+   "turnover": 416202.3,
    "marketCap": 10981434870.0
   },
   {
@@ -4101,16 +4101,16 @@
   {
    "symbol": "UML.N0000",
    "name": "UNITED MOTORS LANKA PLC",
-   "price": 24.0,
+   "price": 23.9,
    "previousClose": 23.7,
-   "change": 0.3,
-   "changePct": 1.27,
+   "change": 0.2,
+   "changePct": 0.84,
    "high": 24.5,
    "low": 23.5,
    "open": 23.9,
-   "volume": 63564,
-   "trades": 59,
-   "turnover": 1518315.0,
+   "volume": 63664,
+   "trades": 60,
+   "turnover": 1520705.0,
    "marketCap": 23913448362.0
   },
   {
@@ -4138,9 +4138,9 @@
    "high": 22.8,
    "low": 22.5,
    "open": 22.8,
-   "volume": 201402,
-   "trades": 85,
-   "turnover": 4552743.7,
+   "volume": 201403,
+   "trades": 86,
+   "turnover": 4552766.2,
    "marketCap": 21505327335.0
   },
   {
