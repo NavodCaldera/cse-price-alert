@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T14:30:34+05:30",
+ "updatedAt": "2026-09-29T14:45:22+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 280,
  "quotes": [
@@ -166,7 +166,7 @@
    "volume": 8731,
    "trades": 30,
    "turnover": 120633.4,
-   "marketCap": 7000000000.0
+   "marketCap": 6900000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -576,10 +576,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.0,
+   "price": 12.1,
    "previousClose": 12.1,
-   "change": -0.1,
-   "changePct": -0.83,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.0,
    "low": 12.0,
    "open": 12.0,
@@ -606,32 +606,32 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 12.3,
+   "price": 12.4,
    "previousClose": 12.3,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.81,
    "high": 12.5,
    "low": 12.3,
    "open": 12.4,
    "volume": 52652,
    "trades": 46,
    "turnover": 653665.4,
-   "marketCap": 25486206943.5
+   "marketCap": 25693411878.0
   },
   {
    "symbol": "CALI.U0000",
    "name": "CAL FIVE YEAR OPTIMUM FUND (\u201cUnits\u201d)",
-   "price": 13.0,
+   "price": 13.7,
    "previousClose": 14.3,
-   "change": -1.3,
-   "changePct": -9.09,
+   "change": -0.6,
+   "changePct": -4.2,
    "high": 14.2,
    "low": 13.0,
    "open": 14.2,
    "volume": 1318,
    "trades": 6,
    "turnover": 18108.1,
-   "marketCap": 2772833320.4
+   "marketCap": 2656490663.6
   },
   {
    "symbol": "CALT.N0000",
@@ -1236,17 +1236,17 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 13.1,
+   "price": 13.3,
    "previousClose": 13.6,
-   "change": -0.5,
-   "changePct": -3.68,
+   "change": -0.3,
+   "changePct": -2.21,
    "high": 13.8,
    "low": 13.0,
    "open": 13.6,
    "volume": 212613,
    "trades": 59,
    "turnover": 2848178.0,
-   "marketCap": 6401065760.0
+   "marketCap": 6259865780.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -2016,10 +2016,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1750.0,
+   "price": 1749.75,
    "previousClose": 1749.75,
-   "change": 0.25,
-   "changePct": 0.01,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1750.0,
    "low": 1750.0,
    "open": 1750.0,
@@ -2061,17 +2061,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 16.3,
+   "price": 16.0,
    "previousClose": 16.2,
-   "change": 0.1,
-   "changePct": 0.62,
+   "change": -0.2,
+   "changePct": -1.23,
    "high": 16.4,
    "low": 16.0,
    "open": 16.4,
    "volume": 116842,
    "trades": 33,
    "turnover": 1871514.6,
-   "marketCap": 2788521292.8
+   "marketCap": 2754095104.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2121,17 +2121,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI PLC",
-   "price": 10.3,
+   "price": 10.2,
    "previousClose": 10.3,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.97,
    "high": 10.4,
    "low": 10.1,
    "open": 10.3,
    "volume": 517019,
    "trades": 158,
    "turnover": 5272366.2,
-   "marketCap": 23690000000.0
+   "marketCap": 23460000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2596,7 +2596,7 @@
    "volume": 130749,
    "trades": 41,
    "turnover": 1124174.1,
-   "marketCap": 2387000000.0
+   "marketCap": 2359875000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2791,7 +2791,7 @@
    "volume": 21881,
    "trades": 44,
    "turnover": 315130.4,
-   "marketCap": 2035000000.0
+   "marketCap": 2007500000.0
   },
   {
    "symbol": "MGT.N0000",
@@ -3136,7 +3136,7 @@
    "volume": 8602,
    "trades": 75,
    "turnover": 1319548.0,
-   "marketCap": 51742555545.0
+   "marketCap": 51408732606.0
   },
   {
    "symbol": "PLC.N0000",
@@ -3996,17 +3996,17 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.1,
+   "price": 2.0,
    "previousClose": 2.1,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -4.76,
    "high": 2.2,
    "low": 2.0,
    "open": 2.2,
    "volume": 158382,
    "trades": 31,
    "turnover": 323786.2,
-   "marketCap": 6674819270.7
+   "marketCap": 6356970734.0
   },
   {
    "symbol": "UCAR.N0000",
@@ -4176,10 +4176,10 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 11.2,
+   "price": 11.0,
    "previousClose": 11.0,
-   "change": 0.2,
-   "changePct": 1.82,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 11.3,
    "low": 11.0,
    "open": 11.3,
