@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T14:30:31+05:30",
+ "updatedAt": "2026-10-01T14:45:23+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 272,
  "quotes": [
@@ -166,7 +166,7 @@
    "volume": 32528,
    "trades": 30,
    "turnover": 431197.2,
-   "marketCap": 6750000000.0
+   "marketCap": 6600000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -546,10 +546,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.6,
+   "price": 12.1,
    "previousClose": 12.1,
-   "change": 0.5,
-   "changePct": 4.13,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.6,
    "low": 12.1,
    "open": 12.1,
@@ -586,15 +586,15 @@
    "volume": 22631,
    "trades": 29,
    "turnover": 277515.6,
-   "marketCap": 25279002009.0
+   "marketCap": 25486206943.5
   },
   {
    "symbol": "CALI.U0000",
    "name": "CAL FIVE YEAR OPTIMUM FUND (\u201cUnits\u201d)",
-   "price": 13.9,
+   "price": 13.7,
    "previousClose": 13.7,
-   "change": 0.2,
-   "changePct": 1.46,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 13.9,
    "low": 13.9,
    "open": 13.9,
@@ -631,7 +631,7 @@
    "volume": 848,
    "trades": 8,
    "turnover": 8120.9,
-   "marketCap": 8328507412.5
+   "marketCap": 7992002062.5
   },
   {
    "symbol": "CARE.N0000",
@@ -691,7 +691,7 @@
    "volume": 774836,
    "trades": 66,
    "turnover": 5570711.6,
-   "marketCap": 8926868577.6
+   "marketCap": 8802884291.8
   },
   {
    "symbol": "CCS.N0000",
@@ -1186,7 +1186,7 @@
    "volume": 40840,
    "trades": 17,
    "turnover": 548403.7,
-   "marketCap": 6353999100.0
+   "marketCap": 6306932440.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -1911,10 +1911,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1748.0,
+   "price": 1749.75,
    "previousClose": 1749.75,
-   "change": -1.75,
-   "changePct": -0.1,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1748.0,
    "low": 1748.0,
    "open": 1748.0,
@@ -1956,10 +1956,10 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 16.2,
+   "price": 16.3,
    "previousClose": 16.3,
-   "change": -0.1,
-   "changePct": -0.61,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 16.7,
    "low": 16.2,
    "open": 16.5,
@@ -2016,10 +2016,10 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI PLC",
-   "price": 10.1,
+   "price": 10.0,
    "previousClose": 10.0,
-   "change": 0.1,
-   "changePct": 1.0,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 10.2,
    "low": 9.9,
    "open": 10.1,
@@ -2466,17 +2466,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 8.4,
+   "price": 8.8,
    "previousClose": 8.9,
-   "change": -0.5,
-   "changePct": -5.62,
+   "change": -0.1,
+   "changePct": -1.12,
    "high": 8.9,
    "low": 8.4,
    "open": 8.9,
    "volume": 5923,
    "trades": 17,
    "turnover": 52350.0,
-   "marketCap": 2414125000.0
+   "marketCap": 2387000000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2691,17 +2691,17 @@
   {
    "symbol": "MFPE.N0000",
    "name": "MAHARAJA FOODS PLC",
-   "price": 14.7,
+   "price": 14.8,
    "previousClose": 14.7,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.68,
    "high": 15.0,
    "low": 14.4,
    "open": 14.4,
    "volume": 31801,
    "trades": 16,
    "turnover": 470651.3,
-   "marketCap": 2021250000.0
+   "marketCap": 2035000000.0
   },
   {
    "symbol": "MGT.N0000",
@@ -3031,7 +3031,7 @@
    "volume": 14292,
    "trades": 76,
    "turnover": 2191887.25,
-   "marketCap": 51492188340.75
+   "marketCap": 51325276871.25
   },
   {
    "symbol": "PLC.N0000",
@@ -3876,17 +3876,17 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.2,
+   "price": 2.1,
    "previousClose": 2.0,
-   "change": 0.2,
-   "changePct": 10.0,
+   "change": 0.1,
+   "changePct": 5.0,
    "high": 2.2,
    "low": 2.1,
    "open": 2.1,
    "volume": 389404,
    "trades": 31,
    "turnover": 818043.5,
-   "marketCap": 6356970734.0
+   "marketCap": 6674819270.7
   },
   {
    "symbol": "UCAR.N0000",
@@ -4066,7 +4066,7 @@
    "volume": 36564,
    "trades": 24,
    "turnover": 402967.6,
-   "marketCap": 13720592916.8
+   "marketCap": 13475582329.0
   },
   {
    "symbol": "YORK.N0000",
