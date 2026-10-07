@@ -50,6 +50,26 @@
       "startDate": "2026-09-14",
       "endDate": "2026-12-31",
       "note": ""
+    },
+    {
+      "id": "997cace2-1e37-431f-bca5-7bb74adb1041",
+      "symbol": "PKME.N0000",
+      "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
+      "threshold": 145,
+      "direction": "below",
+      "startDate": "2026-09-21",
+      "endDate": "2026-12-20",
+      "note": ""
+    },
+    {
+      "id": "f535a159-c174-43c8-ad21-48e7af13535e",
+      "symbol": "VFIN.N0000",
+      "name": "VALLIBEL FINANCE PLC",
+      "threshold": 84,
+      "direction": "below",
+      "startDate": "2026-10-07",
+      "endDate": "2026-12-31",
+      "note": ""
     }
   ]
 }
