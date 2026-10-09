@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T14:30:35+05:30",
+ "updatedAt": "2026-10-09T14:45:23+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 282,
  "quotes": [
@@ -616,7 +616,7 @@
    "volume": 481,
    "trades": 1,
    "turnover": 6156.8,
-   "marketCap": 11345075530.4
+   "marketCap": 11711045708.8
   },
   {
    "symbol": "CALF.N0000",
@@ -646,7 +646,7 @@
    "volume": 18401,
    "trades": 30,
    "turnover": 215203.4,
-   "marketCap": 23828567467.5
+   "marketCap": 24242977336.5
   },
   {
    "symbol": "CALI.U0000",
@@ -661,7 +661,7 @@
    "volume": 200,
    "trades": 1,
    "turnover": 2640.0,
-   "marketCap": 2520757564.0
+   "marketCap": 2559538449.6
   },
   {
    "symbol": "CALT.N0000",
@@ -736,7 +736,7 @@
    "volume": 41904,
    "trades": 42,
    "turnover": 302868.2,
-   "marketCap": 8678900006.0
+   "marketCap": 9050852863.4
   },
   {
    "symbol": "CCS.N0000",
@@ -1236,17 +1236,17 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 13.1,
+   "price": 13.0,
    "previousClose": 12.8,
-   "change": 0.3,
-   "changePct": 2.34,
+   "change": 0.2,
+   "changePct": 1.56,
    "high": 13.2,
    "low": 12.8,
    "open": 12.8,
    "volume": 115946,
    "trades": 28,
    "turnover": 1507048.8,
-   "marketCap": 6024532480.0
+   "marketCap": 6118665800.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -1986,10 +1986,10 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 1747.0,
+   "price": 1749.75,
    "previousClose": 1749.75,
-   "change": -2.75,
-   "changePct": -0.16,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 1747.0,
    "low": 1747.0,
    "open": 1747.0,
@@ -2041,7 +2041,7 @@
    "volume": 153568,
    "trades": 30,
    "turnover": 2385823.2,
-   "marketCap": 2685242726.4
+   "marketCap": 2668029632.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2101,7 +2101,7 @@
    "volume": 287661,
    "trades": 97,
    "turnover": 2806192.5,
-   "marketCap": 22080000000.0
+   "marketCap": 22310000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2566,7 +2566,7 @@
    "volume": 83030,
    "trades": 37,
    "turnover": 653167.5,
-   "marketCap": 2061500000.0
+   "marketCap": 2170000000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2776,7 +2776,7 @@
    "volume": 17548,
    "trades": 28,
    "turnover": 252181.4,
-   "marketCap": 1976695692.4
+   "marketCap": 1990518739.2
   },
   {
    "symbol": "MGT.N0000",
@@ -3096,17 +3096,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 154.0,
+   "price": 153.0,
    "previousClose": 152.5,
-   "change": 1.5,
-   "changePct": 0.98,
+   "change": 0.5,
+   "changePct": 0.33,
    "high": 154.75,
    "low": 150.75,
    "open": 150.75,
    "volume": 208413,
    "trades": 56,
    "turnover": 31606555.25,
-   "marketCap": 50907998197.5
+   "marketCap": 51074909667.0
   },
   {
    "symbol": "PLC.N0000",
@@ -4206,17 +4206,17 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 11.0,
+   "price": 10.9,
    "previousClose": 11.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.91,
    "high": 11.0,
    "low": 10.9,
    "open": 11.0,
    "volume": 41691,
    "trades": 22,
    "turnover": 455010.9,
-   "marketCap": 13475582329.0
+   "marketCap": 13353077035.1
   },
   {
    "symbol": "YORK.N0000",
