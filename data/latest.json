@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T14:14:43+05:30",
+ "updatedAt": "2026-10-16T14:15:25+05:30",
  "marketStatus": "Regular Trading",
  "count": 278,
  "quotes": [
@@ -88,9 +88,9 @@
    "high": 3.9,
    "low": 3.5,
    "open": 3.5,
-   "volume": 2524065,
-   "trades": 233,
-   "turnover": 9577403.3,
+   "volume": 2542065,
+   "trades": 234,
+   "turnover": 9647603.3,
    "marketCap": 2261000000.0
   },
   {
@@ -178,9 +178,9 @@
    "high": 11.8,
    "low": 11.0,
    "open": 11.3,
-   "volume": 129915,
-   "trades": 44,
-   "turnover": 1460091.7,
+   "volume": 229915,
+   "trades": 53,
+   "turnover": 2561991.7,
    "marketCap": 5074184115.0
   },
   {
@@ -358,9 +358,9 @@
    "high": 13.3,
    "low": 12.4,
    "open": 12.7,
-   "volume": 780146,
-   "trades": 145,
-   "turnover": 10088428.5,
+   "volume": 784584,
+   "trades": 146,
+   "turnover": 10144347.3,
    "marketCap": 3120000000.0
   },
   {
@@ -658,9 +658,9 @@
    "high": 11.4,
    "low": 11.1,
    "open": 11.4,
-   "volume": 404094,
-   "trades": 54,
-   "turnover": 4528191.0,
+   "volume": 404119,
+   "trades": 55,
+   "turnover": 4528473.5,
    "marketCap": 23621362533.0
   },
   {
@@ -763,9 +763,9 @@
    "high": 7.1,
    "low": 6.9,
    "open": 7.0,
-   "volume": 330286,
-   "trades": 126,
-   "turnover": 2298857.0,
+   "volume": 331286,
+   "trades": 127,
+   "turnover": 2305857.0,
    "marketCap": 8678900006.0
   },
   {
@@ -876,16 +876,16 @@
   {
    "symbol": "CFVF.N0000",
    "name": "FIRST CAPITAL HOLDINGS PLC",
-   "price": 36.5,
+   "price": 36.7,
    "previousClose": 35.5,
-   "change": 1.0,
-   "changePct": 2.82,
-   "high": 36.6,
+   "change": 1.2,
+   "changePct": 3.38,
+   "high": 36.7,
    "low": 35.5,
    "open": 35.5,
-   "volume": 24927,
-   "trades": 55,
-   "turnover": 899142.2,
+   "volume": 31920,
+   "trades": 58,
+   "turnover": 1155463.0,
    "marketCap": 14377500000.0
   },
   {
@@ -928,9 +928,9 @@
    "high": 146.0,
    "low": 144.5,
    "open": 146.0,
-   "volume": 113,
-   "trades": 9,
-   "turnover": 16480.0,
+   "volume": 114,
+   "trades": 10,
+   "turnover": 16624.5,
    "marketCap": 2293634126.0
   },
   {
@@ -958,24 +958,24 @@
    "high": 26.5,
    "low": 26.2,
    "open": 26.2,
-   "volume": 381672,
-   "trades": 136,
-   "turnover": 10076881.1,
+   "volume": 382172,
+   "trades": 137,
+   "turnover": 10090081.1,
    "marketCap": 38053800000.0
   },
   {
    "symbol": "CIC.X0000",
    "name": "C I C HOLDINGS PLC",
-   "price": 22.6,
+   "price": 22.5,
    "previousClose": 22.1,
-   "change": 0.5,
-   "changePct": 2.26,
+   "change": 0.4,
+   "changePct": 1.81,
    "high": 23.5,
    "low": 22.0,
    "open": 22.0,
-   "volume": 6129399,
-   "trades": 262,
-   "turnover": 135476731.4,
+   "volume": 6129499,
+   "trades": 263,
+   "turnover": 135478981.4,
    "marketCap": 9666540000.0
   },
   {
@@ -1371,16 +1371,16 @@
   {
    "symbol": "DIAL.N0000",
    "name": "DIALOG AXIATA PLC",
-   "price": 43.8,
+   "price": 43.9,
    "previousClose": 42.5,
-   "change": 1.3,
-   "changePct": 3.06,
+   "change": 1.4,
+   "changePct": 3.29,
    "high": 44.0,
    "low": 43.0,
    "open": 43.2,
-   "volume": 402834,
-   "trades": 232,
-   "turnover": 17581673.7,
+   "volume": 402854,
+   "trades": 233,
+   "turnover": 17582551.7,
    "marketCap": 391014237245.0
   },
   {
@@ -1401,16 +1401,16 @@
   {
    "symbol": "DIPD.N0000",
    "name": "DIPPED PRODUCTS PLC",
-   "price": 58.3,
+   "price": 58.4,
    "previousClose": 57.3,
-   "change": 1.0,
-   "changePct": 1.75,
+   "change": 1.1,
+   "changePct": 1.92,
    "high": 58.5,
    "low": 57.4,
    "open": 57.8,
-   "volume": 182248,
-   "trades": 198,
-   "turnover": 10549426.1,
+   "volume": 183279,
+   "trades": 203,
+   "turnover": 10609536.5,
    "marketCap": 34300646376.0
   },
   {
@@ -1476,16 +1476,16 @@
   {
    "symbol": "EBCR.N0000",
    "name": "E B CREASY & COMPANY PLC",
-   "price": 35.4,
+   "price": 35.1,
    "previousClose": 33.9,
-   "change": 1.5,
-   "changePct": 4.42,
+   "change": 1.2,
+   "changePct": 3.54,
    "high": 36.0,
    "low": 34.4,
    "open": 34.5,
-   "volume": 250223,
-   "trades": 112,
-   "turnover": 8781534.4,
+   "volume": 250673,
+   "trades": 113,
+   "turnover": 8797329.4,
    "marketCap": 9454722882.0
   },
   {
@@ -2046,16 +2046,16 @@
   {
    "symbol": "JKH.N0000",
    "name": "JOHN KEELLS HOLDINGS PLC",
-   "price": 18.0,
+   "price": 17.9,
    "previousClose": 17.9,
-   "change": 0.1,
-   "changePct": 0.56,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 18.0,
    "low": 17.9,
    "open": 17.9,
-   "volume": 748450,
-   "trades": 310,
-   "turnover": 13446928.8,
+   "volume": 765968,
+   "trades": 319,
+   "turnover": 13761972.2,
    "marketCap": 317569366749.5
   },
   {
@@ -2196,16 +2196,16 @@
   {
    "symbol": "KVAL.N0000",
    "name": "KELANI VALLEY PLANTATIONS PLC",
-   "price": 77.9,
+   "price": 76.2,
    "previousClose": 75.4,
-   "change": 2.5,
-   "changePct": 3.32,
+   "change": 0.8,
+   "changePct": 1.06,
    "high": 77.9,
-   "low": 77.5,
+   "low": 76.2,
    "open": 77.9,
-   "volume": 211,
-   "trades": 6,
-   "turnover": 16356.9,
+   "volume": 216,
+   "trades": 7,
+   "turnover": 16737.9,
    "marketCap": 5127200000.0
   },
   {
@@ -2233,9 +2233,9 @@
    "high": 32.5,
    "low": 31.3,
    "open": 32.0,
-   "volume": 51933,
-   "trades": 43,
-   "turnover": 1670294.1,
+   "volume": 53933,
+   "trades": 44,
+   "turnover": 1735294.1,
    "marketCap": 2151343211.0
   },
   {
@@ -2556,16 +2556,16 @@
   {
    "symbol": "LVEF.N0000",
    "name": "L V L ENERGY FUND PLC",
-   "price": 5.5,
+   "price": 5.4,
    "previousClose": 5.2,
-   "change": 0.3,
-   "changePct": 5.77,
+   "change": 0.2,
+   "changePct": 3.85,
    "high": 5.5,
    "low": 5.3,
    "open": 5.3,
-   "volume": 374595,
-   "trades": 96,
-   "turnover": 2022154.5,
+   "volume": 374599,
+   "trades": 97,
+   "turnover": 2022176.1,
    "marketCap": 3985036307.2
   },
   {
@@ -2983,9 +2983,9 @@
    "high": 13.0,
    "low": 12.2,
    "open": 12.2,
-   "volume": 370290,
-   "trades": 119,
-   "turnover": 4689752.1,
+   "volume": 370410,
+   "trades": 121,
+   "turnover": 4691300.1,
    "marketCap": 7562500000.0
   },
   {
@@ -3013,9 +3013,9 @@
    "high": 83.0,
    "low": 80.2,
    "open": 80.9,
-   "volume": 155773,
-   "trades": 112,
-   "turnover": 12712844.2,
+   "volume": 155885,
+   "trades": 117,
+   "turnover": 12722139.7,
    "marketCap": 10976172000.0
   },
   {
@@ -3103,9 +3103,9 @@
    "high": 36.0,
    "low": 33.0,
    "open": 33.5,
-   "volume": 628820,
-   "trades": 207,
-   "turnover": 21494436.1,
+   "volume": 629820,
+   "trades": 208,
+   "turnover": 21528836.1,
    "marketCap": 31406250000.0
   },
   {
@@ -3133,9 +3133,9 @@
    "high": 10.5,
    "low": 10.0,
    "open": 10.0,
-   "volume": 430871,
-   "trades": 104,
-   "turnover": 4446839.6,
+   "volume": 430872,
+   "trades": 105,
+   "turnover": 4446849.9,
    "marketCap": 8129959306.6
   },
   {
@@ -3358,9 +3358,9 @@
    "high": 9.5,
    "low": 8.0,
    "open": 8.0,
-   "volume": 1860851,
-   "trades": 249,
-   "turnover": 16306276.2,
+   "volume": 1865651,
+   "trades": 250,
+   "turnover": 16349956.2,
    "marketCap": 7622060160.0
   },
   {
@@ -3523,9 +3523,9 @@
    "high": 6.6,
    "low": 6.0,
    "open": 6.3,
-   "volume": 317427,
-   "trades": 126,
-   "turnover": 2017139.1,
+   "volume": 343367,
+   "trades": 127,
+   "turnover": 2183155.1,
    "marketCap": 8511073671.9
   },
   {
@@ -3943,9 +3943,9 @@
    "high": 81.0,
    "low": 80.0,
    "open": 80.5,
-   "volume": 3943,
-   "trades": 37,
-   "turnover": 315930.1,
+   "volume": 3953,
+   "trades": 38,
+   "turnover": 316730.1,
    "marketCap": 6432000000.0
   },
   {
@@ -4078,9 +4078,9 @@
    "high": 86.7,
    "low": 84.9,
    "open": 86.7,
-   "volume": 63050,
-   "trades": 197,
-   "turnover": 5372254.1,
+   "volume": 63070,
+   "trades": 198,
+   "turnover": 5373974.1,
    "marketCap": 97832853819.6
   },
   {
@@ -4108,9 +4108,9 @@
    "high": 15.9,
    "low": 15.0,
    "open": 15.8,
-   "volume": 305258,
-   "trades": 132,
-   "turnover": 4629248.4,
+   "volume": 306258,
+   "trades": 133,
+   "turnover": 4644748.4,
    "marketCap": 1945975464.6
   },
   {
