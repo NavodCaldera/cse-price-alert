@@ -5,7 +5,7 @@
       "id": "cd1b64b1-4509-4420-9d2b-5fc701ab440d",
       "symbol": "VFIN.N0000",
       "name": "VALLIBEL FINANCE PLC",
-      "threshold": 90,
+      "threshold": 80,
       "direction": "below",
       "startDate": "2026-08-11",
       "endDate": "2026-12-31",
@@ -15,20 +15,10 @@
       "id": "bafffff4-903a-466f-b4a4-0c16ec03e256",
       "symbol": "LFIN.N0000",
       "name": "LB FINANCE PLC",
-      "threshold": 155,
+      "threshold": 143,
       "direction": "below",
       "startDate": "2026-08-11",
       "endDate": "2026-12-31",
-      "note": ""
-    },
-    {
-      "id": "8d17cd42-fecd-4cbf-bb2f-91bb1992b751",
-      "symbol": "AAF.N0000",
-      "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 46,
-      "direction": "below",
-      "startDate": "2026-09-21",
-      "endDate": "2026-12-20",
       "note": ""
     },
     {
@@ -42,16 +32,6 @@
       "note": ""
     },
     {
-      "id": "a739d055-0c71-474a-9deb-8d54a585462a",
-      "symbol": "AAF.N0000",
-      "name": "ASIA ASSET FINANCE PLC",
-      "threshold": 45.5,
-      "direction": "below",
-      "startDate": "2026-09-14",
-      "endDate": "2026-12-31",
-      "note": ""
-    },
-    {
       "id": "997cace2-1e37-431f-bca5-7bb74adb1041",
       "symbol": "PKME.N0000",
       "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
@@ -59,16 +39,6 @@
       "direction": "below",
       "startDate": "2026-09-21",
       "endDate": "2026-12-20",
-      "note": ""
-    },
-    {
-      "id": "f535a159-c174-43c8-ad21-48e7af13535e",
-      "symbol": "VFIN.N0000",
-      "name": "VALLIBEL FINANCE PLC",
-      "threshold": 84,
-      "direction": "below",
-      "startDate": "2026-10-07",
-      "endDate": "2026-12-31",
       "note": ""
     }
   ]
