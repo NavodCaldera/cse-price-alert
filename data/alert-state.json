@@ -1,20 +1,20 @@
 {
- "updatedAt": "2026-10-23T12:00:33+05:30",
+ "updatedAt": "2026-10-23T12:15:28+05:30",
  "rules": {
   "cd1b64b1-4509-4420-9d2b-5fc701ab440d": {
    "triggeredSince": "2026-10-23T09:45:25+05:30",
    "lastNotified": "2026-10-23T09:45:25+05:30",
-   "lastPrice": 76.5
+   "lastPrice": 77.5
   },
   "bafffff4-903a-466f-b4a4-0c16ec03e256": {
    "triggeredSince": "2026-10-23T09:45:25+05:30",
    "lastNotified": "2026-10-23T09:45:25+05:30",
-   "lastPrice": 141.0
+   "lastPrice": 140.0
   },
   "95ff4952-52ad-4733-8200-f48e2fc77f59": {
    "triggeredSince": "2026-10-23T11:30:37+05:30",
    "lastNotified": "2026-10-23T11:30:37+05:30",
-   "lastPrice": 40.7
+   "lastPrice": 42.7
   }
  }
 }
