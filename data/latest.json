@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T14:30:34+05:30",
+ "updatedAt": "2026-10-29T14:45:23+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 288,
  "quotes": [
@@ -166,7 +166,7 @@
    "volume": 7558,
    "trades": 23,
    "turnover": 99058.6,
-   "marketCap": 6450000000.0
+   "marketCap": 6600000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -621,10 +621,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.7,
+   "price": 12.5,
    "previousClose": 12.5,
-   "change": 0.2,
-   "changePct": 1.6,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.7,
    "low": 12.2,
    "open": 12.2,
@@ -661,7 +661,7 @@
    "volume": 37441,
    "trades": 31,
    "turnover": 429266.9,
-   "marketCap": 23414157598.5
+   "marketCap": 23621362533.0
   },
   {
    "symbol": "CALT.N0000",
@@ -736,7 +736,7 @@
    "volume": 1802353,
    "trades": 201,
    "turnover": 12350789.0,
-   "marketCap": 8306947148.6
+   "marketCap": 8430931434.4
   },
   {
    "symbol": "CCS.N0000",
@@ -1261,7 +1261,7 @@
    "volume": 554432,
    "trades": 127,
    "turnover": 6806157.4,
-   "marketCap": 5883332500.0
+   "marketCap": 5742132520.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -2071,7 +2071,7 @@
    "volume": 251951,
    "trades": 30,
    "turnover": 3784294.0,
-   "marketCap": 2564751065.6
+   "marketCap": 2668029632.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2131,7 +2131,7 @@
    "volume": 2154956,
    "trades": 301,
    "turnover": 19492979.2,
-   "marketCap": 20930000000.0
+   "marketCap": 20470000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2586,17 +2586,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 7.4,
+   "price": 7.3,
    "previousClose": 7.5,
-   "change": -0.1,
-   "changePct": -1.33,
+   "change": -0.2,
+   "changePct": -2.67,
    "high": 7.7,
    "low": 7.0,
    "open": 7.7,
    "volume": 1600215,
    "trades": 187,
    "turnover": 11325848.8,
-   "marketCap": 2034375000.0
+   "marketCap": 1980125000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2806,7 +2806,7 @@
    "volume": 7568,
    "trades": 20,
    "turnover": 110024.0,
-   "marketCap": 1976695692.4
+   "marketCap": 2018164832.8
   },
   {
    "symbol": "MGT.N0000",
@@ -3156,17 +3156,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 152.75,
+   "price": 153.0,
    "previousClose": 150.0,
-   "change": 2.75,
-   "changePct": 1.83,
+   "change": 3.0,
+   "changePct": 2.0,
    "high": 155.5,
    "low": 152.75,
    "open": 153.5,
    "volume": 174645,
    "trades": 119,
    "turnover": 26730596.0,
-   "marketCap": 50073440850.0
+   "marketCap": 51074909667.0
   },
   {
    "symbol": "PLC.N0000",
@@ -4126,7 +4126,7 @@
    "volume": 1658339,
    "trades": 137,
    "turnover": 3535902.2,
-   "marketCap": 6356970734.0
+   "marketCap": 6674819270.7
   },
   {
    "symbol": "UCAR.N0000",
@@ -4296,17 +4296,17 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 11.1,
+   "price": 11.0,
    "previousClose": 10.1,
-   "change": 1.0,
-   "changePct": 9.9,
+   "change": 0.9,
+   "changePct": 8.91,
    "high": 11.5,
    "low": 10.0,
    "open": 10.0,
    "volume": 80729,
    "trades": 60,
    "turnover": 877804.0,
-   "marketCap": 12373034683.9
+   "marketCap": 13475582329.0
   },
   {
    "symbol": "YORK.N0000",
