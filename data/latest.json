@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-02T14:30:37+05:30",
+ "updatedAt": "2026-11-02T14:45:24+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 278,
  "quotes": [
@@ -121,7 +121,7 @@
    "volume": 602,
    "trades": 5,
    "turnover": 12894.2,
-   "marketCap": 827310000.0
+   "marketCap": 808335000.0
   },
   {
    "symbol": "AFSL.N0000",
@@ -166,7 +166,7 @@
    "volume": 14274,
    "trades": 15,
    "turnover": 184564.6,
-   "marketCap": 6500000000.0
+   "marketCap": 6450000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -591,10 +591,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.7,
+   "price": 12.5,
    "previousClose": 12.5,
-   "change": 0.2,
-   "changePct": 1.6,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.7,
    "low": 12.7,
    "open": 12.7,
@@ -621,10 +621,10 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 11.5,
+   "price": 11.4,
    "previousClose": 11.4,
-   "change": 0.1,
-   "changePct": 0.88,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 11.5,
    "low": 11.3,
    "open": 11.4,
@@ -1201,7 +1201,7 @@
    "volume": 54580,
    "trades": 31,
    "turnover": 653909.0,
-   "marketCap": 5647999200.0
+   "marketCap": 5600932540.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -1996,7 +1996,7 @@
    "volume": 1580,
    "trades": 6,
    "turnover": 24393.8,
-   "marketCap": 2650816537.6
+   "marketCap": 2668029632.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2056,7 +2056,7 @@
    "volume": 237116,
    "trades": 118,
    "turnover": 2109629.2,
-   "marketCap": 20700000000.0
+   "marketCap": 20470000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2506,7 +2506,7 @@
    "volume": 68731,
    "trades": 24,
    "turnover": 502837.3,
-   "marketCap": 1980125000.0
+   "marketCap": 1953000000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2731,7 +2731,7 @@
    "volume": 4089,
    "trades": 29,
    "turnover": 56979.4,
-   "marketCap": 2004341786.0
+   "marketCap": 1921403505.2
   },
   {
    "symbol": "MGT.N0000",
@@ -3081,17 +3081,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 155.0,
+   "price": 154.75,
    "previousClose": 153.5,
-   "change": 1.5,
-   "changePct": 0.98,
+   "change": 1.25,
+   "changePct": 0.81,
    "high": 156.0,
    "low": 154.0,
    "open": 156.0,
    "volume": 151769,
    "trades": 83,
    "turnover": 23510926.5,
-   "marketCap": 51241821136.5
+   "marketCap": 51659099810.25
   },
   {
    "symbol": "PLC.N0000",
@@ -4156,7 +4156,7 @@
    "volume": 13738,
    "trades": 25,
    "turnover": 150080.6,
-   "marketCap": 13353077035.1
+   "marketCap": 13108066447.3
   },
   {
    "symbol": "YORK.N0000",
