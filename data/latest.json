@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T14:30:34+05:30",
+ "updatedAt": "2026-11-13T14:45:23+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 289,
  "quotes": [
@@ -156,17 +156,17 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 13.5,
+   "price": 13.2,
    "previousClose": 13.6,
-   "change": -0.1,
-   "changePct": -0.74,
+   "change": -0.4,
+   "changePct": -2.94,
    "high": 13.5,
    "low": 13.2,
    "open": 13.5,
    "volume": 64214,
    "trades": 50,
    "turnover": 858906.0,
-   "marketCap": 6800000000.0
+   "marketCap": 6600000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -621,10 +621,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.6,
+   "price": 12.7,
    "previousClose": 12.7,
-   "change": -0.1,
-   "changePct": -0.79,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.6,
    "low": 12.6,
    "open": 12.6,
@@ -651,17 +651,17 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 13.5,
+   "price": 13.4,
    "previousClose": 13.7,
-   "change": -0.2,
-   "changePct": -1.46,
+   "change": -0.3,
+   "changePct": -2.19,
    "high": 13.7,
    "low": 13.2,
    "open": 13.5,
    "volume": 184338,
    "trades": 56,
    "turnover": 2486437.1,
-   "marketCap": 28387076026.5
+   "marketCap": 27765461223.0
   },
   {
    "symbol": "CALI.U0000",
@@ -676,7 +676,7 @@
    "volume": 2000,
    "trades": 1,
    "turnover": 26800.0,
-   "marketCap": 2578928892.4
+   "marketCap": 2598319335.2
   },
   {
    "symbol": "CALT.N0000",
@@ -696,10 +696,10 @@
   {
    "symbol": "CALU.U0000",
    "name": "CAL THREE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 10.7,
+   "price": 10.2,
    "previousClose": 10.2,
-   "change": 0.5,
-   "changePct": 4.9,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 10.7,
    "low": 10.7,
    "open": 10.7,
@@ -756,17 +756,17 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.1,
+   "price": 7.0,
    "previousClose": 7.2,
-   "change": -0.1,
-   "changePct": -1.39,
+   "change": -0.2,
+   "changePct": -2.78,
    "high": 7.3,
    "low": 7.0,
    "open": 7.3,
    "volume": 711150,
    "trades": 135,
    "turnover": 4991119.8,
-   "marketCap": 8926868577.6
+   "marketCap": 8678900006.0
   },
   {
    "symbol": "CCS.N0000",
@@ -1251,10 +1251,10 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 14.1,
+   "price": 14.0,
    "previousClose": 14.0,
-   "change": 0.1,
-   "changePct": 0.71,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 14.7,
    "low": 13.6,
    "open": 14.5,
@@ -1996,7 +1996,7 @@
    "volume": 704,
    "trades": 30,
    "turnover": 1929312.0,
-   "marketCap": 4506223325.0
+   "marketCap": 5632522245.0
   },
   {
    "symbol": "JAT.N0000",
@@ -2031,17 +2031,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 18.0,
+   "price": 17.9,
    "previousClose": 18.2,
-   "change": -0.2,
-   "changePct": -1.1,
+   "change": -0.3,
+   "changePct": -1.65,
    "high": 18.3,
    "low": 17.6,
    "open": 18.3,
    "volume": 297073,
    "trades": 98,
    "turnover": 5325695.3,
-   "marketCap": 3132783180.8
+   "marketCap": 3081143897.6
   },
   {
    "symbol": "JINS.N0000",
@@ -2091,17 +2091,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI PLC",
-   "price": 9.9,
+   "price": 9.8,
    "previousClose": 10.0,
-   "change": -0.1,
-   "changePct": -1.0,
+   "change": -0.2,
+   "changePct": -2.0,
    "high": 10.4,
    "low": 9.8,
    "open": 10.4,
    "volume": 356040,
    "trades": 199,
    "turnover": 3537394.7,
-   "marketCap": 23000000000.0
+   "marketCap": 22540000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2571,17 +2571,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 8.8,
+   "price": 8.6,
    "previousClose": 8.5,
-   "change": 0.3,
-   "changePct": 3.53,
+   "change": 0.1,
+   "changePct": 1.18,
    "high": 8.8,
    "low": 8.4,
    "open": 8.5,
    "volume": 1382826,
    "trades": 119,
    "turnover": 11805099.1,
-   "marketCap": 2305625000.0
+   "marketCap": 2332750000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2796,17 +2796,17 @@
   {
    "symbol": "MFPE.N0000",
    "name": "MAHARAJA FOODS PLC",
-   "price": 15.9,
+   "price": 15.6,
    "previousClose": 16.1,
-   "change": -0.2,
-   "changePct": -1.24,
+   "change": -0.5,
+   "changePct": -3.11,
    "high": 16.3,
    "low": 15.5,
    "open": 16.3,
    "volume": 129553,
    "trades": 59,
    "turnover": 2051435.6,
-   "marketCap": 2225510534.8
+   "marketCap": 2156395300.8
   },
   {
    "symbol": "MGT.N0000",
@@ -3171,17 +3171,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 173.0,
+   "price": 171.75,
    "previousClose": 170.0,
-   "change": 3.0,
-   "changePct": 1.76,
+   "change": 1.75,
+   "changePct": 1.03,
    "high": 173.0,
    "low": 171.0,
    "open": 171.0,
    "volume": 406786,
    "trades": 278,
    "turnover": 69804406.0,
-   "marketCap": 56749899630.0
+   "marketCap": 57334089773.25
   },
   {
    "symbol": "PLC.N0000",
@@ -3208,9 +3208,9 @@
    "high": 42.0,
    "low": 39.9,
    "open": 42.0,
-   "volume": 422838,
-   "trades": 300,
-   "turnover": 17078788.0,
+   "volume": 421462,
+   "trades": 299,
+   "turnover": 17023197.6,
    "marketCap": 37968750000.0
   },
   {
@@ -3906,17 +3906,17 @@
   {
    "symbol": "TAJ.R0000",
    "name": "TAL LANKA HOTELS PLC",
-   "price": 2.2,
+   "price": 2.1,
    "previousClose": 0.5,
-   "change": 1.7,
-   "changePct": 340.0,
+   "change": 1.6,
+   "changePct": 320.0,
    "high": 2.5,
    "low": 1.5,
    "open": 1.5,
    "volume": 3961782,
    "trades": 527,
    "turnover": 7574924.0,
-   "marketCap": 33418392.5
+   "marketCap": 140357248.5
   },
   {
    "symbol": "TANG.N0000",
@@ -4131,10 +4131,10 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.5,
+   "price": 2.4,
    "previousClose": 2.4,
-   "change": 0.1,
-   "changePct": 4.17,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 2.5,
    "low": 2.3,
    "open": 2.5,
@@ -4311,17 +4311,17 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 12.1,
+   "price": 12.0,
    "previousClose": 12.2,
-   "change": -0.1,
-   "changePct": -0.82,
+   "change": -0.2,
+   "changePct": -1.64,
    "high": 12.3,
    "low": 12.0,
    "open": 12.2,
    "volume": 65506,
    "trades": 34,
    "turnover": 787055.7,
-   "marketCap": 14945645855.8
+   "marketCap": 14700635268.0
   },
   {
    "symbol": "YORK.N0000",
