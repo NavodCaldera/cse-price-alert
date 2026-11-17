@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:30:37+05:30",
+ "updatedAt": "2026-11-17T14:45:24+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 287,
  "quotes": [
@@ -156,17 +156,17 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 13.1,
+   "price": 13.2,
    "previousClose": 13.1,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.76,
    "high": 13.5,
    "low": 13.1,
    "open": 13.5,
    "volume": 34331,
    "trades": 27,
    "turnover": 458944.1,
-   "marketCap": 6550000000.0
+   "marketCap": 6600000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -646,7 +646,7 @@
    "volume": 153414,
    "trades": 37,
    "turnover": 2013539.4,
-   "marketCap": 27351051354.0
+   "marketCap": 27143846419.5
   },
   {
    "symbol": "CALI.U0000",
@@ -661,7 +661,7 @@
    "volume": 101,
    "trades": 2,
    "turnover": 1333.2,
-   "marketCap": 2598319335.2
+   "marketCap": 2559538449.6
   },
   {
    "symbol": "CALT.N0000",
@@ -691,7 +691,7 @@
    "volume": 100,
    "trades": 1,
    "turnover": 1010.0,
-   "marketCap": 8580886425.0
+   "marketCap": 8496760087.5
   },
   {
    "symbol": "CARE.N0000",
@@ -1266,17 +1266,17 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 15.2,
+   "price": 15.4,
    "previousClose": 15.2,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.2,
+   "changePct": 1.32,
    "high": 15.9,
    "low": 15.2,
    "open": 15.3,
    "volume": 3908629,
    "trades": 620,
    "turnover": 60631294.6,
-   "marketCap": 7154132320.0
+   "marketCap": 7248265640.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -2016,17 +2016,17 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 2797.75,
+   "price": 2792.0,
    "previousClose": 3045.25,
-   "change": -247.5,
-   "changePct": -8.13,
+   "change": -253.25,
+   "changePct": -8.32,
    "high": 2990.0,
    "low": 2763.0,
    "open": 2800.0,
    "volume": 2062,
    "trades": 191,
    "turnover": 5876261.5,
-   "marketCap": 6258871872.5
+   "marketCap": 5738369680.0
   },
   {
    "symbol": "JAT.N0000",
@@ -2061,17 +2061,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 17.6,
+   "price": 17.5,
    "previousClose": 17.4,
-   "change": 0.2,
-   "changePct": 1.15,
+   "change": 0.1,
+   "changePct": 0.57,
    "high": 17.9,
    "low": 17.4,
    "open": 17.9,
    "volume": 28486,
    "trades": 56,
    "turnover": 500475.9,
-   "marketCap": 2995078425.6
+   "marketCap": 3012291520.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2131,7 +2131,7 @@
    "volume": 339929,
    "trades": 149,
    "turnover": 3280904.5,
-   "marketCap": 22310000000.0
+   "marketCap": 22080000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2601,17 +2601,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 8.3,
+   "price": 8.2,
    "previousClose": 8.5,
-   "change": -0.2,
-   "changePct": -2.35,
+   "change": -0.3,
+   "changePct": -3.53,
    "high": 8.7,
    "low": 8.2,
    "open": 8.7,
    "volume": 85888,
    "trades": 34,
    "turnover": 713978.4,
-   "marketCap": 2305625000.0
+   "marketCap": 2224250000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2811,10 +2811,10 @@
   {
    "symbol": "MFPE.N0000",
    "name": "MAHARAJA FOODS PLC",
-   "price": 15.4,
+   "price": 15.3,
    "previousClose": 15.3,
-   "change": 0.1,
-   "changePct": 0.65,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 15.7,
    "low": 15.3,
    "open": 15.5,
@@ -3181,7 +3181,7 @@
    "volume": 398674,
    "trades": 150,
    "turnover": 68675649.0,
-   "marketCap": 57250634038.5
+   "marketCap": 57417545508.0
   },
   {
    "symbol": "PLC.N0000",
@@ -3876,17 +3876,17 @@
   {
    "symbol": "TAJ.R0000",
    "name": "TAL LANKA HOTELS PLC",
-   "price": 1.5,
+   "price": 1.6,
    "previousClose": 1.9,
-   "change": -0.4,
-   "changePct": -21.05,
+   "change": -0.3,
+   "changePct": -15.79,
    "high": 2.0,
    "low": 1.4,
    "open": 2.0,
    "volume": 4751456,
    "trades": 583,
    "turnover": 7615569.6,
-   "marketCap": 126989891.5
+   "marketCap": 106938856.0
   },
   {
    "symbol": "TANG.N0000",
@@ -4291,7 +4291,7 @@
    "volume": 27407,
    "trades": 36,
    "turnover": 323129.5,
-   "marketCap": 14823140561.9
+   "marketCap": 14333119386.3
   },
   {
    "symbol": "YORK.N0000",
