@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T14:30:36+05:30",
+ "updatedAt": "2026-11-25T14:45:24+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 290,
  "quotes": [
@@ -166,7 +166,7 @@
    "volume": 10644,
    "trades": 11,
    "turnover": 138702.3,
-   "marketCap": 6550000000.0
+   "marketCap": 6500000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -606,10 +606,10 @@
   {
    "symbol": "CALC.U0000",
    "name": "CAL FIVE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 12.7,
+   "price": 12.5,
    "previousClose": 12.5,
-   "change": 0.2,
-   "changePct": 1.6,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 12.7,
    "low": 12.7,
    "open": 12.7,
@@ -636,25 +636,25 @@
   {
    "symbol": "CALH.N0000",
    "name": "CAPITAL ALLIANCE HOLDINGS PLC",
-   "price": 12.7,
+   "price": 12.6,
    "previousClose": 12.3,
-   "change": 0.4,
-   "changePct": 3.25,
+   "change": 0.3,
+   "changePct": 2.44,
    "high": 12.8,
    "low": 12.5,
    "open": 12.5,
    "volume": 45882,
    "trades": 22,
    "turnover": 573666.3,
-   "marketCap": 25486206943.5
+   "marketCap": 26107821747.0
   },
   {
    "symbol": "CALI.U0000",
    "name": "CAL FIVE YEAR OPTIMUM FUND (\u201cUnits\u201d)",
-   "price": 13.2,
+   "price": 13.0,
    "previousClose": 13.0,
-   "change": 0.2,
-   "changePct": 1.54,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 13.2,
    "low": 13.0,
    "open": 13.0,
@@ -681,17 +681,17 @@
   {
    "symbol": "CALU.U0000",
    "name": "CAL THREE YEAR CLOSED END FUND (\u201cUnits\u201d)",
-   "price": 10.0,
+   "price": 9.6,
    "previousClose": 10.5,
-   "change": -0.5,
-   "changePct": -4.76,
+   "change": -0.9,
+   "changePct": -8.57,
    "high": 10.0,
    "low": 9.2,
    "open": 9.6,
    "volume": 10127,
    "trades": 16,
    "turnover": 93943.6,
-   "marketCap": 8833265437.5
+   "marketCap": 8076128400.0
   },
   {
    "symbol": "CARE.N0000",
@@ -741,10 +741,10 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.1,
+   "price": 7.0,
    "previousClose": 7.0,
-   "change": 0.1,
-   "changePct": 1.43,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 7.2,
    "low": 7.0,
    "open": 7.1,
@@ -1266,10 +1266,10 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 14.6,
+   "price": 14.7,
    "previousClose": 14.7,
-   "change": -0.1,
-   "changePct": -0.68,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 15.0,
    "low": 14.5,
    "open": 14.7,
@@ -2016,17 +2016,17 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 2456.0,
+   "price": 2489.75,
    "previousClose": 2478.25,
-   "change": -22.25,
-   "changePct": -0.9,
+   "change": 11.5,
+   "changePct": 0.46,
    "high": 2550.0,
    "low": 2450.0,
    "open": 2549.0,
    "volume": 246,
    "trades": 39,
    "turnover": 612782.25,
-   "marketCap": 5093522442.5
+   "marketCap": 5117158277.5
   },
   {
    "symbol": "JAT.N0000",
@@ -2061,17 +2061,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 17.9,
+   "price": 18.0,
    "previousClose": 17.9,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 0.56,
    "high": 18.3,
    "low": 17.9,
    "open": 18.0,
    "volume": 803654,
    "trades": 209,
    "turnover": 14530974.1,
-   "marketCap": 3081143897.6
+   "marketCap": 3098356992.0
   },
   {
    "symbol": "JINS.N0000",
@@ -2121,17 +2121,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI PLC",
-   "price": 9.6,
+   "price": 9.5,
    "previousClose": 9.4,
-   "change": 0.2,
-   "changePct": 2.13,
+   "change": 0.1,
+   "changePct": 1.06,
    "high": 9.6,
    "low": 9.2,
    "open": 9.3,
    "volume": 383712,
    "trades": 110,
    "turnover": 3616039.5,
-   "marketCap": 21620000000.0
+   "marketCap": 21850000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2611,7 +2611,7 @@
    "volume": 694348,
    "trades": 128,
    "turnover": 5522202.6,
-   "marketCap": 2278500000.0
+   "marketCap": 2170000000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -3201,17 +3201,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 187.5,
+   "price": 187.0,
    "previousClose": 185.0,
-   "change": 2.5,
-   "changePct": 1.35,
+   "change": 2.0,
+   "changePct": 1.08,
    "high": 193.0,
    "low": 185.0,
    "open": 186.0,
    "volume": 276537,
    "trades": 560,
    "turnover": 52460972.0,
-   "marketCap": 61757243715.0
+   "marketCap": 62424889593.0
   },
   {
    "symbol": "PLC.N0000",
@@ -4146,10 +4146,10 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.4,
+   "price": 2.3,
    "previousClose": 2.3,
-   "change": 0.1,
-   "changePct": 4.35,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 2.4,
    "low": 2.2,
    "open": 2.3,
@@ -4336,7 +4336,7 @@
    "volume": 184563,
    "trades": 35,
    "turnover": 1989466.0,
-   "marketCap": 12863055859.5
+   "marketCap": 13108066447.3
   },
   {
    "symbol": "YORK.N0000",
