@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T14:30:34+05:30",
+ "updatedAt": "2026-11-26T14:45:31+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 280,
  "quotes": [
@@ -156,17 +156,17 @@
   {
    "symbol": "AGPL.N0000",
    "name": "AGARAPATANA PLANTATIONS PLC",
-   "price": 13.2,
+   "price": 13.3,
    "previousClose": 13.0,
-   "change": 0.2,
-   "changePct": 1.54,
+   "change": 0.3,
+   "changePct": 2.31,
    "high": 13.4,
    "low": 13.0,
    "open": 13.3,
    "volume": 3170,
    "trades": 10,
    "turnover": 42101.7,
-   "marketCap": 6500000000.0
+   "marketCap": 6650000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -661,7 +661,7 @@
    "volume": 891,
    "trades": 3,
    "turnover": 11760.8,
-   "marketCap": 2520757564.0
+   "marketCap": 2559538449.6
   },
   {
    "symbol": "CALT.N0000",
@@ -1266,17 +1266,17 @@
   {
    "symbol": "CSLK.N0000",
    "name": "CABLE SOLUTIONS PLC",
-   "price": 14.6,
+   "price": 14.5,
    "previousClose": 14.7,
-   "change": -0.1,
-   "changePct": -0.68,
+   "change": -0.2,
+   "changePct": -1.36,
    "high": 14.8,
    "low": 14.5,
    "open": 14.8,
    "volume": 240231,
    "trades": 67,
    "turnover": 3497560.8,
-   "marketCap": 6918799020.0
+   "marketCap": 6824665700.0
   },
   {
    "symbol": "CTBL.N0000",
@@ -2016,17 +2016,17 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 2551.0,
+   "price": 2524.75,
    "previousClose": 2489.75,
-   "change": 61.25,
-   "changePct": 2.46,
+   "change": 35.0,
+   "changePct": 1.41,
    "high": 2699.5,
    "low": 2451.5,
    "open": 2451.5,
    "volume": 2417,
    "trades": 83,
    "turnover": 6084879.0,
-   "marketCap": 5117158277.5
+   "marketCap": 5189093427.5
   },
   {
    "symbol": "JAT.N0000",
@@ -2121,17 +2121,17 @@
   {
    "symbol": "JXG.N0000",
    "name": "JANASHAKTHI PLC",
-   "price": 10.0,
+   "price": 10.1,
    "previousClose": 9.5,
-   "change": 0.5,
-   "changePct": 5.26,
+   "change": 0.6,
+   "changePct": 6.32,
    "high": 10.4,
    "low": 9.9,
    "open": 10.0,
    "volume": 6040995,
    "trades": 517,
    "turnover": 60930429.6,
-   "marketCap": 21850000000.0
+   "marketCap": 23230000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2601,17 +2601,17 @@
   {
    "symbol": "LUMX.N0000",
    "name": "LUMINEX PLC",
-   "price": 8.0,
+   "price": 7.9,
    "previousClose": 8.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -1.25,
    "high": 8.0,
    "low": 7.7,
    "open": 8.0,
    "volume": 66422,
    "trades": 51,
    "turnover": 521852.3,
-   "marketCap": 2170000000.0
+   "marketCap": 2142875000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2806,7 +2806,7 @@
    "volume": 58498,
    "trades": 23,
    "turnover": 894990.3,
-   "marketCap": 2087280066.8
+   "marketCap": 2128749207.2
   },
   {
    "symbol": "MGT.N0000",
@@ -3111,17 +3111,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 190.0,
+   "price": 189.5,
    "previousClose": 187.0,
-   "change": 3.0,
-   "changePct": 1.6,
+   "change": 2.5,
+   "changePct": 1.34,
    "high": 191.0,
    "low": 186.0,
    "open": 187.5,
    "volume": 501201,
    "trades": 287,
    "turnover": 94665563.75,
-   "marketCap": 62424889593.0
+   "marketCap": 63259446940.5
   },
   {
    "symbol": "PLC.N0000",
@@ -4186,7 +4186,7 @@
    "volume": 22274,
    "trades": 31,
    "turnover": 234248.7,
-   "marketCap": 13108066447.3
+   "marketCap": 12985561153.4
   },
   {
    "symbol": "YORK.N0000",
