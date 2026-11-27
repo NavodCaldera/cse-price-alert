@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T14:30:33+05:30",
+ "updatedAt": "2026-11-27T14:45:22+05:30",
  "marketStatus": "Market Close (Statistics Being Finalized)",
  "count": 283,
  "quotes": [
@@ -166,7 +166,7 @@
    "volume": 14257,
    "trades": 10,
    "turnover": 187864.0,
-   "marketCap": 6650000000.0
+   "marketCap": 6600000000.0
   },
   {
    "symbol": "AGST.N0000",
@@ -616,7 +616,7 @@
    "volume": 20323,
    "trades": 11,
    "turnover": 244157.5,
-   "marketCap": 11436568075.0
+   "marketCap": 10979105352.0
   },
   {
    "symbol": "CALF.N0000",
@@ -646,7 +646,7 @@
    "volume": 654623,
    "trades": 50,
    "turnover": 8183108.2,
-   "marketCap": 26107821747.0
+   "marketCap": 25900616812.5
   },
   {
    "symbol": "CALI.U0000",
@@ -741,17 +741,17 @@
   {
    "symbol": "CBNK.N0000",
    "name": "CARGILLS BANK PLC",
-   "price": 7.0,
+   "price": 7.1,
    "previousClose": 7.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": 0.1,
+   "changePct": 1.43,
    "high": 7.1,
    "low": 7.0,
    "open": 7.1,
    "volume": 62818,
    "trades": 48,
    "turnover": 444432.1,
-   "marketCap": 8678900006.0
+   "marketCap": 8802884291.8
   },
   {
    "symbol": "CCS.N0000",
@@ -2031,17 +2031,17 @@
   {
    "symbol": "INME.N0000",
    "name": "INSUREME INSURANCE BROKERS PLC",
-   "price": 2550.0,
+   "price": 2547.75,
    "previousClose": 2524.75,
-   "change": 25.25,
-   "changePct": 1.0,
+   "change": 23.0,
+   "changePct": 0.91,
    "high": 2645.0,
    "low": 2525.0,
    "open": 2600.0,
    "volume": 783,
    "trades": 26,
    "turnover": 1990821.5,
-   "marketCap": 5189093427.5
+   "marketCap": 5236365097.5
   },
   {
    "symbol": "JAT.N0000",
@@ -2076,17 +2076,17 @@
   {
    "symbol": "JFP.N0000",
    "name": "JF PACKAGING PLC",
-   "price": 18.0,
+   "price": 17.9,
    "previousClose": 18.0,
-   "change": 0.0,
-   "changePct": 0.0,
+   "change": -0.1,
+   "changePct": -0.56,
    "high": 18.2,
    "low": 17.8,
    "open": 18.0,
    "volume": 543288,
    "trades": 135,
    "turnover": 9708520.5,
-   "marketCap": 3098356992.0
+   "marketCap": 3081143897.6
   },
   {
    "symbol": "JINS.N0000",
@@ -2146,7 +2146,7 @@
    "volume": 729175,
    "trades": 175,
    "turnover": 7281122.4,
-   "marketCap": 23230000000.0
+   "marketCap": 22770000000.0
   },
   {
    "symbol": "KAHA.N0000",
@@ -2596,7 +2596,7 @@
    "volume": 114771,
    "trades": 34,
    "turnover": 908545.8,
-   "marketCap": 2142875000.0
+   "marketCap": 2170000000.0
   },
   {
    "symbol": "LVEF.N0000",
@@ -2791,7 +2791,7 @@
    "volume": 27452,
    "trades": 40,
    "turnover": 414672.4,
-   "marketCap": 2128749207.2
+   "marketCap": 2101103113.6
   },
   {
    "symbol": "MGT.N0000",
@@ -3141,17 +3141,17 @@
   {
    "symbol": "PKME.N0000",
    "name": "DIGITAL MOBILITY SOLUTIONS LANKA PLC",
-   "price": 188.75,
+   "price": 187.75,
    "previousClose": 189.5,
-   "change": -0.75,
-   "changePct": -0.4,
+   "change": -1.75,
+   "changePct": -0.92,
    "high": 191.0,
    "low": 187.5,
    "open": 190.0,
    "volume": 426806,
    "trades": 205,
    "turnover": 80631079.25,
-   "marketCap": 63259446940.5
+   "marketCap": 62675256797.25
   },
   {
    "symbol": "PLC.N0000",
@@ -4041,10 +4041,10 @@
   {
    "symbol": "UBF.N0000",
    "name": "UB FINANCE PLC",
-   "price": 2.4,
+   "price": 2.3,
    "previousClose": 2.3,
-   "change": 0.1,
-   "changePct": 4.35,
+   "change": 0.0,
+   "changePct": 0.0,
    "high": 2.4,
    "low": 2.3,
    "open": 2.3,
@@ -4221,17 +4221,17 @@
   {
    "symbol": "WLTH.N0000",
    "name": "WEALTHTRUST SECURITIES PLC",
-   "price": 10.7,
+   "price": 10.5,
    "previousClose": 10.6,
-   "change": 0.1,
-   "changePct": 0.94,
+   "change": -0.1,
+   "changePct": -0.94,
    "high": 10.8,
    "low": 10.5,
    "open": 10.8,
    "volume": 152653,
    "trades": 38,
    "turnover": 1607120.7,
-   "marketCap": 12985561153.4
+   "marketCap": 12863055859.5
   },
   {
    "symbol": "YORK.N0000",
